@@ -65,6 +65,7 @@ export default {
     btnGo: 'Vstupi',
     knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
     knockRequested: 'Awaiting for a permission. People can see you through a peephole. 👀',
+    noAudio: 'No audio signal detected',
   },
   videoMenu: {
     hint: 'Phni menu',
