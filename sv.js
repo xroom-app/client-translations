@@ -65,7 +65,7 @@ export default {
     btnGo: 'Börja',
     knockDenied: 'Din knock-begäran har nekats. Du kan inte komma in i rummet. :(',
     knockRequested: 'Vänta på tillstånd. Andra kan se dig genom en kikhull. 👀',
-    noAudio: 'Vi känner inte din mikrofon',
+    noAudio: '⚠️ Vi känner inte din mikrofon',
   },
   videoMenu: {
     hint: 'Meny',

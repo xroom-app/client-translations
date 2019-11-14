@@ -65,7 +65,7 @@ export default {
     btnGo: 'Get in',
     knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
     knockRequested: 'Awaiting for a permission. People can see you through a peephole. 👀',
-    noAudio: 'No mic signal detected',
+    noAudio: '⚠️ No mic signal detected',
   },
   videoMenu: {
     hint: 'Toggle menu',
