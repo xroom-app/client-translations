@@ -149,7 +149,7 @@ export default {
       'koristaješ Slack i hočeš poščediti vręme? Poprobuj naš <a href="//about.xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
       'Nedostavaješ video v Telegramu? Naš <a href="//about.xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> pomože tobě.',
       'Potrěba děliti kopirovany obraz? Ctrl+V v čatu, sdělamo ostatok.',
-      'klikni svoje ime da by izměniti jego kako męstno tako i oddaljeno.',
+      'Klikni svoje ime da by izměniti jego kako męstno tako i oddaljeno.',
     ]
   },
 }
