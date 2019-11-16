@@ -54,7 +54,8 @@ export default {
     title: 'Tvoja vlastna konferencija',
     btnGo: 'Hodi!',
     knowMore: 'Ob xroom',
-    placeholder: 'tvoja komnata',
+    nameRoom: 'nazovi komnatu:',
+    placeholder: 'piši tu',
     rejoinRoom: 'abo vstupi iznova',
   },
   wl: {

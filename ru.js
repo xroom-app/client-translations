@@ -54,7 +54,8 @@ export default {
     title: 'Твоя видеоконференция на максималках',
     btnGo: 'Поехали!',
     knowMore: 'Об xroom',
-    placeholder: 'что-нибудь',
+    nameRoom: 'назовите комнату:',
+    placeholder: 'впишите тут',
     rejoinRoom: 'или перезайти в',
   },
   wl: {

@@ -54,7 +54,8 @@ export default {
     title: 'Ditt konferensrum "on steroids"',
     btnGo: 'Kör!',
     knowMore: 'Om xroom',
-    placeholder: 'ditt rum',
+    nameRoom: 'namege rummet:',
+    placeholder: 'skriv här',
     rejoinRoom: 'eller återvända till',
   },
   wl: {

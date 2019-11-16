@@ -54,7 +54,8 @@ export default {
     title: 'Your conference room on steroids',
     btnGo: 'Go!',
     knowMore: 'About xroom',
-    placeholder: 'your room',
+    nameRoom: 'name your room:',
+    placeholder: 'type here',
     rejoinRoom: 'or rejoin',
   },
   wl: {
