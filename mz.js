@@ -150,6 +150,7 @@ export default {
       'Nedostavaješ video v Telegramu? Naš <a href="//about.xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> pomože tobě.',
       'Potrěba děliti kopirovany obraz? Ctrl+V v čatu, sdělamo ostatok.',
       'Klikni svoje ime da by izměniti jego kako męstno tako i oddaljeno.',
+      'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
     ]
   },
 }

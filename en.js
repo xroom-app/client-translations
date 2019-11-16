@@ -150,6 +150,7 @@ export default {
       'Miss video calls in Telegram? Our <a href="//about.xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
       'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
       'Click your name to change it both locally and for your peers.',
+      'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
     ]
   },
 }

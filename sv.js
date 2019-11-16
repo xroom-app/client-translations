@@ -151,6 +151,7 @@ export default {
       'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
       'Lock your room in one click, use locking plugin',
       'Click your name to change it both locally and for your peers.',
+      'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
     ]
   },
 }
