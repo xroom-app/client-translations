@@ -51,7 +51,7 @@ export default {
   },
   home: {
     nisdos: 'We do not use cookies',
-    title: 'Your conference room on steroids',
+    title: 'Your personal conference room',
     btnGo: 'Go!',
     knowMore: 'About xroom',
     nameRoom: 'name your room:',
