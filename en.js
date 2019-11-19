@@ -96,6 +96,7 @@ export default {
     you: 'You',
     someone: 'Someone',
     knocking: 'is knocking...',
+    poorNet: 'poor connection',
   },
   chat: {
     fileSending: 'Sending file: ',
@@ -114,6 +115,7 @@ export default {
     autoGetIn: 'Start chats without preview',
     soundEffects: 'Sound effects',
     noisyBackground: 'I am in a noisy place',
+    rtcDebug: 'Debug RTC',
     audioDevices: 'Audio sources',
     videoDevices: 'Video sources',
   },

@@ -96,6 +96,7 @@ export default {
     you: 'Du',
     someone: 'Någon',
     knocking: 'knackar...',
+    poorNet: 'dålig anslutning',
   },
   chat: {
     fileSending: 'Skickar en fil: ',
@@ -114,6 +115,7 @@ export default {
     autoGetIn: 'Starta chattar utan granskning',
     soundEffects: 'Ljudeffekter',
     noisyBackground: 'Jag på en högljudd plats',
+    rtcDebug: 'Debug RTC',
     audioDevices: 'Audio källor',
     videoDevices: 'Video källor',
   },

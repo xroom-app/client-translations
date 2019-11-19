@@ -96,6 +96,7 @@ export default {
     you: 'Ty',
     someone: 'Někto',
     knocking: 'stukaje...',
+    poorNet: 'zla svez',
   },
   chat: {
     fileSending: 'Sľemo fajl: ',
@@ -114,6 +115,7 @@ export default {
     autoGetIn: 'Otvarjati čaty bez podgleda',
     soundEffects: 'Zvukove efekty',
     noisyBackground: 'Ja v šumnym městu',
+    rtcDebug: 'Debug RTC',
     audioDevices: 'Audio sources',
     videoDevices: 'Video sources',
   },

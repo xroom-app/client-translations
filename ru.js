@@ -96,6 +96,7 @@ export default {
     you: 'Ты',
     someone: 'Кто-то',
     knocking: 'стучится...',
+    poorNet: 'плохое соединение',
   },
   chat: {
     fileSending: 'Отправка файла: ',
@@ -114,6 +115,7 @@ export default {
     autoGetIn: 'Входить в чат без превью',
     soundEffects: 'Звуковые эффекты',
     noisyBackground: 'Я в шумном месте',
+    rtcDebug: 'Отладка RTC',
     audioDevices: 'Аудио источники',
     videoDevices: 'Видео источники',
   },
