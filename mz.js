@@ -38,7 +38,7 @@ export default {
     kickedOutText: 'Tebe izphnųli iz komnaty',
     areYouSure: 'Jesi uvěrjen?',
     doYouWantToLeave: 'Či napravdu hočeš izidti?',
-    restartRequiredText: 'Tuta nastavka ovplyvnjaje prěmnogo, potrěbno je prědostati stranicų. Ale to bųde bystro, ne trevoži sę.',
+    restartRequiredText: 'Tuta nastavka ovplyvnjaje prěmnogo, potrěbno je prěsčitati stranicų. Ale to bųde bystro, ne trevoži sę.',
     onlySafariOnIOS: 'V iOS poddŕživajemo toliko Safari. "Blågodarimo", Apple!',
     cannotLoadPlugin: 'Dodatok "%s" ne rabotaje v tvojej prěględkě.',
     confirmFileSend: 'Hćeš odslati to?',
