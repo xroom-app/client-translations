@@ -5,4 +5,4 @@
 **Your pull requests are warmly welcome!**
 
 ### Interslavic support
-We support Interslavic language (Medžuslovjansky) as an experiment. It uses a non-standard language code `mz`.
+We support Interslavic language (Medžuslovjansky) as an experiment. It uses a non-standard language code `mz`. Until the translation is fully adopted you can see it in action via this link: https://xroom.app/?lang=mz.
