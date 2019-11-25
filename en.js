@@ -21,6 +21,7 @@ export default {
     deny: 'Deny',
   },
   mbox: {
+    notSupported: 'It looks like this browser does not support XROOM. 😢',
     success: 'Operation succeeded',
     failure: 'Operation failed',
     enterRoomName: 'Enter a room name please',

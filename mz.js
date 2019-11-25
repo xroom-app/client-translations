@@ -21,6 +21,7 @@ export default {
     deny: 'Odkaži',
   },
   mbox: {
+    notSupported: 'Kaže sę, že tuta prěględka ne poddŕživaje XROOM. 😢',
     success: 'Udalo sę',
     failure: 'Ne udalo sę',
     enterRoomName: 'Podaj nazvų komnaty, prosim',
