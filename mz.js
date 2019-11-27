@@ -21,7 +21,7 @@ export default {
     deny: 'Odkaži',
   },
   mbox: {
-    notSupported: 'Kaže sę, že tuta prěględka ne poddŕživaje XROOM. 😢',
+    notSupported: 'Kaže sę, že tuta prěględka ne poddŕživaje XROOM, abo WebRTC je nedějųći. 😢',
     success: 'Udalo sę',
     failure: 'Ne udalo sę',
     enterRoomName: 'Podaj nazvų komnaty, prosim',

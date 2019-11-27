@@ -21,7 +21,7 @@ export default {
     deny: 'Neka',
   },
   mbox: {
-    notSupported: 'Det känns som denna webläsare stöder inte XROOM. 😢',
+    notSupported: 'Det känns som denna webläsare stöder inte XROOM eller WebRTC är inaktiverat. 😢',
     success: 'Åtgärden lyckades',
     failure: 'Åtgärden misslyckades',
     enterRoomName: 'Vänligen ange rumsnamnet',
