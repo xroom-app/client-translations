@@ -49,6 +49,7 @@ export default {
     knockingFailedText: 'Knackningsförsöket misslyckades',
     doYouWantToKick: 'Vill du sparka ut den här användaren?',
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
+    tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
   },
   home: {
     nisdos: 'Inga "cookies" används här',

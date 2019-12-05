@@ -49,6 +49,7 @@ export default {
     knockingFailedText: 'Не удалось постучаться в дверь',
     doYouWantToKick: 'Вы точно хотите выгнать этого юзера?',
     deviceChanged: 'Было добавлено/убрано устройство ввода. Если оно не работает, зайдите в "Настройки" и выберите его вручную.',
+    tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
   },
   home: {
     nisdos: 'Мы не используем куки',

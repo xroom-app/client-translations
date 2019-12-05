@@ -49,6 +49,7 @@ export default {
     knockingFailedText: 'Knocking attempt failed',
     doYouWantToKick: 'Hočeš izphnuti sego koristnika?',
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
+    tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',
