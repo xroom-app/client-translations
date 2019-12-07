@@ -48,6 +48,7 @@ export default {
     knockingFailedText: 'Knocking attempt failed',
     doYouWantToKick: 'Hočeš izphnuti sego koristnika?',
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
+    allowCameraPlz: 'After you press OK please allow xroom to use your camera. Don\'t worry, you\'ll be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',
