@@ -48,9 +48,9 @@ export default {
     roomLockedTryKnockText: 'Komnata zamknena. Možeš poprositi pozvaljańja vstųpiti posrědstvom "stukańje" do dvere.',
     knockingFailedText: 'Knocking attempt failed',
     doYouWantToKick: 'Hočeš izphnuti sego koristnika?',
-    deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
-    allowCameraPlz: 'After you press OK please allow xroom to use your camera. Don\'t worry, you\'ll be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
-    tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
+    deviceChanged: 'Bylo dodano nove orųďje vvoda. Jestli ono ne råbotaje, otvori Nastavki i izberi jego rųčno.',
+    allowCameraPlz: 'Po tiskańja tipky "Dobro" dozvoli, prosimo, xroom koristati kamerų. Ne trevoži sę, jestli ne hočeš že by te viděli, možno bųde bez problemov zamknųti jų pozdněje.',
+    tooOldBrowser: 'Tvoja prěględka je zastarěla abo je proizvedena v Microsoft. Mnoge funkcije mogųt ne råbotati.',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',
