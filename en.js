@@ -21,6 +21,7 @@ export default {
     deny: 'Deny',
   },
   mbox: {
+    notSupported: 'It looks like this browser does not support XROOM or WebRTC is disabled. 😢',
     success: 'Operation succeeded',
     failure: 'Operation failed',
     enterRoomName: 'Enter a room name please',
@@ -49,6 +50,7 @@ export default {
     doYouWantToKick: 'Do you want to kick this user?',
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
     allowCameraPlz: 'After you press OK please allow xroom to use your camera. Don\'t worry, you\'ll be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
+    tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
   },
   home: {
     nisdos: 'We do not use cookies',

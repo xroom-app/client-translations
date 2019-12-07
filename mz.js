@@ -21,6 +21,7 @@ export default {
     deny: 'Odkaži',
   },
   mbox: {
+    notSupported: 'Kaže sę, že tuta prěględka ne poddŕživaje XROOM, abo WebRTC je nedějųći. 😢',
     success: 'Udalo sę',
     failure: 'Ne udalo sę',
     enterRoomName: 'Podaj nazvų komnaty, prosim',
@@ -49,6 +50,7 @@ export default {
     doYouWantToKick: 'Hočeš izphnuti sego koristnika?',
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
     allowCameraPlz: 'After you press OK please allow xroom to use your camera. Don\'t worry, you\'ll be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
+    tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',
