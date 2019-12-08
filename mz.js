@@ -49,7 +49,7 @@ export default {
     knockingFailedText: 'Knocking attempt failed',
     doYouWantToKick: 'Hočeš izphnuti sego koristnika?',
     deviceChanged: 'Bylo dodano nove orųďje vvoda. Jestli ono ne råbotaje, otvori Nastavki i izberi jego rųčno.',
-    allowCameraPlz: 'Po tiskańja tipky "Dobro" dozvoli, prosimo, xroom koristati kamerų. Ne trevoži sę, jestli ne hočeš že by te viděli, možno bųde bez problemov zamknųti jų pozdněje.',
+    allowCameraPlz: 'Po tiskańja tipky "Dobro" <b>dozvoli</b>, prosimo, xroom koristati kamerų.<br><br>Ne trevoži sę, jestli ne hočeš že by te viděli, možno bųde bez problemov zamknųti jų pozdněje.',
     tooOldBrowser: 'Tvoja prěględka je zastarěla abo je proizvedena v Microsoft. Mnoge funkcije mogųt ne råbotati.',
   },
   home: {
