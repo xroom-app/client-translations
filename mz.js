@@ -51,6 +51,7 @@ export default {
     deviceChanged: 'Bylo dodano nove orųďje vvoda. Jestli ono ne råbotaje, otvori Nastavki i izberi jego rųčno.',
     allowCameraPlz: 'Po tiskańja tipky "Dobro" <b>dozvoli</b>, prosimo, xroom koristati kamerų.<br><br>Ne trevoži sę, jestli ne hočeš že by te viděli, možno bųde bez problemov zamknųti jų pozdněje.',
     tooOldBrowser: 'Tvoja prěględka je zastarěla abo je proizvedena v Microsoft. Mnoge funkcije mogųt ne råbotati.',
+    pluginsLoadFailed: 'Failed loading plugins',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',

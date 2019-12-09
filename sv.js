@@ -51,6 +51,7 @@ export default {
     deviceChanged: 'Du har anslutit eller tagit bort en input-enhet. Om det inte fungerar nu välj det gärna manuellt på inställningar.',
     allowCameraPlz: 'Efter du trycker på OK, <b>låt</b> xroom använda din kamera.<br><br>Oroa dig inte, du ska kunna stänga av det igen innan du går in i rummet från menyn längst ner om du vill stanna osynlig.',
     tooOldBrowser: 'Din webbläsare är för gammal eller tillverkad av Microsoft. Många funktioner kan saknas.',
+    pluginsLoadFailed: 'Failed loading plugins',
   },
   home: {
     nisdos: 'Inga "cookies" används här',

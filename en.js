@@ -51,6 +51,7 @@ export default {
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
     allowCameraPlz: 'After you press OK please <b>allow</b> xroom to use your camera.<br><br>Don\'t worry! You will be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
     tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
+    pluginsLoadFailed: 'Failed loading plugins',
   },
   home: {
     nisdos: 'We do not use cookies',
