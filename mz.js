@@ -123,6 +123,7 @@ export default {
     rtcDebug: 'Dobrostaviti RTC',
     audioDevices: 'Žrla zvųka',
     videoDevices: 'Žrla obraza',
+    language: 'Język',
   },
   plugins: {
     by: 'od',

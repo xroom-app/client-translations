@@ -123,6 +123,7 @@ export default {
     rtcDebug: 'Отладка RTC',
     audioDevices: 'Аудио источники',
     videoDevices: 'Видео источники',
+    language: 'Язык',
   },
   plugins: {
     by: 'от',
