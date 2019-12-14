@@ -31,7 +31,7 @@ export default {
     isMicOnText: 'Jestli planuješ govoriti togda potrěbujemo dostup do tvojego mikrofona. Dozvoli to na sej stranici i klikni "Iznova".',
     iWillOnlyWatch: 'Ja toliko bųdų gleděti',
     iWillOnlyListen: 'Ja toliko bųdų slušati',
-    screenSharingText: 'Děľeńje ekrana ne je dozvoľeno. Prosim prověriti, že ono ne je zablokovane na sej stranici.<br><br>Takože sa sposobnosť toliko poddŕživama modernymi web-prěględkami kako like Chrome, Firefox, Yandex i t.d.',
+    screenSharingText: 'Děľeńje ekrana ne je dozvoľeno. Prosim prověriti, že ono ne je zablokovane na sej stranici.<br><br>Takože sa sposobnosť toliko poddŕživama modernymi web-prěględkami kako Chrome, Firefox, Yandex i t.d.',
     cannotFile: 'Zato že ne dŕžamo tvoje fajly, ne možemo dostaviti jih kogda někto svęže sę. Potrěbuješ sdělati to sam/a on-line.',
     cannotMessage: 'Zato že ne dŕžamo tvoje poslańja, ne možemo dostaviti jih kogda někto svęže sę. Potrěbuješ sdělati to sam/a on-line.',
     roomLockedText: 'Tojta komnata je zamknena',
