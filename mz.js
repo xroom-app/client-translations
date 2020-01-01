@@ -129,6 +129,7 @@ export default {
     by: 'od',
     size: 'veličina: %s kB',
     searchPlaceholder: 'išči...',
+    source: 'Žrlokod',
     add: {
       title: 'Dodati novy dodatok',
       descr: '⚙️ Izråbotyvaješ novy dodatok? Dodaj jego tu da by testovati. Ne zapisyvajemo jego, jestli prědostaješ strånicų on iznikne iz pamęti. Prirųčnik API dodatkov je dostųpny <a href="https://github.com/punarinta/xroom-plugins" target="_blank">tutaj</a>.',
