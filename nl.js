@@ -92,7 +92,7 @@ export default {
     plugins: 'Plugins',
   },
   waiting: {
-    invite: 'Nodig je collega\'s',
+    invite: 'Nodig je collega\'s uit',
     beforeCopy: 'klik om te kopieeren',
     afterCopy: 'gekopieerd!',
     webinar: 'Webinar is nog niet gestart',
