@@ -1,7 +1,7 @@
 export default {
   self: 'xroom',
-  on: 'sí',
-  off: 'no',
+  on: 'on',
+  off: 'off',
   title: '¿Quieres una conferencia?',
   buttons: {
     ok: 'OK',
@@ -31,9 +31,9 @@ export default {
     isMicOnText: 'Si deseas hablar, debes habilitar el mic. Habilítalo para esta página y presiona "Reintentar".',
     iWillOnlyWatch: 'Solo miraré',
     iWillOnlyListen: 'Solo escucharé',
-    screenSharingText: 'No es posible compartir pantalla. Asegúrate de que no esté bloqueado para esta página.<br><br>La función sólo está disponible en navegadores modernos como Chrome o Firefox.',
-    cannotFile: 'Como ni siquiera tocamos tus archivos, no podemos entregarlos cuando alguien se conecte. Debes hacerlo online.',
-    cannotMessage: 'Como ni siquiera tocamos tus mensajes, no podemos entregarlos cuando alguien se conecte. Debes hacerlo online.',
+    screenSharingText: 'No es posible compartir pantalla. Asegúrate de que la función no esté bloqueada para esta página.<br><br>La función sólo está disponible en navegadores modernos como Chrome o Firefox.',
+    cannotFile: 'Como no guardamos tus archivos, no podemos entregarlos en diferido. Debes hacerlo online.',
+    cannotMessage: 'Como no almacenamos tus mensajes, no podemos entregarlos en diferido. Debes hacerlo online.',
     roomLockedText: 'Esta sala está bloqueada',
     oops: 'Lo sentimos',
     kickedOutText: 'Te han expulsado',
@@ -61,7 +61,7 @@ export default {
     knowMore: 'Sobre xroom',
     nameRoom: 'nombra tu sala:',
     placeholder: 'escribe aquí',
-    rejoinRoom: 'o reincorpórate',
+    rejoinRoom: 'o regresa',
   },
   wl: {
     poweredBy: 'Desarrollado por',
@@ -108,7 +108,7 @@ export default {
     fileReceived: 'Archivo recibido: ',
     inputPlaceholder: 'ingresa un mensaje y presiona enter...',
     me: 'yo',
-    dropMe: '¡Suéltame!',
+    dropMe: '¡Suéltalo aquí!',
   },
   webinar: {
     peersCount: '%s personas mirando',
@@ -126,9 +126,10 @@ export default {
     language: 'Idioma',
   },
   plugins: {
-    by: 'por',
+    by: 'de',
     size: 'tamaño: %s kB',
     searchPlaceholder: 'buscar...',
+    source: 'Código fuente',
     add: {
       title: 'Agregar plugin nuevo',
       descr: '⚙️ ¿Desarrollando un plugin nuevo? Agrégalo aquí para probarlo. No se guarda, al actualizar la página se borra de la memoria. Encuentra el manual de la API para plugins <a href="https://github.com/punarinta/xroom-plugins" target="_blank">aquí</a>.',
@@ -158,7 +159,7 @@ export default {
       '¿Usas Slack y quieres ganar más tiempo? Prueba nuestro <a href="//about.xroom.app/en/library/slack-bot" target="_blank">bot de Slack</a>.',
       '¿Te pierdes las videollamadas de Telegram? Nuestro <a href="//about.xroom.app/en/library/telegram-bot" target="_blank">bot de Telegram</a> está para ayudarte.',
       'Para compartir una imagen copiada, presiona Ctrl+V in el chat. Nosotros nos ocupamos del resto.',
-      'Haz clic en tu nombre para cambiarlo localmente y para los demás.',
+      'Haz clic en tu nombre para cambiarlo para ti y para los demás.',
       '¿Alguna vez quisiste grabar la pantalla con un par de clics? Prueba nuestro plugin de grabación de pantalla.',
     ],
   },
