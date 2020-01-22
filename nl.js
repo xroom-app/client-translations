@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'Je bent uit de ruimte gezet.',
     areYouSure: 'Weet je het zeker?',
     doYouWantToLeave: 'Weet je zeker dat je de ruimte wilt verlaten?',
+    doYouWantToLeaveAsHost: 'Weet je zeker dat je de ruimte wilt verlaten?',
     restartRequiredText: 'Deze instelling wijzigd zoveel dingen dat een herstart noodzakelijk is. Geen zorgen, dat doen we heel snel!',
     onlySafariOnIOS: 'Op iOS wordt alleen Safari ondersteund. "Bedankt", Apple!',
     cannotLoadPlugin: 'Plugin "%s" wordt niet door je browser ondersteund',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Je klop wordt niet beantwoord. Je kunt niet binnenkomen. :(',
     knockRequested: 'Even wachten op antwoord. Ze kunnen je zien door een kijkgat. 👀',
     noAudio: '⚠️ Geen microfoon signaal gedetecteerd',
+    roomIsBusyWebinar: 'A webinar/stream is already running',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: 'Toggle menu',

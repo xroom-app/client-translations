@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'Tebe izphnųli iz komnaty',
     areYouSure: 'Jesi uvěrjen?',
     doYouWantToLeave: 'Či napravdu hočeš izidti?',
+    doYouWantToLeaveAsHost: 'Či napravdu hočeš izidti?',
     restartRequiredText: 'Tuta nastavka ovplyvnjaje prěmnogo, potrěbno je prěsčitati stranicų. Ale to bųde bystro, ne trevoži sę.',
     onlySafariOnIOS: 'V iOS poddŕživajemo toliko Safari. "Blågodarimo", Apple!',
     cannotLoadPlugin: 'Dodatok "%s" ne rabotaje v tvojej prěględkě.',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
     knockRequested: 'Čekajemo pozvaljańja vstųpiti. Drugi mogųt viděti te črěz podględanok. 👀',
     noAudio: '⚠️ Ne čujemo zvųkovogo signala',
+    roomIsBusyWebinar: 'A webinar/stream is already running',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: 'Phni menu',

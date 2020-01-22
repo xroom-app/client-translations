@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'Вас удалили из комнаты',
     areYouSure: 'Вы уверены?',
     doYouWantToLeave: 'Вы точно хотите выйти из вебинара?',
+    doYouWantToLeaveAsHost: 'Вы точно хотите выйти из вебинара?',
     restartRequiredText: 'Эта настройка влияет на много всего, поэтому нам нужно по-быстрому перезагрузить страничку.',
     onlySafariOnIOS: 'На iOS необходим Safari. Скажите спасибо Apple.',
     cannotLoadPlugin: 'Плагин "%s" не поддерживается в этом браузере',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Ваш запрос отклонён. Вы не можете войти в комнату. :(',
     knockRequested: 'Ожидаем разрешения. Люди внутри видят вас в глазок.',
     noAudio: '⚠️ Микрофон не работает',
+    roomIsBusyWebinar: 'Уже идёт стрим/вебинар',
+    roomIsBusyConference: 'Уже идёт конференция',
+    startWebinar: 'Запуск в режиме стрима/вебинара',
   },
   videoMenu: {
     hint: 'Меню',

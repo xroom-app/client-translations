@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'Du har sparkats ut från det här rummet.',
     areYouSure: 'Är du säker?',
     doYouWantToLeave: 'Vill du verkligen lämna rummet?',
+    doYouWantToLeaveAsHost: 'Vill du verkligen lämna rummet?',
     restartRequiredText: 'Denna inställning påverkar så mycket att omstartet behövs. Det blir snabbt, vi lovar!',
     onlySafariOnIOS: 'On iOS only Safari is supported. "Thank you", Apple!',
     cannotLoadPlugin: 'Plugin "%s" stöds inte i din webbläsare',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Din knock-begäran har nekats. Du kan inte komma in i rummet. :(',
     knockRequested: 'Vänta på tillstånd. Andra kan se dig genom en kikhull. 👀',
     noAudio: '⚠️ Vi känner inte din mikrofon',
+    roomIsBusyWebinar: 'En webinar/stream är redan på gång',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Starta som en stream/webinar',
   },
   videoMenu: {
     hint: 'Meny',

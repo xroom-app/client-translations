@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'You have been kicked out',
     areYouSure: 'Are you sure?',
     doYouWantToLeave: 'Do you really want to leave?',
+    doYouWantToLeaveAsHost: 'Do you really want to leave?',
     restartRequiredText: 'This setting affects too much stuff, a so a reload is required. That\'s quick, don\'t worry!',
     onlySafariOnIOS: 'On iOS only Safari is supported. "Thank you", Apple!',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
     knockRequested: 'Awaiting for a permission. People can see you through a peephole. 👀',
     noAudio: '⚠️ No mic signal detected',
+    roomIsBusyWebinar: 'A webinar/stream is now running',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: 'Toggle menu',

@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'Σας πέταξαν εκτός δωματίου',
     areYouSure: 'Είστε σίγουρος/η?',
     doYouWantToLeave: 'Θέλετε πραγματικά να φύγετε από το δωμάτιο?',
+    doYouWantToLeaveAsHost: 'Θέλετε πραγματικά να φύγετε από το δωμάτιο?',
     restartRequiredText: 'Αυτή η ρύθμιση επηρεάζει πολλά πράγματα, μια επαναφόρτωση απαιτείτε. Αυτό θα γίνει γρήγορα, μην ανησυχείτε!',
     onlySafariOnIOS: 'Στα iOS μόνο ο περιηγητής Safari υποστηρίζεται. "Ευχαριστούμε", Apple!',
     cannotLoadPlugin: 'Το πρόσθετο "%s" δεν υποστηρίζει τον περιηγητή',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Η αίτηση χτυπήματός σας έχει απορριφθεί. Δεν μπορείτε να εισέλθετε στο δωμάτιο. :(',
     knockRequested: 'Αναμονή για άδεια. Είστε ορατός/ή σε άλλους από το ματάκι της πόρτας. 👀',
     noAudio: '⚠️ Δεν εντοπίστηκε σήμα μικροφώνου',
+    roomIsBusyWebinar: 'A webinar/stream is already running',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: 'Εναλλάξτε το μενού',

@@ -39,6 +39,7 @@ export default {
     kickedOutText: '您已被踢出',
     areYouSure: '是否确定？',
     doYouWantToLeave: '是否要离开？',
+    doYouWantToLeaveAsHost: '是否要离开？',
     restartRequiredText: '此设置影响了很多东西，因此需要重新加载。很快，不用担心！',
     onlySafariOnIOS: '在iOS上，仅支持Safari。 “谢谢你，苹果！',
     cannotLoadPlugin: '插件 "%s" 不支持您的浏览器',
@@ -72,6 +73,9 @@ export default {
     knockDenied: '您的敲门请求已被拒绝。您无法进入房间。:(',
     knockRequested: '等待许可。人们可以通过窥视孔看到您。👀',
     noAudio: '⚠️ 未检测到麦克风信号',
+    roomIsBusyWebinar: 'A webinar/stream is already running',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: '切换选项',

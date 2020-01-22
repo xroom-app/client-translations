@@ -39,6 +39,7 @@ export default {
     kickedOutText: 'Te han expulsado',
     areYouSure: '¿Estás seguro?',
     doYouWantToLeave: '¿De veras deseas irte?',
+    doYouWantToLeaveAsHost: '¿De veras deseas irte?',
     restartRequiredText: 'Este ajuste afecta muchas cosas, así que hace falta volver a cargar. ¡Es rápido, no te preocupes!',
     onlySafariOnIOS: 'En iOS solo es compatible Safari. ¡"Gracias", Apple!',
     cannotLoadPlugin: 'El plugin "%s" no es compatible con tu navegador',
@@ -72,6 +73,9 @@ export default {
     knockDenied: 'Tu solicitud de acceso fue denegada. No puedes entrar a la sala. :(',
     knockRequested: 'Esperando permiso. Pueden verte por la mirilla. 👀',
     noAudio: '⚠️ No se detecta señal de mic',
+    roomIsBusyWebinar: 'A webinar/stream is already running',
+    roomIsBusyConference: 'A conference is now running',
+    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: 'Cambiar menú',
