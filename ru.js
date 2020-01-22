@@ -39,7 +39,7 @@ export default {
     kickedOutText: 'Вас удалили из комнаты',
     areYouSure: 'Вы уверены?',
     doYouWantToLeave: 'Вы точно хотите выйти из вебинара?',
-    doYouWantToLeaveAsHost: 'Вы точно хотите выйти из вебинара?',
+    doYouWantToLeaveAsHost: 'Вы точно хотите закончить стрим?',
     restartRequiredText: 'Эта настройка влияет на много всего, поэтому нам нужно по-быстрому перезагрузить страничку.',
     onlySafariOnIOS: 'На iOS необходим Safari. Скажите спасибо Apple.',
     cannotLoadPlugin: 'Плагин "%s" не поддерживается в этом браузере',

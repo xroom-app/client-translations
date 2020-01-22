@@ -39,7 +39,7 @@ export default {
     kickedOutText: 'You have been kicked out',
     areYouSure: 'Are you sure?',
     doYouWantToLeave: 'Do you really want to leave?',
-    doYouWantToLeaveAsHost: 'Do you really want to leave?',
+    doYouWantToLeaveAsHost: 'Do you really want to stop streaming?',
     restartRequiredText: 'This setting affects too much stuff, a so a reload is required. That\'s quick, don\'t worry!',
     onlySafariOnIOS: 'On iOS only Safari is supported. "Thank you", Apple!',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
