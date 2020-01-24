@@ -94,6 +94,9 @@ export default {
     xroom: 'Powered by xroom',
     settings: 'Settings',
     plugins: 'Plugins',
+    media: 'Media',
+    reactions: 'Intention',
+    letMeSpeak: 'Let me speak',
   },
   waiting: {
     invite: 'Invite your colleagues',
