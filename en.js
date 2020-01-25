@@ -168,7 +168,7 @@ export default {
       'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
       'Click your name to change it both locally and for your peers.',
       'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
-      'If you need to sketch something during a call try out the sketching plugin. Don\'t forget to turn on screen sharing.',
+      'Need to sketch during a call — try out the sketching plugin. Don\'t forget to turn on screen sharing.',
     ]
   },
 }
