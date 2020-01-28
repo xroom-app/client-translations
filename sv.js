@@ -94,6 +94,12 @@ export default {
     xroom: 'Drivs av xroom',
     settings: 'Inställn.',
     plugins: 'Plug-in',
+    media: 'Media',
+    reactions: 'Avsikter',
+    letMeSpeak: 'Jag vill prata',
+  },
+  reactions: {
+    letMeSpeak: 'Jag vill prata!',
   },
   waiting: {
     invite: 'Bjud in dina kollegor',

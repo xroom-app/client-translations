@@ -94,6 +94,12 @@ export default {
     xroom: 'Powered by xroom',
     settings: 'Instellingen',
     plugins: 'Plugins',
+    media: 'Media',
+    reactions: 'Intenties',         // validate translation
+    letMeSpeak: 'Laat me praten',   // validate translation
+  },
+  reactions: {
+    letMeSpeak: 'Ik wil praten!',   // validate translation
   },
   waiting: {
     invite: 'Nodig je collega\'s uit',

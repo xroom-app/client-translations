@@ -94,6 +94,12 @@ export default {
     xroom: '由xroom提供支持',
     settings: '设定值',
     plugins: '外挂程式',
+    media: 'Media',
+    reactions: 'Intention',
+    letMeSpeak: 'Let me speak',
+  },
+  reactions: {
+    letMeSpeak: 'I want to speak!',
   },
   waiting: {
     invite: '邀请你的同事',

@@ -98,6 +98,9 @@ export default {
     reactions: 'Intention',
     letMeSpeak: 'Let me speak',
   },
+  reactions: {
+    letMeSpeak: 'I want to speak!',
+  },
   waiting: {
     invite: 'Invite your colleagues',
     beforeCopy: 'click to copy',

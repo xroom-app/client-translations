@@ -94,6 +94,12 @@ export default {
     xroom: 'Powered by xroom',
     settings: 'Ρυθμίσεις',
     plugins: 'Plugin',
+    media: 'Media',
+    reactions: 'Intention',
+    letMeSpeak: 'Let me speak',
+  },
+  reactions: {
+    letMeSpeak: 'I want to speak!',
   },
   waiting: {
     invite: 'Προσκαλέστε τους συναδέλφους σας',

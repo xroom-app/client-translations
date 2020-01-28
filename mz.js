@@ -94,6 +94,12 @@ export default {
     xroom: 'Sdelano iz xroom',
     settings: 'Nastavki',
     plugins: 'Dodatki',
+    media: 'Media',
+    reactions: 'Naměry',
+    letMeSpeak: 'Pozvoli mi rěkti',
+  },
+  reactions: {
+    letMeSpeak: 'Ja hoćų mòlviti!',
   },
   waiting: {
     invite: 'Pozovi svojih koleg',

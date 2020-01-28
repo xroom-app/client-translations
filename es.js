@@ -94,6 +94,12 @@ export default {
     xroom: 'Desarrollado por xroom',
     settings: 'Ajustes',
     plugins: 'Plugins',
+    media: 'Media',
+    reactions: 'Intencion',         // validate translation
+    letMeSpeak: '¡Déjame hablar!',  // validate translation
+  },
+  reactions: {
+    letMeSpeak: '¡Quiero hablar!',  // validate translation
   },
   waiting: {
     invite: 'Invita a tus colegas',

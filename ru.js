@@ -94,6 +94,12 @@ export default {
     xroom: 'Работает на xroom',
     settings: 'Настройки',
     plugins: 'Плагины',
+    media: 'Медиа',
+    reactions: 'Намерения',
+    letMeSpeak: 'Дайте сказать',
+  },
+  reactions: {
+    letMeSpeak: 'Я хочу сказать!',
   },
   waiting: {
     invite: 'Пригласите собеседников',
