@@ -134,6 +134,7 @@ export default {
     audioDevices: '音源',
     videoDevices: '视讯来源',
     language: '语言',
+    theme: 'Theme',
   },
   plugins: {
     by: '通过',

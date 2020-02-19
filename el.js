@@ -134,6 +134,7 @@ export default {
     audioDevices: 'Πηγές ήχου',
     videoDevices: 'Πηγές βίντεο',
     language: 'Γλώσσα',
+    theme: 'Χρώμα θέμα',
   },
   plugins: {
     by: 'απο',

@@ -134,6 +134,7 @@ export default {
     audioDevices: 'Fuentes de audio',
     videoDevices: 'Fuentes de video',
     language: 'Idioma',
+    theme: 'Tema de color',
   },
   plugins: {
     by: 'de',

@@ -134,6 +134,7 @@ export default {
     audioDevices: 'Žrla zvųka',
     videoDevices: 'Žrla obraza',
     language: 'Język',
+    theme: 'Kolorna tema',
   },
   plugins: {
     by: 'od',

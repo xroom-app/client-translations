@@ -134,6 +134,7 @@ export default {
     audioDevices: 'Аудио источники',
     videoDevices: 'Видео источники',
     language: 'Язык',
+    theme: 'Цветовая тема',
   },
   plugins: {
     by: 'от',

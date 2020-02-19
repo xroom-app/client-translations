@@ -134,6 +134,7 @@ export default {
     audioDevices: 'Audio källor',
     videoDevices: 'Video källor',
     language: 'Språk',
+    theme: 'Färgtema',
   },
   plugins: {
     by: 'av',

@@ -134,6 +134,7 @@ export default {
     audioDevices: 'Audio bronnen',
     videoDevices: 'Video bronnen',
     language: 'Taal',
+    theme: 'Kleur thema',
   },
   plugins: {
     by: 'door',
