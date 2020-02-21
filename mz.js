@@ -163,7 +163,7 @@ export default {
   },
   tips: {
     prefix: 'Sovět dnja: ',
-    lines:[
+    lines: [
       'Često němeješ mikrofon? Zato imajemo klaviš "m".',
       'Dvuklikni oddaljeno video da by vključiti polny ekran.',
       'Potrěba zamknuti komnatų? Prosto dodaj "room locking" v dodatkah poniže.',

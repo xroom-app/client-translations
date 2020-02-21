@@ -163,7 +163,7 @@ export default {
   },
   tips: {
     prefix: 'Dagens tips: ',
-    lines:[
+    lines: [
       'Mute/unmute often? There\'s a hot key "m" for that.',
       'Double click the remote video to make it full screen.',
       'Need to lock your room? Just add the room locking in plugins below.',

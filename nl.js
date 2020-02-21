@@ -163,7 +163,7 @@ export default {
   },
   tips: {
     prefix: 'Tip van de dag: ',
-    lines:[
+    lines: [
       'Zet je vaak je microfoon aan en uit? Je kunt ook op de "m" drukken.',
       'Dubbel klik op een video om deze op volledig scherm te tonen.',
       'Wil je de ruimte afsluiten? Voeg de "room locking" plugin toe.',
