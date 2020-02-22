@@ -70,7 +70,7 @@ export default {
   pre: {
     checkIt: 'Prověri svoj mikrofon i kamerų',
     btnGo: 'Vstupi',
-    knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
+    knockDenied: 'Your knock request has been denied. You can`t enter the room. :(',
     knockRequested: 'Čekajemo pozvaljańja vstųpiti. Drugi mogųt viděti te črěz podględanok. 👀',
     noAudio: '⚠️ Ne čujemo zvųkovogo signala',
     roomIsBusyWebinar: 'Webinar/strim už ide',

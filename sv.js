@@ -144,9 +144,9 @@ export default {
     add: {
       title: 'Add new plugin',
       descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory. Plugins API manual is available <a href="https://github.com/punarinta/xroom-plugins" target="_blank">here</a>.',
-      name: 'What\'s the plugin name?',
+      name: 'What`s the plugin name?',
       rootUrl: 'Where is the plugin root?',
-      loaded: 'Yaay! It\'s loaded!',
+      loaded: 'Yaay! It`s loaded!',
       loadFailed: 'Failed loading plugin',
     }
   },
@@ -164,12 +164,12 @@ export default {
   tips: {
     prefix: 'Dagens tips: ',
     lines: [
-      'Mute/unmute often? There\'s a hot key "m" for that.',
+      'Mute/unmute often? There`s a hot key "m" for that.',
       'Double click the remote video to make it full screen.',
       'Need to lock your room? Just add the room locking in plugins below.',
       'Use Slack and want to save more time? Try out our <a href="//about.xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
       'Miss video calls in Telegram? Our <a href="//about.xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
-      'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
+      'Need to share a copied image? Ctrl+V in the chat, we`ll cover the rest.',
       'Lock your room in one click, use locking plugin',
       'Click your name to change it both locally and for your peers.',
       'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',

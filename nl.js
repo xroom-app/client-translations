@@ -102,7 +102,7 @@ export default {
     letMeSpeak: 'Ik wil praten!',   // validate translation
   },
   waiting: {
-    invite: 'Nodig je collega\'s uit',
+    invite: 'Nodig je collega`s uit',
     beforeCopy: 'klik om te kopieeren',
     afterCopy: 'gekopieerd!',
     webinar: 'Webinar is nog niet gestart',
