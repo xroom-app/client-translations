@@ -104,7 +104,7 @@ export default {
   waiting: {
     invite: 'Bjud in dina kollegor',
     beforeCopy: 'klicka för att kopiera',
-    afterCopy: 'kopierats!',
+    afterCopy: 'Kopierats. Dela nu!',
     webinar: 'Webinar har inte startat',
   },
   video: {

@@ -104,7 +104,7 @@ export default {
   waiting: {
     invite: 'Пригласите собеседников',
     beforeCopy: 'кликните чтобы скопировать',
-    afterCopy: 'скопировано!',
+    afterCopy: 'Готово. Теперь перешлите сылку.',
     webinar: 'Вебинар ещё не начался',
   },
   video: {

@@ -104,7 +104,7 @@ export default {
   waiting: {
     invite: 'Invita a tus colegas',
     beforeCopy: 'clic para copiar',
-    afterCopy: '¡copiado!',
+    afterCopy: 'Copiado ¡Compártelo!',
     webinar: 'El webinar aún no empezó',
   },
   video: {
