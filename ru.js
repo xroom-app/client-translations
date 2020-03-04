@@ -44,7 +44,7 @@ export default {
     onlySafariOnIOS: 'На iOS необходим Safari. Скажите спасибо Apple.',
     cannotLoadPlugin: 'Плагин "%s" не поддерживается в этом браузере',
     confirmFileSend: 'Отправить это?',
-    whatIsYourName: 'Введите новое имя',
+    whatIsYourName: 'Введите имя',
     setVideoVolume: 'Громкость для этого видео',
     roomLockedTryKnockText: 'Комната заперта. Вы можете постучать в дверь, чтобы вас пустили.',
     knockingFailedText: 'Не удалось постучаться в дверь',
@@ -108,7 +108,7 @@ export default {
     webinar: 'Вебинар ещё не начался',
   },
   video: {
-    you: 'Ты',
+    you: 'Ты (сменить имя)',
     someone: 'Кто-то',
     knocking: 'стучится...',
     poorNet: 'плохое соединение',

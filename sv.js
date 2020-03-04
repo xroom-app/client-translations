@@ -108,7 +108,7 @@ export default {
     webinar: 'Webinar har inte startat',
   },
   video: {
-    you: 'Du',
+    you: 'Du (klicka för att namnge)',
     someone: 'Någon',
     knocking: 'knackar...',
     poorNet: 'dålig anslutning',

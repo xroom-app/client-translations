@@ -44,7 +44,7 @@ export default {
     onlySafariOnIOS: 'On iOS only Safari is supported. "Thank you", Apple!',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
     confirmFileSend: 'Do you want to send this?',
-    whatIsYourName: 'Enter new name',
+    whatIsYourName: 'Enter your name',
     setVideoVolume: 'Set volume for this video',
     roomLockedTryKnockText: 'Room is currently locked. You can ask for a permission to enter by "knocking" the door.',
     knockingFailedText: 'Knocking attempt failed',
@@ -108,7 +108,7 @@ export default {
     webinar: 'Webinar not started yet',
   },
   video: {
-    you: 'You',
+    you: 'You (click to name)',
     someone: 'Someone',
     knocking: 'is knocking...',
     poorNet: 'poor connection',

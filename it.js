@@ -108,7 +108,7 @@ export default {
     webinar: 'Il Webinar non è ancora iniziato',
   },
   video: {
-    you: 'Tu',
+    you: 'Tu (clicca per nominare)',
     someone: 'Qualcuno',
     knocking: 'stai bussando...',
     poorNet: 'Connessione lenta',
