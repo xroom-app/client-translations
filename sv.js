@@ -89,7 +89,7 @@ export default {
     ss: 'Skärmdeln. %s',
     cam: 'Kam %s',
     mic: 'Mik %s',
-    chat: 'Chatt %s',
+    chat: 'Chatt',
     exit: 'Avsluta',
     xroom: 'Drivs av xroom',
     settings: 'Inställn.',

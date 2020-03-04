@@ -87,9 +87,9 @@ export default {
   },
   controls: {
     ss: 'Schermo %s',
-    cam: 'Videocamera %s',
-    mic: 'Microfono %s',
-    chat: 'Chat %s',
+    cam: 'Video %s',
+    mic: 'Mic %s',
+    chat: 'Chat',
     exit: 'Esci',
     xroom: 'Offerto da xroom',
     settings: 'Impostazioni',

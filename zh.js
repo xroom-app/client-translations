@@ -89,7 +89,7 @@ export default {
     ss: '屏幕共享%s',
     cam: '相机%s',
     mic: '麦克风%s',
-    chat: '聊天室%s',
+    chat: '聊天室',
     exit: '出口',
     xroom: '由xroom提供支持',
     settings: '设定值',

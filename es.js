@@ -89,7 +89,7 @@ export default {
     ss: 'Pantalla compartida %s',
     cam: 'Cámara %s',
     mic: 'Mic %s',
-    chat: 'Chat %s',
+    chat: 'Chat',
     exit: 'Salir',
     xroom: 'Desarrollado por xroom',
     settings: 'Ajustes',

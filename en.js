@@ -89,7 +89,7 @@ export default {
     ss: 'Screen sharing %s',
     cam: 'Cam %s',
     mic: 'Mic %s',
-    chat: 'Chat %s',
+    chat: 'Chat',
     exit: 'Exit',
     xroom: 'Powered by xroom',
     settings: 'Settings',

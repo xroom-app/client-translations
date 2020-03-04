@@ -89,7 +89,7 @@ export default {
     ss: 'Ekran %s',
     cam: 'Obraz %s',
     mic: 'Zvųk %s',
-    chat: 'Čat %s',
+    chat: 'Čat',
     exit: 'Izhod',
     xroom: 'Sdelano iz xroom',
     settings: 'Nastavki',

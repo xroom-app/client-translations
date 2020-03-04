@@ -89,7 +89,7 @@ export default {
     ss: 'Экран %s',
     cam: 'Видео %s',
     mic: 'Звук %s',
-    chat: 'Чат %s',
+    chat: 'Чат',
     exit: 'Выйти',
     xroom: 'Работает на xroom',
     settings: 'Настройки',

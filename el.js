@@ -89,7 +89,7 @@ export default {
     ss: 'Διαμοιρασμός οθόνης %s',
     cam: 'Κάμερα %s',
     mic: 'Μικρόφωνο %s',
-    chat: 'Ομιλία %s',
+    chat: 'Ομιλία',
     exit: 'Έξοδος',
     xroom: 'Powered by xroom',
     settings: 'Ρυθμίσεις',

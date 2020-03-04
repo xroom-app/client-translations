@@ -89,7 +89,7 @@ export default {
     ss: 'Scherm delen %s',
     cam: 'Cam %s',
     mic: 'Mic %s',
-    chat: 'Chat %s',
+    chat: 'Chat',
     exit: 'Vertrek',
     xroom: 'Powered by xroom',
     settings: 'Instellingen',
