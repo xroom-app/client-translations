@@ -89,13 +89,13 @@ export default {
     ss: 'Scherm delen %s',
     cam: 'Cam %s',
     mic: 'Mic %s',
-    chat: 'Chat',
+    chat: 'Chat %s',
     exit: 'Vertrek',
     xroom: 'Powered by xroom',
     settings: 'Instellingen',
     plugins: 'Plugins',
     media: 'Media',
-    reactions: 'Intenties',         // validate translation
+    more: 'Meer',                   // validate translation
     letMeSpeak: 'Laat me praten',   // validate translation
   },
   reactions: {
