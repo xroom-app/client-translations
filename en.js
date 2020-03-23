@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'After you press OK please <b>allow</b> xroom to use your camera.<br><br>Don\'t worry! You will be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
     tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
     pluginsLoadFailed: 'Failed loading plugins',
-    researchConsent: 'Hi! We are currently doing a serious upgrade to improve the service. If you face any error you are very welcome to report it to hello@xroom.app',
+    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
   },
   home: {
     nisdos: 'We do not use cookies',

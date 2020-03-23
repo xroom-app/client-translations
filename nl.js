@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Nadat je op OK gebruikt hebt, geef xroom <b>permissie</b> om je webcam te gebruiken.<br><br>Geen zorgen! Je kunt het weer afzetten voordat je de ruimte binnen gaat via het menu onderaan je scherm voor als je onzichtbaar wilt blijven.',
     tooOldBrowser: 'Je browser is te oud of wordt gemaakt door Microsoft. Veel features zullen niet aanwezig zijn.',
     pluginsLoadFailed: 'Plugins laden mislukt',
-    researchConsent: 'Hi! We are currently doing a serious upgrade to improve the service. If you face any error you are very welcome to report it to hello@xroom.app',
+    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
   },
   home: {
     nisdos: 'Wij gebruiken geen cookies',

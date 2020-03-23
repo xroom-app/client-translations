@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Dopo aver premuto Ok per favore <b>dai il consenso</b> a xroom di usare la tua videocamera.<br><br>Non preoccuparti! Sarai in grado di spegnerla di nuovo prima di entrare nella stanza dal menu in basso, se vuoi rimanere non visibile.',
     tooOldBrowser: 'Il tuo browser non è supportato o è prodotto da Microsoft. Molte funzioni potrebbero non essere disponibili.',
     pluginsLoadFailed: 'Caricamento dei plugin non riuscito',
-    researchConsent: 'Ciao! Attualmente stiamo facendo un serio aggiornamento per migliorare il servizio. Se si riscontrano errori, si prega di segnalarlo a hello@xroom.app',
+    researchConsent: 'Ciao!<br><br>Attualmente stiamo facendo un serio aggiornamento per migliorare il servizio.<br><br>Se si riscontrano errori, si prega di segnalarlo a hello@xroom.app',
   },
   home: {
     nisdos: 'Non usiamo i cookie',

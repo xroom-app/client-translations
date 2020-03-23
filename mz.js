@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Po tiskańja tipky "Dobro" <b>dozvoli</b>, prosimo, xroom koristati kamerų.<br><br>Ne trevoži sę, jestli ne hočeš že by te viděli, možno bųde bez problemov zamknųti jų pozdněje.',
     tooOldBrowser: 'Tvoja prěględka je zastarěla abo je proizvedena v Microsoft. Mnoge funkcije mogųt ne råbotati.',
     pluginsLoadFailed: 'Failed loading plugins',
-    researchConsent: 'Hi! We are currently doing a serious upgrade to improve the service. If you face any error you are very welcome to report it to hello@xroom.app',
+    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',

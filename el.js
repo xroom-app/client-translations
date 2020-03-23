@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Αφού πιέσετε OK παρακαλώ <b>επιτρέψτε</b> στο xroom να χρησιμοποιήσει την κάμερα.<br><br>Μην ανησυχείτε! Θα μπορέσετε να την απενεργοποιήσετε ξανά προτού μπείτε στο δωμάτιο από το μενού στο κάτω μέρος της οθόνης εαν θέλετε να είστε αόρατος/η.',
     tooOldBrowser: 'Ο περιηγητής σας είναι πολύ παλιός ή παράγεται από την Microsoft. Πολλά πρόσθετα μπορεί να λείπουν.',
     pluginsLoadFailed: 'Αποτυχία φόρτωσης plugins',
-    researchConsent: 'Hi! We are currently doing a serious upgrade to improve the service. If you face any error you are very welcome to report it to hello@xroom.app',
+    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
   },
   home: {
     nisdos: 'Δεν χρησιμοποιούμε cookies',

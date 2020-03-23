@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: '按“确定”后，请<b>允许</b>xroom使用您的相机。<br><br>别担心！如果您想保持隐身状态，则可以再次关闭它，然后从下方的选项中进入房间。',
     tooOldBrowser: '您的浏览器太旧或由Microsoft生产。许多功能可能无法操作。',
     pluginsLoadFailed: '加载插件失败',
-    researchConsent: 'Hi! We are currently doing a serious upgrade to improve the service. If you face any error you are very welcome to report it to hello@xroom.app',
+    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
   },
   home: {
     nisdos: '我们不使用cookies',
