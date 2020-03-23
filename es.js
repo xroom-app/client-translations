@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Tras presionar OK, <b>permite</b> que xroom use la cámara.<br><br>¡No te preocupes! Podrás apagarla antes de entrar a la sala desde el menú inferior si deseas permanecer invisible.',
     tooOldBrowser: 'Tu navegador es muy antiguo o es de Microsoft. Te perderás de varias funciones.',
     pluginsLoadFailed: 'Error al cargar plugins',
-    researchConsent: '¡Hola! Estamos investigando las redes p2p.<br><br>¿Nos permites usar tu información de calidad de tráfico para nuestro análisis?',
+    researchConsent: '¡Hola! Actualmente estamos realizando una actualización seria para mejorar el servicio. Si enfrenta algún error, puede informarlo a hello@xroom.app',
   },
   home: {
     nisdos: 'No usamos cookies',

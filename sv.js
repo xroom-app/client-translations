@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Efter du trycker på OK, <b>låt</b> xroom använda din kamera.<br><br>Oroa dig inte, du ska kunna stänga av det igen innan du går in i rummet från menyn längst ner om du vill stanna osynlig.',
     tooOldBrowser: 'Din webbläsare är för gammal eller tillverkad av Microsoft. Många funktioner kan saknas.',
     pluginsLoadFailed: 'Failed loading plugins',
-    researchConsent: 'Hej! Vi gör en undersökning om p2p-nätverk.<br><br>Får vi använda din trafikkvalitetsinformation för analys?',
+    researchConsent: 'Hi! We are currently doing a serious upgrade to improve the service. If you face any error you are very welcome to report it to hello@xroom.app',
   },
   home: {
     nisdos: 'Inga "cookies" används här',
