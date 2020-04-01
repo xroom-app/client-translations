@@ -54,6 +54,7 @@ export default {
     tooOldBrowser: 'Il tuo browser non è supportato o è prodotto da Microsoft. Molte funzioni potrebbero non essere disponibili.',
     pluginsLoadFailed: 'Caricamento dei plugin non riuscito',
     researchConsent: 'Ciao!<br><br>Attualmente stiamo facendo un serio aggiornamento per migliorare il servizio.<br><br>Se si riscontrano errori, si prega di segnalarlo a hello@xroom.app',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
   },
   home: {
     nisdos: 'Non usiamo i cookie',

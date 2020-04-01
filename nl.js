@@ -54,6 +54,7 @@ export default {
     tooOldBrowser: 'Je browser is te oud of wordt gemaakt door Microsoft. Veel features zullen niet aanwezig zijn.',
     pluginsLoadFailed: 'Plugins laden mislukt',
     researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
   },
   home: {
     nisdos: 'Wij gebruiken geen cookies',

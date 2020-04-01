@@ -54,6 +54,7 @@ export default {
     tooOldBrowser: 'Din webbläsare är för gammal eller tillverkad av Microsoft. Många funktioner kan saknas.',
     pluginsLoadFailed: 'Failed loading plugins',
     researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
   },
   home: {
     nisdos: 'Inga "cookies" används här',

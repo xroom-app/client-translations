@@ -54,6 +54,7 @@ export default {
     tooOldBrowser: 'Tu navegador es muy antiguo o es de Microsoft. Te perderás de varias funciones.',
     pluginsLoadFailed: 'Error al cargar plugins',
     researchConsent: '¡Hola!<br><br>Actualmente estamos realizando una actualización seria para mejorar el servicio.<br><br>Si enfrenta algún error, puede informarlo a hello@xroom.app',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
   },
   home: {
     nisdos: 'No usamos cookies',

@@ -54,6 +54,7 @@ export default {
     tooOldBrowser: '您的浏览器太旧或由Microsoft生产。许多功能可能无法操作。',
     pluginsLoadFailed: '加载插件失败',
     researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
   },
   home: {
     nisdos: '我们不使用cookies',
