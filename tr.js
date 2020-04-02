@@ -28,7 +28,7 @@ export default {
     isCamOn: 'Kamera açık mı?',
     isCamOnText: 'Lütfen bu sitede kameranızı/mikrofonunuzu yanlışlıkla engellemediğinizden emin olun ve "Tekrar dene" butonuna tıklayın.',
     isMicOn: 'Mikrofon açık mı?',
-    isMicOnText: 'Konuşabilmek istiyorsanız mikrofon iznine ihtiyacımız var. Bu sayfada izin verin ve "Tekrar dene" butonuna tıklayın.',
+    isMicOnText: 'Konuşabilmek istiyorsanız mikrofon iznine ihtiyacımız var. İzin verin ve "Tekrar dene" butonuna tıklayın.',
     iWillOnlyWatch: 'Sadece izleyeceğim',
     iWillOnlyListen: 'Sadece dinleyeceğim',
     screenSharingText: 'Ekran paylaşımına izin verilmiyor. Lütfen bu sayfa için engellenmediğinden emin olun. <br> <br> Ayrıca bu özellik yalnızca Chrome veya Firefox gibi modern tarayıcılar tarafından desteklenmektedir.',
@@ -138,9 +138,9 @@ export default {
     theme: 'Renk teması',
   },
   plugins: {
-    by: 'tarafından',
+    by: 'Geliştirici:',
     size: 'boyut: %s kB',
-    searchPlaceholder: 'aranıyor...',
+    searchPlaceholder: 'arama...',
     source: 'kaynak kodu',
     add: {
       title: 'Yeni eklenti ekle',
