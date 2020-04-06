@@ -55,6 +55,7 @@ export default {
     pluginsLoadFailed: 'Eklentiler yüklenemedi',
     researchConsent: 'Merhaba! <br> <br>Şu anda verdiğimiz hizmeti geliştirmek için önemli bir güncelleme yapıyoruz.<br><br>Herhangi bir hatayla karşılaşırsanız lütfen hello@xroom.app adresinden bize bildirin.',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
+    peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
   },
   home: {
     nisdos: 'Çerez kullanmıyoruz',

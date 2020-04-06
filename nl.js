@@ -55,6 +55,7 @@ export default {
     pluginsLoadFailed: 'Plugins laden mislukt',
     researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
+    peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
   },
   home: {
     nisdos: 'Wij gebruiken geen cookies',

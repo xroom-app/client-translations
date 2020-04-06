@@ -55,6 +55,7 @@ export default {
     pluginsLoadFailed: 'Error al cargar plugins',
     researchConsent: '¡Hola!<br><br>Actualmente estamos realizando una actualización seria para mejorar el servicio.<br><br>Si enfrenta algún error, puede informarlo a hello@xroom.app',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
+    peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
   },
   home: {
     nisdos: 'No usamos cookies',
