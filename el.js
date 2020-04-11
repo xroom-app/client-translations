@@ -137,6 +137,7 @@ export default {
     videoDevices: 'Πηγές βίντεο',
     language: 'Γλώσσα',
     theme: 'Χρώμα θέμα',
+    server: 'Server',
   },
   plugins: {
     by: 'απο',

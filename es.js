@@ -56,6 +56,7 @@ export default {
     researchConsent: '¡Hola!<br><br>Actualmente estamos realizando una actualización seria para mejorar el servicio.<br><br>Si enfrenta algún error, puede informarlo a hello@xroom.app',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
+    enterpriseOnly: 'This is an enterprise only feature.',
   },
   home: {
     nisdos: 'No usamos cookies',
@@ -137,6 +138,7 @@ export default {
     videoDevices: 'Fuentes de video',
     language: 'Idioma',
     theme: 'Tema de color',
+    server: 'Servidor',
   },
   plugins: {
     by: 'de',

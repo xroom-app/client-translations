@@ -137,6 +137,7 @@ export default {
     videoDevices: '视讯来源',
     language: '语言',
     theme: 'Theme',
+    server: 'Server',
   },
   plugins: {
     by: '通过',
