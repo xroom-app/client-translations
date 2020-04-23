@@ -56,6 +56,8 @@ export default {
     researchConsent: '您好！<br><br>我们正在认真的提升以改善服务。<br><br>如果遇到任何问题，非常欢迎您向hello@xroom.app通报。',
     protoExpired: '客户端版本太旧。请按 Ctrl&nbsp;+&nbsp;F5 重新加载。若您再次看到此消息，请自己清除浏览器缓存。',
     peerError: '与同伴交换数据时出现了问题。我们建议重新加载页面。',
+    enterpriseOnly: 'This is an enterprise only feature.',
+    pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
   },
   home: {
     nisdos: '我们不使用cookies',

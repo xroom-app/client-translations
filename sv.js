@@ -57,6 +57,7 @@ export default {
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
+    pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
   },
   home: {
     nisdos: 'Inga "cookies" används här',
