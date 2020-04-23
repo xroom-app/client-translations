@@ -78,8 +78,8 @@ export default {
     knockDenied: 'Ваш запит відхилено. Ви не можете ввійти до кімнати. :(',
     knockRequested: 'Очікуємо на дозвіл. Люди всередині бачать вас у дверне вічко.',
     noAudio: '⚠️ Мікрофон не працює',
-    roomIsBusyWebinar: 'Вже йде стрім/вебінар',
-    roomIsBusyConference: 'Вже йде конференція',
+    roomIsBusyWebinar: 'Вже йде стрім/вебінар (%s/%s)',
+    roomIsBusyConference: 'Вже йде конференція (%s/%s)',
     startWebinar: 'Запуск у режимі стріма/вебінара',
   },
   videoMenu: {

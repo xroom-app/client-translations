@@ -77,8 +77,8 @@ export default {
     knockDenied: 'Η αίτηση χτυπήματός σας έχει απορριφθεί. Δεν μπορείτε να εισέλθετε στο δωμάτιο. :(',
     knockRequested: 'Αναμονή για άδεια. Είστε ορατός/ή σε άλλους από το ματάκι της πόρτας. 👀',
     noAudio: '⚠️ Δεν εντοπίστηκε σήμα μικροφώνου',
-    roomIsBusyWebinar: 'A webinar/stream is already running',
-    roomIsBusyConference: 'A conference is now running',
+    roomIsBusyWebinar: 'A webinar/stream is already running (%s/%s)',
+    roomIsBusyConference: 'A conference is now running (%s/%s)',
     startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {

@@ -54,11 +54,11 @@ export default {
     tooOldBrowser: 'Tu navegador es muy antiguo o es de Microsoft. Te perderás de varias funciones.',
     pluginsLoadFailed: 'Error al cargar plugins',
     researchConsent: '¡Hola!<br><br>Actualmente estamos realizando una actualización seria para mejorar el servicio.<br><br>Si enfrenta algún error, puede informarlo a hello@xroom.app',
-    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
-    peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
+    protoExpired: 'Versión del cliente demasiado antigua. Presione Ctrl&nbsp;+&nbsp;F5 para volver a cargar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
+    peerError: 'Algo salió mal al intercambiar datos con sus compañeros. Sugerimos volver a cargar la página.',
     enterpriseOnly: 'This is an enterprise only feature.',
-    pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
-    hostRoleRequired: 'Host role is required for this action.',
+    pluginSuggested: 'El usuario %s sugirió que instale el complemento %s. ¿Desea hacerlo?',
+    hostRoleRequired: 'Se requiere el rol de host para esta acción.',
   },
   home: {
     nisdos: 'No usamos cookies',
@@ -78,8 +78,8 @@ export default {
     knockDenied: 'Tu solicitud de acceso fue denegada. No puedes entrar a la sala. :(',
     knockRequested: 'Esperando permiso. Pueden verte por la mirilla. 👀',
     noAudio: '⚠️ No se detecta señal de mic',
-    roomIsBusyWebinar: 'Un webinar/stream esta corriendo',  // validate translation
-    roomIsBusyConference: 'Una conferencia está corriendo',  // validate translation
+    roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s/%s)',  // validate translation
+    roomIsBusyConference: 'Una conferencia está corriendo (%s/%s)',  // validate translation
     startWebinar: 'Comenzar como stream/webinar',  // validate translation
   },
   videoMenu: {
