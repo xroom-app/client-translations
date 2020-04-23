@@ -58,6 +58,7 @@ export default {
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
+    hostRoleRequired: 'Host role is required for this action.',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',

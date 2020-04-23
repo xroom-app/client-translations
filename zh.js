@@ -58,6 +58,7 @@ export default {
     peerError: '与同伴交换数据时出现了问题。我们建议重新加载页面。',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
+    hostRoleRequired: 'Host role is required for this action.',
   },
   home: {
     nisdos: '我们不使用cookies',
