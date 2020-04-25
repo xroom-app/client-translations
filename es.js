@@ -78,8 +78,8 @@ export default {
     knockDenied: 'Tu solicitud de acceso fue denegada. No puedes entrar a la sala. :(',
     knockRequested: 'Esperando permiso. Pueden verte por la mirilla. 👀',
     noAudio: '⚠️ No se detecta señal de mic',
-    roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s/%s)',  // validate translation
-    roomIsBusyConference: 'Una conferencia está corriendo (%s/%s)',  // validate translation
+    roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s × 🙂)',  // validate translation
+    roomIsBusyConference: 'Una conferencia está corriendo (%s × 🙂)',  // validate translation
     startWebinar: 'Comenzar como stream/webinar',  // validate translation
   },
   videoMenu: {

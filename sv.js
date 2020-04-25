@@ -78,8 +78,8 @@ export default {
     knockDenied: 'Din knock-begäran har nekats. Du kan inte komma in i rummet. :(',
     knockRequested: 'Vänta på tillstånd. Andra kan se dig genom en kikhull. 👀',
     noAudio: '⚠️ Vi känner inte din mikrofon',
-    roomIsBusyWebinar: 'En webinar/stream är redan på gång (%s/%s)',
-    roomIsBusyConference: 'Ett samtal är redan på gång (%s/%s)',
+    roomIsBusyWebinar: 'En webinar/stream är redan på gång (%s × 🙂)',
+    roomIsBusyConference: 'Ett samtal är redan på gång (%s × 🙂)',
     startWebinar: 'Starta som en stream/webinar',
   },
   videoMenu: {

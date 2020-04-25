@@ -78,8 +78,8 @@ export default {
     knockDenied: 'Je klop wordt niet beantwoord. Je kunt niet binnenkomen. :(',
     knockRequested: 'Even wachten op antwoord. Ze kunnen je zien door een kijkgat. 👀',
     noAudio: '⚠️ Geen microfoon signaal gedetecteerd',
-    roomIsBusyWebinar: 'Een webinar/stream is al actief (%s/%s)',  // validate translation
-    roomIsBusyConference: 'Een conference is al actief (%s/%s)',  // validate translation
+    roomIsBusyWebinar: 'Een webinar/stream is al actief (%s × 🙂)',  // validate translation
+    roomIsBusyConference: 'Een conference is al actief (%s × 🙂)',  // validate translation
     startWebinar: 'Start in stream/webinar modus',  // validate translation
   },
   videoMenu: {
