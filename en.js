@@ -38,8 +38,8 @@ export default {
     oops: 'Sorry',
     kickedOutText: 'You have been kicked out',
     areYouSure: 'Are you sure?',
-    doYouWantToLeave: 'Do you really want to leave?',
-    doYouWantToLeaveAsHost: 'Do you really want to stop streaming?',
+    doYouWantToLeave: 'Do you really want to leave?',   // not used anymore
+    doYouWantToLeaveAsHost: 'Do you really want to stop streaming?',   // not used anymore
     restartRequiredText: 'This setting affects too much stuff, a so a reload is required. That\'s quick, don\'t worry!',
     onlySafariOnIOS: 'On iOS only Safari is supported. "Thank you", Apple!',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
@@ -59,6 +59,7 @@ export default {
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
     hostRoleRequired: 'Host role is required for this action.',
+    alreadyHosted: 'Webinar is already hosted',
   },
   home: {
     nisdos: 'We do not use cookies',

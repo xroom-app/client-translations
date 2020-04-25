@@ -59,6 +59,7 @@ export default {
     enterpriseOnly: 'Функция доступна только в корпоративной версии.',
     pluginSuggested: 'Пользователь %s предлагает установить плагин %s. Ставим?',
     hostRoleRequired: 'Для этого действия нужна роль ведущего конференции',
+    alreadyHosted: 'Webinar is already hosted',
   },
   home: {
     nisdos: 'Мы не используем куки',

@@ -59,6 +59,7 @@ export default {
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'Användare %s föreslog att du installerar plugin %s. Vill du göra det?',
     hostRoleRequired: 'Host-roll krävs för den här åtgärden.',
+    alreadyHosted: 'Webinar is already hosted',
   },
   home: {
     nisdos: 'Inga "cookies" används här',
