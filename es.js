@@ -59,7 +59,7 @@ export default {
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'El usuario %s sugirió que instale el complemento %s. ¿Desea hacerlo?',
     hostRoleRequired: 'Se requiere el rol de host para esta acción.',
-    alreadyHosted: 'Webinar is already hosted',
+    alreadyHosted: 'Room is already hosted. Don\'t enter the same room from 2 browser tabs. 😉',
   },
   home: {
     nisdos: 'No usamos cookies',

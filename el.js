@@ -58,7 +58,7 @@ export default {
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
     hostRoleRequired: 'Host role is required for this action.',
-    alreadyHosted: 'Webinar is already hosted',
+    alreadyHosted: 'Room is already hosted. Don\'t enter the same room from 2 browser tabs. 😉',
   },
   home: {
     nisdos: 'Δεν χρησιμοποιούμε cookies',
