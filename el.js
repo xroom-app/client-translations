@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Αφού πιέσετε OK παρακαλώ <b>επιτρέψτε</b> στο xroom να χρησιμοποιήσει την κάμερα.<br><br>Μην ανησυχείτε! Θα μπορέσετε να την απενεργοποιήσετε ξανά προτού μπείτε στο δωμάτιο από το μενού στο κάτω μέρος της οθόνης εαν θέλετε να είστε αόρατος/η.',
     tooOldBrowser: 'Ο περιηγητής σας είναι πολύ παλιός ή παράγεται από την Microsoft. Πολλά πρόσθετα μπορεί να λείπουν.',
     pluginsLoadFailed: 'Αποτυχία φόρτωσης plugins',
-    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
@@ -72,7 +71,12 @@ export default {
   wl: {
     poweredBy: 'Powered by ',
   },
+  modes: {
+    1: 'Conference',
+    2: 'Webinar',
+  },
   pre: {
+    selectMode: 'Choose room type',
     checkIt: 'Ελέγξτε το μικρόφωνο και το κούρεμά σας',
     btnGo: 'Εισέλθετε',
     knockDenied: 'Η αίτηση χτυπήματός σας έχει απορριφθεί. Δεν μπορείτε να εισέλθετε στο δωμάτιο. :(',
@@ -80,7 +84,6 @@ export default {
     noAudio: '⚠️ Δεν εντοπίστηκε σήμα μικροφώνου',
     roomIsBusyWebinar: 'A webinar/stream is already running (%s × 🙂)',
     roomIsBusyConference: 'A conference is now running (%s × 🙂)',
-    startWebinar: 'Start in stream/webinar mode',
   },
   videoMenu: {
     hint: 'Εναλλάξτε το μενού',

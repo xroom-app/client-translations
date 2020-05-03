@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Tamam´ tuşuna bastıktan sonra lütfen xroom´un kameranızı kullanmasına <b>izin verin</b>. Endişelenmeyin, eğer görünmek istemiyorsanız odaya girmeden önce sayfanın altındaki menüden tekrar kapatabilirsiniz.',
     tooOldBrowser: 'Tarayınız çok eski ya da Microsoft tarafından üretilmiş. Pek çok özelliği kullanamayabilirsiniz.',
     pluginsLoadFailed: 'Eklentiler yüklenemedi',
-    researchConsent: 'Merhaba! <br> <br>Şu anda verdiğimiz hizmeti geliştirmek için önemli bir güncelleme yapıyoruz.<br><br>Herhangi bir hatayla karşılaşırsanız lütfen hello@xroom.app adresinden bize bildirin.',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,7 +72,12 @@ export default {
   wl: {
     poweredBy: '… tarafından desteklenmektedir',
   },
+  modes: {
+    1: 'Conference',
+    2: 'Webinar',
+  },
   pre: {
+    selectMode: 'Choose room type',
     checkIt: 'Mikrofonunuzu ve saçınızı kontrol edin',
     btnGo: 'İçeri gir',
     knockDenied: 'Giriş isteğiniz reddedildi. Odaya giremezsiniz.:(',
@@ -81,7 +85,6 @@ export default {
     noAudio: '⚠️ Mikrofon sinyali algılanmadı',
     roomIsBusyWebinar: 'Bir webinar/yayın başladı (%s × 🙂)',
     roomIsBusyConference: 'Bir konferans başladı (%s × 🙂)',
-    startWebinar: 'Yayın/webinar modunda başla',
   },
   videoMenu: {
     hint: 'Menüyü değiştir',

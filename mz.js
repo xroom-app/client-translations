@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Po tiskańja tipky "Dobro" <b>dozvoli</b>, prosimo, xroom koristati kamerų.<br><br>Ne trevoži sę, jestli ne hočeš že by te viděli, možno bųde bez problemov zamknųti jų pozdněje.',
     tooOldBrowser: 'Tvoja prěględka je zastarěla abo je proizvedena v Microsoft. Mnoge funkcije mogųt ne råbotati.',
     pluginsLoadFailed: 'Failed loading plugins',
-    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,6 +72,10 @@ export default {
   wl: {
     poweredBy: 'Råbotaje na ',
   },
+  modes: {
+    1: 'Conference',
+    2: 'Webinar',
+  },
   pre: {
     checkIt: 'Prověri svoj mikrofon i kamerų',
     btnGo: 'Vstupi',
@@ -81,7 +84,6 @@ export default {
     noAudio: '⚠️ Ne čujemo zvųkovogo signala',
     roomIsBusyWebinar: 'Webinar/strim už ide (%s × 🙂)',
     roomIsBusyConference: 'Web-konferencija už ide (%s × 🙂)',
-    startWebinar: 'Načeti v režimu strim/webinar',
   },
   videoMenu: {
     hint: 'Phni menu',

@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Dopo aver premuto Ok per favore <b>dai il consenso</b> a xroom di usare la tua videocamera.<br><br>Non preoccuparti! Sarai in grado di spegnerla di nuovo prima di entrare nella stanza dal menu in basso, se vuoi rimanere non visibile.',
     tooOldBrowser: 'Il tuo browser non è supportato o è prodotto da Microsoft. Molte funzioni potrebbero non essere disponibili.',
     pluginsLoadFailed: 'Caricamento dei plugin non riuscito',
-    researchConsent: 'Ciao!<br><br>Attualmente stiamo facendo un serio aggiornamento per migliorare il servizio.<br><br>Se si riscontrano errori, si prega di segnalarlo a hello@xroom.app',
     protoExpired: 'Versione client troppo vecchia. Premi Ctrl&nbsp;+&nbsp;F5 per ricaricare. Se ricevi di nuovo questo messaggio, per favore cancella manualmente la cache del browser.',
     peerError: 'Qualcosa è andato storto durante lo scambio di dati con i tuoi colleghi. Ti consigliamo di ricaricare la pagina.',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,7 +72,12 @@ export default {
   wl: {
     poweredBy: 'Offerto da',
   },
+  modes: {
+    1: 'Conferenza',
+    2: 'Webinar',
+  },
   pre: {
+    selectMode: 'Scegli il tipo di camera',
     checkIt: 'Controlla il tuo microfono e le cuffie',
     btnGo: 'Entra',
     knockDenied: 'La tua richiesta di bussata è stata respinta. Non puoi entrare nella stanza. :(',
@@ -81,7 +85,6 @@ export default {
     noAudio: 'Nessun segnale dal microfono rilevato',
     roomIsBusyWebinar: 'Un webinar/streaming è attualmente in corso (%s × 🙂)',
     roomIsBusyConference: 'Una conferenza è attualmente in corso (%s × 🙂)',
-    startWebinar: 'Avvia in modalita streaming/webinar',
   },
   videoMenu: {
     hint: 'Attiva/disattiva menu',

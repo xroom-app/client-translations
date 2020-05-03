@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Efter du trycker på OK, <b>låt</b> xroom använda din kamera.<br><br>Oroa dig inte, du ska kunna stänga av det igen innan du går in i rummet från menyn längst ner om du vill stanna osynlig.',
     tooOldBrowser: 'Din webbläsare är för gammal eller tillverkad av Microsoft. Många funktioner kan saknas.',
     pluginsLoadFailed: 'Det gick inte att ladda plugin',
-    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
     protoExpired: 'För gammal klientversion. Tryck på Ctrl&nbsp;+&nbsp;F5 för att ladda om. Om du ser detta meddelande igen, rensa webbläsarens cache manuellt tack.',
     peerError: 'Något gick fel när du utbytte data med andra. Vi föreslår att du laddar om sidan.',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,7 +72,12 @@ export default {
   wl: {
     poweredBy: 'Drivs av ',
   },
+  modes: {
+    1: 'Conference',
+    2: 'Webinar',
+  },
   pre: {
+    selectMode: 'Choose room type',
     checkIt: 'Ser du bra ut?',
     btnGo: 'Börja',
     knockDenied: 'Din knock-begäran har nekats. Du kan inte komma in i rummet. :(',
@@ -81,7 +85,6 @@ export default {
     noAudio: '⚠️ Vi känner inte din mikrofon',
     roomIsBusyWebinar: 'En webinar/stream är redan på gång (%s × 🙂)',
     roomIsBusyConference: 'Ett samtal är redan på gång (%s × 🙂)',
-    startWebinar: 'Starta som en stream/webinar',
   },
   videoMenu: {
     hint: 'Meny',

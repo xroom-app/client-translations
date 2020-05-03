@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Tras presionar OK, <b>permite</b> que xroom use la cámara.<br><br>¡No te preocupes! Podrás apagarla antes de entrar a la sala desde el menú inferior si deseas permanecer invisible.',
     tooOldBrowser: 'Tu navegador es muy antiguo o es de Microsoft. Te perderás de varias funciones.',
     pluginsLoadFailed: 'Error al cargar plugins',
-    researchConsent: '¡Hola!<br><br>Actualmente estamos realizando una actualización seria para mejorar el servicio.<br><br>Si enfrenta algún error, puede informarlo a hello@xroom.app',
     protoExpired: 'Versión del cliente demasiado antigua. Presione Ctrl&nbsp;+&nbsp;F5 para volver a cargar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
     peerError: 'Algo salió mal al intercambiar datos con sus compañeros. Sugerimos volver a cargar la página.',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,7 +72,12 @@ export default {
   wl: {
     poweredBy: 'Desarrollado por',
   },
+  modes: {
+    1: 'Conferencia',
+    2: 'Webinar',
+  },
   pre: {
+    selectMode: 'Elija el tipo de habitación',
     checkIt: 'Verifica el mic y tu cabello',
     btnGo: 'Ingresar',
     knockDenied: 'Tu solicitud de acceso fue denegada. No puedes entrar a la sala. :(',
@@ -81,7 +85,6 @@ export default {
     noAudio: '⚠️ No se detecta señal de mic',
     roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s × 🙂)',  // validate translation
     roomIsBusyConference: 'Una conferencia está corriendo (%s × 🙂)',  // validate translation
-    startWebinar: 'Comenzar como stream/webinar',  // validate translation
   },
   videoMenu: {
     hint: 'Cambiar menú',

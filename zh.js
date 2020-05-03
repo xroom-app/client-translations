@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: '按“确定”后，请<b>允许</b>xroom使用您的相机。<br><br>别担心！如果您想保持隐身状态，则可以再次关闭它，然后从下方的选项中进入房间。',
     tooOldBrowser: '您的浏览器太旧或是由Microsoft生产。许多功能可能无法操作。',
     pluginsLoadFailed: '安装插件失败',
-    researchConsent: '您好！<br><br>我们正在认真的提升以改善服务。<br><br>如果遇到任何问题，非常欢迎您向hello@xroom.app通报。',
     protoExpired: '客户端版本太旧。请按 Ctrl&nbsp;+&nbsp;F5 重新加载。若您再次看到此消息，请自己清除浏览器缓存。',
     peerError: '与同伴交换数据时出现了问题。我们建议重新加载页面。',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,7 +72,12 @@ export default {
   wl: {
     poweredBy: '供应为 ',
   },
+  modes: {
+    1: 'Conference',
+    2: 'Webinar',
+  },
   pre: {
+    selectMode: 'Choose room type',
     checkIt: '请检查您的麦克风和发型',
     btnGo: '进入',
     knockDenied: '您的敲门请求已被拒绝。您无法进入此聊天室。:(',
@@ -81,7 +85,6 @@ export default {
     noAudio: '⚠️ 未检测到麦克风信号',
     roomIsBusyWebinar: '网络研讨会/视频正在进行 (%s × 🙂)',
     roomIsBusyConference: '会议正在进行 (%s × 🙂)',
-    startWebinar: '以网络研讨会模式开始',
   },
   videoMenu: {
     hint: '切换选项',

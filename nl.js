@@ -53,7 +53,6 @@ export default {
     allowCameraPlz: 'Nadat je op OK gebruikt hebt, geef xroom <b>permissie</b> om je webcam te gebruiken.<br><br>Geen zorgen! Je kunt het weer afzetten voordat je de ruimte binnen gaat via het menu onderaan je scherm voor als je onzichtbaar wilt blijven.',
     tooOldBrowser: 'Je browser is te oud of wordt gemaakt door Microsoft. Veel features zullen niet aanwezig zijn.',
     pluginsLoadFailed: 'Plugins laden mislukt',
-    researchConsent: 'Hi!<br><br>We are currently doing a serious upgrade to improve the service.<br><br>If you face any error you are very welcome to report it to hello@xroom.app',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
@@ -73,6 +72,10 @@ export default {
   wl: {
     poweredBy: 'Powered by ',
   },
+  modes: {
+    1: 'Conference',
+    2: 'Webinar',
+  },
   pre: {
     checkIt: 'Check je mic en kam je haar',
     btnGo: 'Ga naar binnen',
@@ -81,7 +84,6 @@ export default {
     noAudio: '⚠️ Geen microfoon signaal gedetecteerd',
     roomIsBusyWebinar: 'Een webinar/stream is al actief (%s × 🙂)',  // validate translation
     roomIsBusyConference: 'Een conference is al actief (%s × 🙂)',  // validate translation
-    startWebinar: 'Start in stream/webinar modus',  // validate translation
   },
   videoMenu: {
     hint: 'Toggle menu',
