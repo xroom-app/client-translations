@@ -58,7 +58,7 @@ export default {
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
     hostRoleRequired: 'Host role is required for this action.',
-    alreadyHosted: 'Room is already hosted. Don\'t enter the same room from 2 browser tabs. 😉',
+    alreadyHosted: 'Room is already hosted. Do not enter the same room from 2 browser tabs. 😉',
   },
   home: {
     nisdos: 'We do not use cookies',
