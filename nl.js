@@ -77,6 +77,7 @@ export default {
     2: 'Webinar',
   },
   pre: {
+    selectMode: 'Kies ruimtes type',
     checkIt: 'Check je mic en kam je haar',
     btnGo: 'Ga naar binnen',
     knockDenied: 'Je klop wordt niet beantwoord. Je kunt niet binnenkomen. :(',

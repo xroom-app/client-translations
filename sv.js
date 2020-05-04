@@ -77,7 +77,7 @@ export default {
     2: 'Webinar',
   },
   pre: {
-    selectMode: 'Choose room type',
+    selectMode: 'Välj rumstyp',
     checkIt: 'Ser du bra ut?',
     btnGo: 'Börja',
     knockDenied: 'Din knock-begäran har nekats. Du kan inte komma in i rummet. :(',

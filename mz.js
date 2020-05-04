@@ -73,10 +73,11 @@ export default {
     poweredBy: 'Råbotaje na ',
   },
   modes: {
-    1: 'Conference',
+    1: 'Konferencija',
     2: 'Webinar',
   },
   pre: {
+    selectMode: 'Izberi režim komnaty',
     checkIt: 'Prověri svoj mikrofon i kamerų',
     btnGo: 'Vstupi',
     knockDenied: 'Your knock request has been denied. You can`t enter the room. :(',
@@ -113,7 +114,7 @@ export default {
     invite: 'Pozovi svojih koleg',
     beforeCopy: 'klikni da by kopirovati',
     afterCopy: 'kopirovano!',
-    webinar: 'Webinar not started yet',
+    webinar: 'Webinar ješče ne načel sę',
   },
   video: {
     you: 'Ty',
@@ -129,7 +130,7 @@ export default {
     dropMe: 'Opusti mi!',
   },
   webinar: {
-    peersCount: '%s people are watching',
+    peersCount: '%s ljudi zrějųt',
   },
   settings: {
     experimental: '*) probno, rabotaje nestabilno',
