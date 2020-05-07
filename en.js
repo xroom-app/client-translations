@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'After you press OK please <b>allow</b> xroom to use your camera.<br><br>Don\'t worry! You will be able to turn it off again before entering the room from the menu at the bottom if you want to stay invisible.',
     tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
     pluginsLoadFailed: 'Failed loading plugins',
-    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',

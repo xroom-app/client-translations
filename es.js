@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Tras presionar OK, <b>permite</b> que xroom use la cámara.<br><br>¡No te preocupes! Podrás apagarla antes de entrar a la sala desde el menú inferior si deseas permanecer invisible.',
     tooOldBrowser: 'Tu navegador es muy antiguo o es de Microsoft. Te perderás de varias funciones.',
     pluginsLoadFailed: 'Error al cargar plugins',
-    protoExpired: 'Versión del cliente demasiado antigua. Presione Ctrl&nbsp;+&nbsp;F5 para volver a cargar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
+    protoExpired: 'Versión del cliente demasiado antigua. Presione Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 para volver a cargar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
     peerError: 'Algo salió mal al intercambiar datos con sus compañeros. Sugerimos volver a cargar la página.',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'El usuario %s sugirió que instale el complemento %s. ¿Desea hacerlo?',

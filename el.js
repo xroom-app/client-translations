@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Αφού πιέσετε OK παρακαλώ <b>επιτρέψτε</b> στο xroom να χρησιμοποιήσει την κάμερα.<br><br>Μην ανησυχείτε! Θα μπορέσετε να την απενεργοποιήσετε ξανά προτού μπείτε στο δωμάτιο από το μενού στο κάτω μέρος της οθόνης εαν θέλετε να είστε αόρατος/η.',
     tooOldBrowser: 'Ο περιηγητής σας είναι πολύ παλιός ή παράγεται από την Microsoft. Πολλά πρόσθετα μπορεί να λείπουν.',
     pluginsLoadFailed: 'Αποτυχία φόρτωσης plugins',
-    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
     hostRoleRequired: 'Host role is required for this action.',

@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Nadat je op OK gebruikt hebt, geef xroom <b>permissie</b> om je webcam te gebruiken.<br><br>Geen zorgen! Je kunt het weer afzetten voordat je de ruimte binnen gaat via het menu onderaan je scherm voor als je onzichtbaar wilt blijven.',
     tooOldBrowser: 'Je browser is te oud of wordt gemaakt door Microsoft. Veel features zullen niet aanwezig zijn.',
     pluginsLoadFailed: 'Plugins laden mislukt',
-    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again please clear browser cache manually.',
     peerError: 'Something went wrong when exchanging data with your peers. We suggest reloading the page.',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',

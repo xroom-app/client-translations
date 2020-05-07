@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Efter du trycker på OK, <b>låt</b> xroom använda din kamera.<br><br>Oroa dig inte, du ska kunna stänga av det igen innan du går in i rummet från menyn längst ner om du vill stanna osynlig.',
     tooOldBrowser: 'Din webbläsare är för gammal eller tillverkad av Microsoft. Många funktioner kan saknas.',
     pluginsLoadFailed: 'Det gick inte att ladda plugin',
-    protoExpired: 'För gammal klientversion. Tryck på Ctrl&nbsp;+&nbsp;F5 för att ladda om. Om du ser detta meddelande igen, rensa webbläsarens cache manuellt tack.',
+    protoExpired: 'För gammal klientversion. Tryck på Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 för att ladda om. Om du ser detta meddelande igen, rensa webbläsarens cache manuellt tack.',
     peerError: 'Något gick fel när du utbytte data med andra. Vi föreslår att du laddar om sidan.',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'Användare %s föreslog att du installerar plugin %s. Vill du göra det?',

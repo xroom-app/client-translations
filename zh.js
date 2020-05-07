@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: '按“确定”后，请<b>允许</b>xroom使用您的相机。<br><br>别担心！如果您想保持隐身状态，则可以再次关闭它，然后从下方的选项中进入房间。',
     tooOldBrowser: '您的浏览器太旧或是由Microsoft生产。许多功能可能无法操作。',
     pluginsLoadFailed: '安装插件失败',
-    protoExpired: '客户端版本太旧。请按 Ctrl&nbsp;+&nbsp;F5 重新加载。若您再次看到此消息，请自己清除浏览器缓存。',
+    protoExpired: '客户端版本太旧。请按 Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 重新加载。若您再次看到此消息，请自己清除浏览器缓存。',
     peerError: '与同伴交换数据时出现了问题。我们建议重新加载页面。',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',

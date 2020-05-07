@@ -53,7 +53,7 @@ export default {
     allowCameraPlz: 'Dopo aver premuto Ok per favore <b>dai il consenso</b> a xroom di usare la tua videocamera.<br><br>Non preoccuparti! Sarai in grado di spegnerla di nuovo prima di entrare nella stanza dal menu in basso, se vuoi rimanere non visibile.',
     tooOldBrowser: 'Il tuo browser non è supportato o è prodotto da Microsoft. Molte funzioni potrebbero non essere disponibili.',
     pluginsLoadFailed: 'Caricamento dei plugin non riuscito',
-    protoExpired: 'Versione client troppo vecchia. Premi Ctrl&nbsp;+&nbsp;F5 per ricaricare. Se ricevi di nuovo questo messaggio, per favore cancella manualmente la cache del browser.',
+    protoExpired: 'Versione client troppo vecchia. Premi Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 per ricaricare. Se ricevi di nuovo questo messaggio, per favore cancella manualmente la cache del browser.',
     peerError: 'Qualcosa è andato storto durante lo scambio di dati con i tuoi colleghi. Ti consigliamo di ricaricare la pagina.',
     enterpriseOnly: 'This is an enterprise only feature.',
     pluginSuggested: 'L`utente %s ti ha suggerito di installare il plug-in %s. Desideri farlo?',
