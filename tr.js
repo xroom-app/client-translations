@@ -19,6 +19,7 @@ export default {
     knock: 'tak tak',
     allowIn: 'İçeri al',
     deny: 'Reddet',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'Görünüşe göre bu tarayıcı XROOM’ desteklemiyor ya da WebRTC devre dışı bırakılmış. 😢',

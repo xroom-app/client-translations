@@ -19,6 +19,7 @@ export default {
     knock: 'Τοκ τοκ',
     allowIn: 'Αποδοχή',
     deny: 'Απόρριψη',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'Φαίνεται ότι αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει το XROOM ή το WebRTC είναι απενεργοποιημένο. 😢',

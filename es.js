@@ -19,6 +19,7 @@ export default {
     knock: 'Noc-noc',
     allowIn: 'Admitir',
     deny: 'Denegar',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'Parece que este navegador no soporta XROOM o WebRTC está deshabilitado. 😢',

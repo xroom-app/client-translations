@@ -19,6 +19,7 @@ export default {
     knock: 'Knock-knock',
     allowIn: 'Allow in',
     deny: 'Deny',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'It looks like this browser does not support XROOM or WebRTC is disabled. 😢',

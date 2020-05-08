@@ -19,6 +19,7 @@ export default {
     knock: 'Stukni',
     allowIn: 'Dozvoli',
     deny: 'Odkaži',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'Kaže sę, že tuta prěględka ne poddŕživaje XROOM, abo WebRTC je nedějųći. 😢',

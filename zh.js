@@ -19,6 +19,7 @@ export default {
     knock: '敲敲',
     allowIn: '允许',
     deny: '拒绝',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: '该浏览器似乎不支持XROOM或WebRTC已禁用。😢',

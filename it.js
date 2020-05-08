@@ -19,6 +19,7 @@ export default {
     knock: 'Toc toc',
     allowIn: 'Accesso consentito',
     deny: 'Accesso negato',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'Sembra che questo browser non supporti XROOM o WebRTC sia disabilitato.',

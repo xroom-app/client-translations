@@ -19,6 +19,7 @@ export default {
     knock: 'Knack knack',
     allowIn: 'Låt in',
     deny: 'Neka',
+    enterAnyway: 'Enter anyway',
   },
   mbox: {
     notSupported: 'Det känns som denna webläsare stöder inte XROOM eller WebRTC är inaktiverat. 😢',
