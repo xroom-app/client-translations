@@ -60,6 +60,7 @@ export default {
     pluginSuggested: 'Användare %s föreslog att du installerar plugin %s. Vill du göra det?',
     hostRoleRequired: 'Host-roll krävs för den här åtgärden.',
     alreadyHosted: 'Rummet har redan en värd. Gå inte in i samma rum från två webbläsarflikar. 😉',
+    roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
   },
   home: {
     nisdos: 'Inga "cookies" används här',

@@ -60,6 +60,7 @@ export default {
     pluginSuggested: 'User %s suggested you to install plugin %s. Do you wish to do it?',
     hostRoleRequired: 'Host role is required for this action.',
     alreadyHosted: 'Room is already hosted. Do not enter the same room from 2 browser tabs. 😉',
+    roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
   },
   home: {
     nisdos: '我们不使用cookies',
