@@ -59,6 +59,7 @@ export default {
     hostRoleRequired: 'Host-roll krävs för den här åtgärden.',
     alreadyHosted: 'Rummet har redan en värd. Gå inte in i samma rum från två webbläsarflikar. 😉',
     roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
+    roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
   },
   home: {
     nisdos: 'Inga "cookies" används här',
