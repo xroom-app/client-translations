@@ -39,8 +39,6 @@ export default {
     oops: 'Lo sentimos',
     kickedOutText: 'Te han expulsado',
     areYouSure: '¿Estás seguro?',
-    doYouWantToLeave: '¿De veras deseas irte?',
-    doYouWantToLeaveAsHost: '¿De verdad quieres dejar de transmitir?',  // validate translation
     restartRequiredText: 'Este ajuste afecta muchas cosas, así que hace falta volver a cargar. ¡Es rápido, no te preocupes!',
     onlySafariOnIOS: 'En iOS solo es compatible Safari. ¡"Gracias", Apple!',
     cannotLoadPlugin: 'El plugin "%s" no es compatible con tu navegador',
@@ -95,6 +93,7 @@ export default {
     volume: 'Volumen ±',
     restore: 'Restaurar',
     kick: 'Expulsar',
+    mute: 'Silenciar',
   },
   controls: {
     ss: 'Pantalla compartida %s',
@@ -102,6 +101,7 @@ export default {
     mic: 'Mic %s',
     chat: 'Chat %s',
     exit: 'Salir',
+    destroy: 'Destruir',
     xroom: 'Desarrollado por xroom',
     settings: 'Ajustes',
     plugins: 'Plugins',

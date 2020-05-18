@@ -39,8 +39,6 @@ export default {
     oops: 'Sorry',
     kickedOutText: 'Je bent uit de ruimte gezet.',
     areYouSure: 'Weet je het zeker?',
-    doYouWantToLeave: 'Weet je zeker dat je de ruimte wilt verlaten?',
-    doYouWantToLeaveAsHost: 'Weet je zeker dat je wilt stoppen met streamen?',  // validate translation
     restartRequiredText: 'Deze instelling wijzigd zoveel dingen dat een herstart noodzakelijk is. Geen zorgen, dat doen we heel snel!',
     onlySafariOnIOS: 'Op iOS wordt alleen Safari ondersteund. "Bedankt", Apple!',
     cannotLoadPlugin: 'Plugin "%s" wordt niet door je browser ondersteund',
@@ -90,11 +88,12 @@ export default {
   },
   videoMenu: {
     hint: 'Toggle menu',
-    expand: 'Expand',
+    expand: 'Uitbreiden',
     fullscreen: 'Volledig scherm',
     volume: 'Volume ±',
     restore: 'Herstel',
     kick: 'Schop',
+    mute: 'Dempen',
   },
   controls: {
     ss: 'Scherm delen %s',
@@ -102,6 +101,7 @@ export default {
     mic: 'Mic %s',
     chat: 'Chat %s',
     exit: 'Vertrek',
+    destroy: 'Vernietigen',
     xroom: 'Powered by xroom',
     settings: 'Instellingen',
     plugins: 'Plugins',

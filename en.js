@@ -39,8 +39,6 @@ export default {
     oops: 'Sorry',
     kickedOutText: 'You have been kicked out',
     areYouSure: 'Are you sure?',
-    doYouWantToLeave: 'Do you really want to leave?',   // not used anymore
-    doYouWantToLeaveAsHost: 'Do you really want to stop streaming?',   // not used anymore
     restartRequiredText: 'This setting affects too much stuff, a so a reload is required. That\'s quick, don\'t worry!',
     onlySafariOnIOS: 'On iOS only Safari is supported. "Thank you", Apple!',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
@@ -95,6 +93,7 @@ export default {
     volume: 'Volume ±',
     restore: 'Restore',
     kick: 'Kick',
+    mute: 'Mute',
   },
   controls: {
     ss: 'Screen sharing %s',
@@ -102,6 +101,7 @@ export default {
     mic: 'Mic %s',
     chat: 'Chat %s',
     exit: 'Exit',
+    destroy: 'Destroy',
     xroom: 'Powered by xroom',
     settings: 'Settings',
     plugins: 'Plugins',
