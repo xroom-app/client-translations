@@ -61,6 +61,9 @@ export default {
     roomLockedPassword: 'Комната закрыта паролем. Введите его, если знаете.',
     roomDestroyed: 'Комната была уничтожена. Сейчас мы перенаправим вас на главную страницу.',
   },
+  notify: {
+    slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
+  },
   home: {
     nisdos: 'Ми не використовуємо кукі',
     title: 'Твоя відеоконференція на максималках',

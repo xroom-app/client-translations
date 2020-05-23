@@ -61,6 +61,9 @@ export default {
     roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
   },
+  notify: {
+    slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
+  },
   home: {
     nisdos: 'Non usiamo i cookie',
     title: 'La tua sala conferenze personale',
