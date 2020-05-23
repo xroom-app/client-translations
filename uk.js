@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ Мікрофон не працює',
     roomIsBusyWebinar: 'Вже йде стрім/вебінар (%s × 🙂)',
     roomIsBusyConference: 'Вже йде конференція (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Меню',

@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ Ne čujemo zvųkovogo signala',
     roomIsBusyWebinar: 'Webinar/strim už ide (%s × 🙂)',
     roomIsBusyConference: 'Web-konferencija už ide (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Phni menu',

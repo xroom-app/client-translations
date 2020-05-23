@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ 未检测到麦克风信号',
     roomIsBusyWebinar: '网络研讨会/视频正在进行 (%s × 🙂)',
     roomIsBusyConference: '会议正在进行 (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: '切换选项',

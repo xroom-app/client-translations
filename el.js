@@ -87,6 +87,7 @@ export default {
     noAudio: '⚠️ Δεν εντοπίστηκε σήμα μικροφώνου',
     roomIsBusyWebinar: 'A webinar/stream is already running (%s × 🙂)',
     roomIsBusyConference: 'A conference is now running (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Εναλλάξτε το μενού',

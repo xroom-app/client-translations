@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ Geen microfoon signaal gedetecteerd',
     roomIsBusyWebinar: 'Een webinar/stream is al actief (%s × 🙂)',  // validate translation
     roomIsBusyConference: 'Een conference is al actief (%s × 🙂)',  // validate translation
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Toggle menu',

@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ Mikrofon sinyali algılanmadı',
     roomIsBusyWebinar: 'Bir webinar/yayın başladı (%s × 🙂)',
     roomIsBusyConference: 'Bir konferans başladı (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Menüyü değiştir',

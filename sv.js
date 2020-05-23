@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ Vi känner inte din mikrofon',
     roomIsBusyWebinar: 'En webinar/stream är redan på gång (%s × 🙂)',
     roomIsBusyConference: 'Ett samtal är redan på gång (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Meny',

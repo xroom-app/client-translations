@@ -86,6 +86,7 @@ export default {
     noAudio: 'Nessun segnale dal microfono rilevato',
     roomIsBusyWebinar: 'Un webinar/streaming è attualmente in corso (%s × 🙂)',
     roomIsBusyConference: 'Una conferenza è attualmente in corso (%s × 🙂)',
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Attiva/disattiva menu',

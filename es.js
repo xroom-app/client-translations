@@ -86,6 +86,7 @@ export default {
     noAudio: '⚠️ No se detecta señal de mic',
     roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s × 🙂)',  // validate translation
     roomIsBusyConference: 'Una conferencia está corriendo (%s × 🙂)',  // validate translation
+    sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
     hint: 'Cambiar menú',
