@@ -60,6 +60,7 @@ export default {
     alreadyHosted: 'La chambre est déjà hébergée. N’entrez pas dans la même pièce à partir de 2 onglets du navigateur. 😉',
     roomLockedPassword: 'La salle est actuellement verrouillée avec un mot de passe. Entrez-le ci-dessous si vous le connaissez.',
     roomDestroyed: 'La salle a été détruite. Vous serez redirigé vers la page de démarrage.',
+    roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.'
   },
   notify: {
     slowPlugins: 'Les plugins prennent trop de temps à charger. Pensez à retirer le plus lourd.',
