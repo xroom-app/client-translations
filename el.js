@@ -61,7 +61,7 @@ export default {
     alreadyHosted: 'Room is already hosted. Do not enter the same room from 2 browser tabs. 😉',
     roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
-    roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.'
+    roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',

@@ -60,7 +60,7 @@ export default {
     alreadyHosted: 'У кімнаті вже є власник. Не намагайтеся ввійти до кімнати з двох сторінок браузера. 😉',
     roomLockedPassword: 'Кімната зачинена під паролем. Введіть його, якщо знаєте.',
     roomDestroyed: 'Кімната була видалена. Зараз ми перенаправимо вас на головну сторінку.',
-    roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.'
+    roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
   },
   notify: {
     slowPlugins: 'Завантаження плагінів займає забагато часу. Спробуйте видалити найбільш великі.',
