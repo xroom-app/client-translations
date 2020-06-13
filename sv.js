@@ -19,7 +19,7 @@ export default {
     knock: 'Knack knack',
     allowIn: 'Låt in',
     deny: 'Neka',
-    enterAnyway: 'Enter anyway',
+    enterAnyway: 'Gå in ändå',
   },
   mbox: {
     notSupported: 'Det känns som denna webläsare stöder inte XROOM eller WebRTC är inaktiverat. 😢',
@@ -58,12 +58,12 @@ export default {
     pluginSuggested: 'Användare %s föreslog att du installerar plugin %s. Vill du göra det?',
     hostRoleRequired: 'Host-roll krävs för den här åtgärden.',
     alreadyHosted: 'Rummet har redan en värd. Gå inte in i samma rum från två webbläsarflikar. 😉',
-    roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
-    roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
-    roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
+    roomLockedPassword: 'Rummet är låst med ett lösenord. Ange det nedan om du vet det.',
+    roomDestroyed: 'Rummet blev förstört. Du kommer att omdirigeras till startsidan.',
+    roomBooked: 'Rummet är bokat och kan inte skapas genom UI tills bokningen löper ut.',
   },
   notify: {
-    slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
+    slowPlugins: 'Pluginladdning tar för mycket tid. Tänk på att ta bort det tyngsta plugin.',
   },
   home: {
     nisdos: 'Inga "cookies" används här',
@@ -78,7 +78,7 @@ export default {
     poweredBy: 'Drivs av ',
   },
   modes: {
-    1: 'Conference',
+    1: 'Konferens',
     2: 'Webinar',
   },
   pre: {
@@ -90,7 +90,7 @@ export default {
     noAudio: '⚠️ Vi känner inte din mikrofon',
     roomIsBusyWebinar: 'En webinar/stream är redan på gång (%s × 🙂)',
     roomIsBusyConference: 'Ett samtal är redan på gång (%s × 🙂)',
-    sizeLimitReached: 'This room was limited by size and the limit is reached',
+    sizeLimitReached: 'Rummets kapacitet var begränsat och gränsen är nådd',
   },
   videoMenu: {
     hint: 'Meny',
