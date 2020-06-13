@@ -88,8 +88,8 @@ export default {
     knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
     knockRequested: 'Awaiting for a permission. People can see you through a peephole. 👀',
     noAudio: '⚠️ No mic signal detected',
-    roomIsBusyWebinar: 'A webinar/stream is now running (%s × 🙂)',
-    roomIsBusyConference: 'A conference is now running (%s × 🙂)',
+    roomIsBusyWebinar: 'A webinar/stream is now running (%s×🙂 / %s×🤖)',
+    roomIsBusyConference: 'A conference is now running (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
