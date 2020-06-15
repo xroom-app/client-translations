@@ -150,7 +150,7 @@ export default {
     rtcDebug: 'Debug RTC',
     audioDevices: 'Surse audio',
     videoDevices: 'Surse video',
-    language: 'Limba
+    language: 'Limba',
     theme: 'Color theme',
     server: 'Server',
   },
