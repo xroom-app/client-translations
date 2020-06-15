@@ -33,8 +33,8 @@ export default {
     iWillOnlyWatch: 'Doresc doar sa ma uit',
     iWillOnlyListen: 'Doresc doar sa ascult',
     screenSharingText: '"Screen sharing" nu este permis. Verifica daca nu cumva acest lucru este blocat pentru aceasta pagina',
-    cannotFile: 'Since we don\'t even touch your files we cannot deliver them after someone connects. You need to do it when people are in.',
-    cannotMessage: 'Since we don\'t even touch your messages we cannot deliver them after someone connects. You need to do it when people are in.',
+    cannotFile: 'Since we do not even touch your files we cannot deliver them after someone connects. You need to do it when people are in.',
+    cannotMessage: 'Since we do not even touch your messages we cannot deliver them after someone connects. You need to do it when people are in.',
     roomLockedText: 'Aceasta camera de videoconferinte are acces blocat pentru altii',
     oops: 'Imi pare rau',
     kickedOutText: 'Ai fost dat afara',
@@ -60,7 +60,7 @@ export default {
     alreadyHosted: 'Esti deja in aceasta camera de videoconferinta. Nu poti fi in ea in acelasi timp, in 2 tab-uri de browser. 😉',
     roomLockedPassword: 'Accesul la camera de videoconferinta necesita paraola. Pentru a intra, scrie parola.',
     roomDestroyed: 'Aceasta camera de videoconferinte nu mai exista.',
-    roomBooked: 'Camera de videoconferinta este blocata si nu mai poate fi creata pana la expirarea ei.'
+    roomBooked: 'Camera de videoconferinta este blocata si nu mai poate fi creata pana la expirarea ei.',
   },
   notify: {
     slowPlugins: 'Plugin-ul nu poate fi incarcat.',
@@ -162,9 +162,9 @@ export default {
     add: {
       title: 'Adauga un plugin',
       descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory. Plugins API manual is available <a href="https://github.com/punarinta/xroom-plugins" target="_blank">here</a>.',
-      name: 'What\'s the plugin name?',
+      name: 'What is the plugin name?',
       rootUrl: 'Where is the plugin root?',
-      loaded: 'Yaay! It\'s loaded!',
+      loaded: 'Yaay! It is loaded!',
       loadFailed: 'Failed loading plugin',
     }
   },
@@ -182,15 +182,15 @@ export default {
   tips: {
     prefix: 'Tip of the day: ',
     lines: [
-      'Mute/unmute often? There\'s a hot key "m" for that.',
+      'Mute/unmute often? There is a hot key "m" for that.',
       'Double click a remote video to make it full screen.',
       'Need to lock your room? Just add the room locking in plugins below.',
       'Use Slack and want to save more time? Try out our <a href="//about.xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
       'Miss video calls in Telegram? Our <a href="//about.xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
-      'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
+      'Need to share a copied image? Ctrl+V in the chat, we will cover the rest.',
       'Click your name to change it both locally and for your peers.',
       'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
-      'Need to sketch during a call — try out the sketching plugin. Don\'t forget to turn on screen sharing.',
+      'Need to sketch during a call — try out the sketching plugin. Do not forget to turn on screen sharing.',
       'Click your name or "You" to rename yourself for everyone.',
     ]
   },
