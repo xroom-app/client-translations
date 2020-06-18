@@ -153,6 +153,7 @@ export default {
     language: 'Language',
     theme: 'Color theme',
     server: 'Server',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'by',

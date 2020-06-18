@@ -153,6 +153,7 @@ export default {
     language: 'اللغـة',
     theme: 'شكل الموقع',
     server: 'الخادم',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'بواسطة',

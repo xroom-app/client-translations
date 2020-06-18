@@ -153,6 +153,7 @@ export default {
     language: 'Dil',
     theme: 'Renk teması',
     server: 'Server',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'Geliştirici:',

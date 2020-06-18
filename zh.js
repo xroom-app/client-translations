@@ -153,6 +153,7 @@ export default {
     language: '语言',
     theme: '主题',
     server: '伺服器',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: '通过',

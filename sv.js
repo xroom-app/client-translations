@@ -153,6 +153,7 @@ export default {
     language: 'Språk',
     theme: 'Färgtema',
     server: 'Server',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'av',

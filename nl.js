@@ -153,6 +153,7 @@ export default {
     language: 'Taal',
     theme: 'Kleur thema',
     server: 'Server',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'door',

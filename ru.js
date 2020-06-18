@@ -153,6 +153,7 @@ export default {
     language: 'Язык',
     theme: 'Цветовая тема',
     server: 'Сервер',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'от',

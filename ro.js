@@ -153,6 +153,7 @@ export default {
     language: 'Limba',
     theme: 'Color theme',
     server: 'Server',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'de',

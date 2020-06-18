@@ -152,6 +152,7 @@ export default {
     language: 'Γλώσσα',
     theme: 'Χρώμα θέμα',
     server: 'Server',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'απο',

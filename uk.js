@@ -153,6 +153,7 @@ export default {
     language: 'Мова',
     theme: 'Кольорова тема',
     server: 'Сервер',
+    keepControls: 'Keep controls visible',
   },
   plugins: {
     by: 'від',
