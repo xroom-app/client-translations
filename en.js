@@ -193,6 +193,7 @@ export default {
       'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
       'Need to sketch during a call — try out the sketching plugin. Don\'t forget to turn on screen sharing.',
       'Click your name or "You" to rename yourself for everyone.',
+      'Click peer names to adjust their volume level.'
     ]
   },
 }
