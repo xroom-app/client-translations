@@ -88,8 +88,8 @@ export default {
     knockDenied: 'Your knock request has been denied. You can`t enter the room. :(',
     knockRequested: 'Čekajemo pozvaljańja vstųpiti. Drugi mogųt viděti te črěz podględanok. 👀',
     noAudio: '⚠️ Ne čujemo zvųkovogo signala',
-    roomIsBusyWebinar: 'Webinar/strim už ide (%s × 🙂)',
-    roomIsBusyConference: 'Web-konferencija už ide (%s × 🙂)',
+    roomIsBusyWebinar: 'Webinar/strim už ide (%s×🙂 / %s×🤖)',
+    roomIsBusyConference: 'Web-konferencija už ide (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {

@@ -88,8 +88,8 @@ export default {
     knockDenied: '您的敲门请求已被拒绝。您无法进入此聊天室。:(',
     knockRequested: '等待许可。其他人可以通过窥视孔看到您。👀',
     noAudio: '⚠️ 未检测到麦克风信号',
-    roomIsBusyWebinar: '网络研讨会/视频正在进行 (%s × 🙂)',
-    roomIsBusyConference: '会议正在进行 (%s × 🙂)',
+    roomIsBusyWebinar: '网络研讨会/视频正在进行 (%s×🙂 / %s×🤖)',
+    roomIsBusyConference: '会议正在进行 (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {

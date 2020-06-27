@@ -88,8 +88,8 @@ export default {
     knockDenied: 'La tua richiesta di bussata è stata respinta. Non puoi entrare nella stanza. :(',
     knockRequested: 'In attesa di permesso. Le persone possono vederti attraverso lo spioncino.',
     noAudio: 'Nessun segnale dal microfono rilevato',
-    roomIsBusyWebinar: 'Un webinar/streaming è attualmente in corso (%s × 🙂)',
-    roomIsBusyConference: 'Una conferenza è attualmente in corso (%s × 🙂)',
+    roomIsBusyWebinar: 'Un webinar/streaming è attualmente in corso (%s×🙂 / %s×🤖)',
+    roomIsBusyConference: 'Una conferenza è attualmente in corso (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {

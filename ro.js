@@ -88,8 +88,8 @@ export default {
     knockDenied: 'Acces interzis. Inca nu poti intra. :(',
     knockRequested: 'Asteapta permisiunea de intrare. 👀',
     noAudio: '⚠️ Nu a fost detectat semnal audio',
-    roomIsBusyWebinar: 'Webinarul este pornit (%s × 🙂)',
-    roomIsBusyConference: 'Videoconferinta este pornita (%s × 🙂)',
+    roomIsBusyWebinar: 'Webinarul este pornit (%s×🙂 / %s×🤖)',
+    roomIsBusyConference: 'Videoconferinta este pornita (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Limita de locuri a fost depasita',
   },
   videoMenu: {

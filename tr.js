@@ -88,8 +88,8 @@ export default {
     knockDenied: 'Giriş isteğiniz reddedildi. Odaya giremezsiniz.:(',
     knockRequested: 'İzin için bekleniyor. İnsanlar kapı deliğinden sizi görebilirler. 👀',
     noAudio: '⚠️ Mikrofon sinyali algılanmadı',
-    roomIsBusyWebinar: 'Bir webinar/yayın başladı (%s × 🙂)',
-    roomIsBusyConference: 'Bir konferans başladı (%s × 🙂)',
+    roomIsBusyWebinar: 'Bir webinar/yayın başladı (%s×🙂 / %s×🤖)',
+    roomIsBusyConference: 'Bir konferans başladı (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
   },
   videoMenu: {
