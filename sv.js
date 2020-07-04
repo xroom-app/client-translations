@@ -162,7 +162,7 @@ export default {
     source: 'Källkod',
     add: {
       title: 'Lägg till ett nytt plugin',
-      descr: '⚙️ Utvecklar du ett nytt plugin? Lägg till det här för att testa. Det sparas inte, om du laddar om sidan tas det bort från minnet. Plugin API handbok är tillgänglig <a href="https://github.com/punarinta/xroom-plugins" target="_blank">här</a>.',
+      descr: '⚙️ Utvecklar du ett nytt plugin? Lägg till det här för att testa. Det sparas endast i den här webbläsaren. Plugin API handbok är tillgänglig <a href="https://github.com/xroom-app/client-plugins" target="_blank">här</a>.',
       name: 'Vad heter plugin?',
       rootUrl: 'Var är URL-adressen för plugin?',
       loaded: 'Yaay! Det är laddat!',

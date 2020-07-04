@@ -162,7 +162,7 @@ export default {
     source: 'Source code',
     add: {
       title: 'Add new plugin',
-      descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory. Plugins API manual is available <a href="https://github.com/punarinta/xroom-plugins" target="_blank">here</a>.',
+      descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved anywhere but in your browser. Plugins API manual is available <a href="https://github.com/xroom-app/client-plugins" target="_blank">here</a>.',
       name: 'What\'s the plugin name?',
       rootUrl: 'Where is the plugin root?',
       loaded: 'Yaay! It\'s loaded!',
