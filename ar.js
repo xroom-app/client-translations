@@ -162,7 +162,7 @@ export default {
     source: 'مصدر الكود',
     add: {
       title: 'أضف إضافة جديدة',
-      descr: '⚙️ تطوير إضافة جديدة؟ أضف هنا للاختبار. لا يتم حفظها ، تؤدي إعادة تحميل الصفحة إلى إزالتها من الذاكرة.  دليل API للمكونات الإضافية متاح <a href="https://github.com/punarinta/xroom-plugins" target="_blank">here</a>.',
+      descr: '⚙️ تطوير إضافة جديدة؟ أضف هنا للاختبار. لا يتم حفظها ، تؤدي إعادة تحميل الصفحة إلى إزالتها من الذاكرة.  دليل API للمكونات الإضافية متاح <a href="https://github.com/xroom-app/client-plugins" target="_blank">here</a>.',
       name: 'ما اسم الإضافة؟',
       rootUrl: 'ماهو جذر الإضافة (Root)?',
       loaded: 'أجل! تم تحميله!',

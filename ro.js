@@ -162,7 +162,7 @@ export default {
     source: 'Cod sursa',
     add: {
       title: 'Adauga un plugin',
-      descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory. Plugins API manual is available <a href="https://github.com/punarinta/xroom-plugins" target="_blank">here</a>.',
+      descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory. Plugins API manual is available <a href="https://github.com/xroom-app/client-plugins" target="_blank">here</a>.',
       name: 'What is the plugin name?',
       rootUrl: 'Where is the plugin root?',
       loaded: 'Yaay! It is loaded!',

@@ -162,7 +162,7 @@ export default {
     source: 'Broncode',
     add: {
       title: 'Voeg een nieuwe plugin toe',
-      descr: '⚙️ Een nieuwe plugin aan het ontwikkelen? Voeg het hier to om te testen. Het wordt niet bewaard en de pagina verversen zals de plugin verwijderen. Plugins API handleiding is <a href="https://github.com/punarinta/xroom-plugins" target="_blank">hier</a> beschikbaar.',
+      descr: '⚙️ Een nieuwe plugin aan het ontwikkelen? Voeg het hier to om te testen. Het wordt niet bewaard en de pagina verversen zals de plugin verwijderen. Plugins API handleiding is <a href="https://github.com/xroom-app/client-plugins" target="_blank">hier</a> beschikbaar.',
       name: 'Wat is de naam van de plugin?',
       rootUrl: 'Wat is de root van de plugin?',
       loaded: 'Joepie! Hij is geladen!',

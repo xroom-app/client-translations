@@ -162,7 +162,7 @@ export default {
     source: 'kaynak kodu',
     add: {
       title: 'Yeni eklenti ekle',
-      descr: '⚙️ Yeni bir eklenti mi geliştiriyorsunuz? Test etmek için buraya ekleyin. Eklenti kaydedilmez ve sayfayı yeniden yüklemek silinmesine yol açar. Eklenti API kılavuzuna <a href="https://github.com/punarinta/xroom-plugins" target="_blank"> adresinden ulaşabilirsiniz</a>.',
+      descr: '⚙️ Yeni bir eklenti mi geliştiriyorsunuz? Test etmek için buraya ekleyin. Eklenti kaydedilmez ve sayfayı yeniden yüklemek silinmesine yol açar. Eklenti API kılavuzuna <a href="https://github.com/xroom-app/client-plugins" target="_blank"> adresinden ulaşabilirsiniz</a>.',
       name: 'Eklentinin ismi ne?',
       rootUrl: 'Eklentinin kaynağı ne?',
       loaded: 'Holey, yüklendi!',

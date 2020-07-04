@@ -161,7 +161,7 @@ export default {
     source: '΄Πηγαίος κώδικας',
     add: {
       title: 'Προσθέστε νεο plugin',
-      descr: '⚙️ Αναπτύσσετε ένα νέο plugin? Προσθέστε το εδώ για τεστ. Δεν σώζεται, η επαναφόρτιση της σελίδας την αφαιρεί από την μνήμη. Το εγχειρίδιο για Plugins API είναι διαθέσιμο <a href="https://github.com/punarinta/xroom-plugins" target="_blank">εδώ</a>.',
+      descr: '⚙️ Αναπτύσσετε ένα νέο plugin? Προσθέστε το εδώ για τεστ. Δεν σώζεται, η επαναφόρτιση της σελίδας την αφαιρεί από την μνήμη. Το εγχειρίδιο για Plugins API είναι διαθέσιμο <a href="https://github.com/xroom-app/client-plugins" target="_blank">εδώ</a>.',
       name: 'Ποιο είναι το όνομα του plugin?',
       rootUrl: 'Που είναι η πηγή του plugin?',
       loaded: 'Ναι! Φορτώθηκε!',

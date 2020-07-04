@@ -162,7 +162,7 @@ export default {
     source: 'Code source',
     add: {
       title: 'Ajouter un nouveau plugin',
-      descr: '⚙️ Vous développez un nouveau plugin? Ajoutez-le ici pour tester. Il n’est pas enregistré, le rechargement de la page la supprime de la mémoire. Le manuel de l’API des plugins est disponible <a href="https://github.com/punarinta/xroom-plugins" target="_blank"> ici </a>.',
+      descr: '⚙️ Vous développez un nouveau plugin? Ajoutez-le ici pour tester. Il n’est pas enregistré, le rechargement de la page la supprime de la mémoire. Le manuel de l’API des plugins est disponible <a href="https://github.com/xroom-app/client-plugins" target="_blank"> ici </a>.',
       name: 'Quel est le nom du plugin?',
       rootUrl: 'Ou est la racine du plugin?',
       loaded: 'SUPER!! Tout a marché!',

@@ -162,7 +162,7 @@ export default {
     source: 'Codice sorgente',
     add: {
       title: 'Aggiungi un nuovo plugin',
-      descr: 'Stai sviluppando un nuovo plugin? Aggiungilo qui per testarlo. Non è stato salvato, ricaricando la pagina viene rimosso dalla memoria. Il manuale dei plugin API è disponibile <a href="https://github.com/punarinta/xroom-plugins" target="_blank">qui</a>.',
+      descr: 'Stai sviluppando un nuovo plugin? Aggiungilo qui per testarlo. Non è stato salvato, ricaricando la pagina viene rimosso dalla memoria. Il manuale dei plugin API è disponibile <a href="https://github.com/xroom-app/client-plugins" target="_blank">qui</a>.',
       name: 'Qual è il nome del plugin?',
       rootUrl: 'Dov`è il plugin root?',
       loaded: 'Evviva! Caricamento riuscito!',
