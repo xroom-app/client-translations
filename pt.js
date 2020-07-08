@@ -193,7 +193,7 @@ export default {
       'Alguma vez necessitou de partilhar o ecrã com simples click? Experimente nosso gravador de ecrã em "plugins".',
       'Precisa de rascunho durante a videoconferencia? Experimente em "plugns. Não se esqueça de partilhar o ecrã.',
       'Click em seu nome ou "Você" para alterar o nome.',
-      'Click no nome do participante para ajustar o volume.'
+      'Click no nome do participante para ajustar o volume.',
     ]
   },
 }
