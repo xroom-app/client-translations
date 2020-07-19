@@ -61,6 +61,7 @@ export default {
     roomLockedPassword: 'Rummet är låst med ett lösenord. Ange det nedan om du vet det.',
     roomDestroyed: 'Rummet blev förstört. Du kommer att omdirigeras till startsidan.',
     roomBooked: 'Rummet är bokat och kan inte skapas genom UI tills bokningen löper ut.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'Pluginladdning tar för mycket tid. Tänk på att ta bort det tyngsta plugin.',

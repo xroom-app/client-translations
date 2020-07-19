@@ -62,6 +62,7 @@ export default {
     roomLockedPassword: 'Room is currently locked with a password. Enter it below if you know it.',
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',

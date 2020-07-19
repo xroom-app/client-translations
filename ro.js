@@ -61,6 +61,7 @@ export default {
     roomLockedPassword: 'Accesul la camera de videoconferinta necesita paraola. Pentru a intra, scrie parola.',
     roomDestroyed: 'Aceasta camera de videoconferinte nu mai exista.',
     roomBooked: 'Camera de videoconferinta este blocata si nu mai poate fi creata pana la expirarea ei.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'Plugin-ul nu poate fi incarcat.',

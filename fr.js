@@ -61,6 +61,7 @@ export default {
     roomLockedPassword: 'La salle est actuellement verrouillée avec un mot de passe. Entrez-le ci-dessous si vous le connaissez.',
     roomDestroyed: 'La salle a été détruite. Vous serez redirigé vers la page de démarrage.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'Les plugins prennent trop de temps à charger. Pensez à retirer le plus lourd.',

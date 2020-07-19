@@ -61,6 +61,7 @@ export default {
     roomLockedPassword: 'Sala protegida com senha. Insere a senha se tem acesso.',
     roomDestroyed: 'Sala foi removida. Será redirecionado para a página inicial.',
     roomBooked: 'Sala virtual agendada, não poderá ser criada até que agendamento expire ou seja removida.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',

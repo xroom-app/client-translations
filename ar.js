@@ -61,6 +61,7 @@ export default {
     roomLockedPassword: 'الغرفة مؤمنة حاليا بكلمة مرور. أدخلها في الأسفل ان كنت تعرفها.',
     roomDestroyed: 'تم تدمير الغرفة. ستتم إعادة توجيهك إلى صفحة البداية.',
     roomBooked: 'تم حجز الغرفة ولا يمكن إنشاؤها من خلال الواجهة حتى انتهاء الحجز.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'تستغرق الإضافات وقتًا طويلاً للتحميل. النظر في إزالة أثقل.',

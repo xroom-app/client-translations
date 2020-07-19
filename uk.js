@@ -61,6 +61,7 @@ export default {
     roomLockedPassword: 'Кімната зачинена під паролем. Введіть його, якщо знаєте.',
     roomDestroyed: 'Кімната була видалена. Зараз ми перенаправимо вас на головну сторінку.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
+    nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
     slowPlugins: 'Завантаження плагінів займає забагато часу. Спробуйте видалити найбільш великі.',
