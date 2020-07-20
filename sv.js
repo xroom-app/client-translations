@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Det gick inte att ladda plugin',
     }
   },
-  feedback: {
-    header: 'Åh, en sekund bara...',
-    question: 'Gick allting bra denna gång?',
-    videoFroze: 'Nej, video frös',
-    soundLagged: 'Nej, ljudet var försenat',
-    cantConnect: 'Nej, någon kunde inte ansluta',
-    smthElse: 'Något annat:',
-    feedbackInput: 'lämna ditt feedback...',
-    contactMe: 'Vänligen kontakta mig:',
-    emailInput: 'mitt email...',
-  },
   tips: {
     prefix: 'Dagens tips: ',
     lines: [

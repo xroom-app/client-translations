@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Eklenti yüklenemedi',
     }
   },
-  feedback: {
-    header: 'Üzgünüz, bir saniye bekleyin...',
-    question: 'Bu kez her şey yolunda mı?',
-    videoFroze: 'Hayır, video dondu',
-    soundLagged: 'Hayır, ses geç geliyor',
-    cantConnect: 'Hayır, bağlanamayan biri var',
-    smthElse: 'Başka bir sorun var:',
-    feedbackInput: 'geri bildirim bırakın...',
-    contactMe: 'Lütfen bana ulaşın:',
-    emailInput: 'e-posta adresiniz...',
-  },
   tips: {
     prefix: 'Günlük ipucu: ',
     lines: [

@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Failed loading plugin',
     }
   },
-  feedback: {
-    header: 'Oh, imi pare rau, asteapta un pic...',
-    question: 'Acum este mai bine?',
-    videoFroze: 'Nu merge video',
-    soundLagged: 'Nu, sunetul este intarziat',
-    cantConnect: 'Nu, cineva nu a putut sa se conecteze',
-    smthElse: 'Altceva:',
-    feedbackInput: 'lasa un feedback...',
-    contactMe: 'Contacteaza-ma:',
-    emailInput: 'adresa ta de e-amil...',
-  },
   tips: {
     prefix: 'Tip of the day: ',
     lines: [

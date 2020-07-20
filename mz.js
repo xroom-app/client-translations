@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Grěška vnikneńja dodatka',
     }
   },
-  feedback: {
-    header: 'Oj, toliko sekundų, prosim...',
-    question: 'Vsečto bylo dobre?',
-    videoFroze: 'Ne, video mrazilo sę',
-    soundLagged: 'Ne, zvųk lagged',
-    cantConnect: 'Ne, někto ne smogl sjediniti sę',
-    smthElse: 'Inočto:',
-    feedbackInput: 'ostavi mněnje',
-    contactMe: 'Napišite do mně:',
-    emailInput: 'moj email',
-  },
   tips: {
     prefix: 'Sovět dnja: ',
     lines: [

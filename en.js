@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Failed loading plugin',
     }
   },
-  feedback: {
-    header: 'Oh, sorry, just a second...',
-    question: 'Did everything go well this time?',
-    videoFroze: 'No, video froze',
-    soundLagged: 'No, sound lagged',
-    cantConnect: 'No, someone couldn\'t connect',
-    smthElse: 'Something else:',
-    feedbackInput: 'leave your feedback...',
-    contactMe: 'Contact me please:',
-    emailInput: 'your email...',
-  },
   tips: {
     prefix: 'Tip of the day: ',
     lines: [

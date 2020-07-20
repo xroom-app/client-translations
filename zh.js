@@ -170,17 +170,6 @@ export default {
       loadFailed: '加载插件失败',
     }
   },
-  feedback: {
-    header: '抱歉，请稍等。。',
-    question: '这次是否一切顺利？',
-    videoFroze: '不，视频冻结',
-    soundLagged: '不，声音落后',
-    cantConnect: '不，有人无法连接',
-    smthElse: '其他：',
-    feedbackInput: '请留下您的反馈...',
-    contactMe: '请与我联系：',
-    emailInput: '您的电邮...',
-  },
   tips: {
     prefix: '每日提示：',
     lines: [

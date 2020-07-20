@@ -170,17 +170,6 @@ export default {
       loadFailed: 'فشل تحميل الإضافة',
     }
   },
-  feedback: {
-    header: 'أوه ، آسف ، ثانية فقط ...',
-    question: 'هل سار كل شيء على ما يرام هذه المرة؟',
-    videoFroze: 'لا ، هناك تجمد في الفيديو',
-    soundLagged: 'لا ، تأخر في الصوت وتقطع',
-    cantConnect: 'لا ، أحدهم لم يستطع الاتصال',
-    smthElse: 'شيء آخر:',
-    feedbackInput: 'اترك ملاحظاتك ...',
-    contactMe: 'اتصل بي من فضلك:',
-    emailInput: 'بريدك الالكتروني...',
-  },
   tips: {
     prefix: 'نصيحة اليوم: ',
     lines: [

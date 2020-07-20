@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Щось пішло не так.',
     }
   },
-  feedback: {
-    header: 'Ще секундочку...',
-    question: 'Все було в порядку?',
-    videoFroze: 'Ні, відео зупинилось',
-    soundLagged: 'Ні, звук відставав',
-    cantConnect: 'Ні, хтось не зміг приєднатися',
-    smthElse: 'Інше:',
-    feedbackInput: 'те і те',
-    contactMe: 'Зв`яжіться зі мною, будь ласка:',
-    emailInput: 'емейл...',
-  },
   tips: {
     prefix: 'Порада дня: ',
     lines: [

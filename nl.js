@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Kan plugin niet laden',
     }
   },
-  feedback: {
-    header: 'Oh, sorry, even wachten...',
-    question: 'Gig alles goed deze keer?',
-    videoFroze: 'Nee, video bleef hangen',
-    soundLagged: 'Nee, geluid liep niet lekker',
-    cantConnect: 'Nee, iemand kon niet aansluiten',
-    smthElse: 'Andere rede:',
-    feedbackInput: 'laat je feedback achter...',
-    contactMe: 'Neem contact met me op:',
-    emailInput: 'jouw e-mail...',
-  },
   tips: {
     prefix: 'Tip van de dag: ',
     lines: [

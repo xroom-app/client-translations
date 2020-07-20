@@ -169,17 +169,6 @@ export default {
       loadFailed: 'Απέτυχε η φόρτωση του plugin',
     }
   },
-  feedback: {
-    header: 'Ωπ, συγγνώμη, περιμένετε ένα δευτερόλεπτο...',
-    question: 'Πήγαν όλα καλά αυτήν την φορά?',
-    videoFroze: 'Όχι, το βίντεο φρίζαρε',
-    soundLagged: 'Όχι, ο ήχος καθυστερούσε',
-    cantConnect: 'Όχι, κάποιος δεν μπόρεσε να συνδεθεί',
-    smthElse: 'Κάτι άλλο:',
-    feedbackInput: 'αφήστε σχόλια...',
-    contactMe: 'Παρακαλώ επικοινωνήστε:',
-    emailInput: 'το email σας...',
-  },
   tips: {
     prefix: 'Συμβουλή της ημέρας: ',
     lines: [

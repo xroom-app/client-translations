@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Falló la carga del plugin',
     },
   },
-  feedback: {
-    header: 'Lo sentimos. Un momento...',
-    question: '¿Estuvo todo bien esta vez?',
-    videoFroze: 'No, se congelaba el video',
-    soundLagged: 'No, se atrasaba el sonido',
-    cantConnect: 'No, alguien no pudo conectarse',
-    smthElse: 'Otra cosa:',
-    feedbackInput: 'deja tu feedback...',
-    contactMe: 'Contactarme, por favor:',
-    emailInput: 'tu email...',
-  },
   tips: {
     prefix: 'Tip del día: ',
     lines: [

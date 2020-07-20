@@ -170,17 +170,6 @@ export default {
       loadFailed: 'Falhou descarregamento do plugin',
     }
   },
-  feedback: {
-    header: 'Oh, desculpe, um segundo por favor...',
-    question: 'Desta vez tudo correu bem?',
-    videoFroze: 'Não, vídeo parou',
-    soundLagged: 'Não, som com falhas',
-    cantConnect: 'Não, Alguem não conseguiu conectar-se',
-    smthElse: 'Outro:',
-    feedbackInput: 'Deixe seu feedback...',
-    contactMe: 'Contacte-me por favor:',
-    emailInput: 'Seu email...',
-  },
   tips: {
     prefix: 'Dica do dia: ',
     lines: [

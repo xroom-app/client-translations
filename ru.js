@@ -154,7 +154,7 @@ export default {
     language: 'Язык',
     theme: 'Цветовая тема',
     server: 'Сервер',
-    keepControls: 'Keep controls visible',
+    keepControls: 'Держать меню на плаву',
   },
   plugins: {
     by: 'от',
@@ -169,17 +169,6 @@ export default {
       loaded: 'Урааа! Загрузилось!',
       loadFailed: 'Чо-то пошло не так.',
     }
-  },
-  feedback: {
-    header: 'Ещё секундочку...',
-    question: 'Всё было в порядке?',
-    videoFroze: 'Нет, видео замерло',
-    soundLagged: 'Нет, звук отставал',
-    cantConnect: 'Нет, кто-то не смог законнектиться',
-    smthElse: 'Другое:',
-    feedbackInput: 'то-то и то-то',
-    contactMe: 'Свяжитесь со мной пожалуйста:',
-    emailInput: 'емэйл...',
   },
   tips: {
     prefix: 'Совет дня: ',
