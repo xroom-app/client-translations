@@ -20,6 +20,7 @@ export default {
     allowIn: 'İçeri al',
     deny: 'Reddet',
     enterAnyway: 'Enter anyway',
+    details: 'Details',
   },
   mbox: {
     notSupported: 'Görünüşe göre bu tarayıcı XROOM’ desteklemiyor ya da WebRTC devre dışı bırakılmış. 😢',
@@ -158,12 +159,14 @@ export default {
   },
   plugins: {
     by: 'Geliştirici:',
-    size: 'boyut: %s kB',
+    size: 'Boyut: %s kB',
     searchPlaceholder: 'arama...',
-    source: 'kaynak kodu',
+    source: 'Kaynak kodu:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: 'Yeni eklenti ekle',
-      descr: '⚙️ Yeni bir eklenti mi geliştiriyorsunuz? Test etmek için buraya ekleyin. Eklenti kaydedilmez ve sayfayı yeniden yüklemek silinmesine yol açar. Eklenti API kılavuzuna <a href="https://github.com/xroom-app/client-plugins" target="_blank"> adresinden ulaşabilirsiniz</a>.',
+      descr: '⚙️ Yeni bir eklenti mi geliştiriyorsunuz? Test etmek için buraya ekleyin. Eklenti kaydedilmez ve sayfayı yeniden yüklemek silinmesine yol açar.',
       name: 'Eklentinin ismi ne?',
       rootUrl: 'Eklentinin kaynağı ne?',
       loaded: 'Holey, yüklendi!',

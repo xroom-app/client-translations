@@ -20,6 +20,7 @@ export default {
     allowIn: 'Permite',
     deny: 'Interzice',
     enterAnyway: 'Enter anyway',
+    details: 'Details',
   },
   mbox: {
     notSupported: 'Se pare ca browser-ul tau nu suporta sau WebRTC este nefunctional. 😢',
@@ -158,12 +159,14 @@ export default {
   },
   plugins: {
     by: 'de',
-    size: 'marime: %s kB',
+    size: 'Marime: %s kB',
     searchPlaceholder: 'cautare...',
-    source: 'Cod sursa',
+    source: 'Cod sursa:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: 'Adauga un plugin',
-      descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory. Plugins API manual is available <a href="https://github.com/xroom-app/client-plugins" target="_blank">here</a>.',
+      descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved, reloading the page removes it from memory.',
       name: 'What is the plugin name?',
       rootUrl: 'Where is the plugin root?',
       loaded: 'Yaay! It is loaded!',

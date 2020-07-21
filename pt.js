@@ -20,6 +20,7 @@ export default {
     allowIn: 'Permitir entrar',
     deny: 'Negar',
     enterAnyway: 'Entrar de qualquer forma',
+    details: 'Details',
   },
   mbox: {
     notSupported: 'Parece que este navegador não suporta XROOM ou o WebRTC está desativado. 😢',
@@ -158,12 +159,14 @@ export default {
   },
   plugins: {
     by: 'por',
-    size: 'tamanho: %s kB',
+    size: 'Tamanho: %s kB',
     searchPlaceholder: 'procurar...',
-    source: 'Código fonte',
+    source: 'Código fonte:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: 'Adicionar novo plugin',
-      descr: '⚙️ A desenvolver novo plugin? Adicione aqui para testar. Não foi salvo, Ao recarregar a página removerá da memória. Manunal das API dos plagins disponiveis em <a href="https://github.com/punarinta/xroom-plugins" target="_blank">aqui</a>.',
+      descr: '⚙️ A desenvolver novo plugin? Adicione aqui para testar. Não foi salvo, Ao recarregar a página removerá da memória.',
       name: 'Qual nome do plugin?',
       rootUrl: 'Qual o root do plugin?',
       loaded: 'Sim! Foi descarregado!',

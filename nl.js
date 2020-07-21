@@ -20,6 +20,7 @@ export default {
     allowIn: 'Laat toe',
     deny: 'Weiger',
     enterAnyway: 'Enter anyway',
+    details: 'Details',
   },
   mbox: {
     notSupported: 'Het lijkt erop dat deze browser geen XROOM of WebRTC ondersteund. 😢',
@@ -158,12 +159,14 @@ export default {
   },
   plugins: {
     by: 'door',
-    size: 'grootte: %s kB',
+    size: 'Grootte: %s kB',
     searchPlaceholder: 'zoeken...',
-    source: 'Broncode',
+    source: 'Broncode:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: 'Voeg een nieuwe plugin toe',
-      descr: '⚙️ Een nieuwe plugin aan het ontwikkelen? Voeg het hier to om te testen. Het wordt niet bewaard en de pagina verversen zals de plugin verwijderen. Plugins API handleiding is <a href="https://github.com/xroom-app/client-plugins" target="_blank">hier</a> beschikbaar.',
+      descr: '⚙️ Een nieuwe plugin aan het ontwikkelen? Voeg het hier to om te testen. Het wordt niet bewaard en de pagina verversen zals de plugin verwijderen.',
       name: 'Wat is de naam van de plugin?',
       rootUrl: 'Wat is de root van de plugin?',
       loaded: 'Joepie! Hij is geladen!',

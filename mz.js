@@ -19,7 +19,8 @@ export default {
     knock: 'Stukni',
     allowIn: 'Dozvoli',
     deny: 'Odkaži',
-    enterAnyway: 'Enter anyway',
+    enterAnyway: 'Vstupiti tako',
+    details: 'Detalje',
   },
   mbox: {
     notSupported: 'Kaže sę, že tuta prěględka ne poddŕživaje XROOM, abo WebRTC je nedějųći. 😢',
@@ -64,7 +65,7 @@ export default {
     nameRequired: 'Room host requires you to set your name first.',
   },
   notify: {
-    slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
+    slowPlugins: 'Dodatki počinajųt se velmi dolgo. Razsmotrite izčrkanije najtežkyh.',
   },
   home: {
     nisdos: 'Ne upotrěbjamo "cookies"',
@@ -91,7 +92,7 @@ export default {
     noAudio: '⚠️ Ne čujemo zvųkovogo signala',
     roomIsBusyWebinar: 'Webinar/strim už ide (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Web-konferencija už ide (%s×🙂 / %s×🤖)',
-    sizeLimitReached: 'This room was limited by size and the limit is reached',
+    sizeLimitReached: 'Razměr komnaty ograničeny i limit jest dostigneny.',
   },
   videoMenu: {
     hint: 'Phni menu',
@@ -154,16 +155,18 @@ export default {
     language: 'Język',
     theme: 'Kolorna tema',
     server: 'Server',
-    keepControls: 'Keep controls visible',
+    keepControls: 'Trimati menju vidimym',
   },
   plugins: {
     by: 'od',
-    size: 'veličina: %s kB',
+    size: 'Veličina: %s kB',
     searchPlaceholder: 'išči...',
-    source: 'Žrlokod',
+    source: 'Žrlokod:',
+    apiDocs: 'API doky',
+    vendor: 'Avtor:',
     add: {
       title: 'Dodati novy dodatok',
-      descr: '⚙️ Izråbotyvaješ novy dodatok? Dodaj jego tu da by testovati. Ne zapisyvajemo jego, jestli prědostaješ strånicų on iznikne iz pamęti. Prirųčnik API dodatkov je dostųpny <a href="https://github.com/xroom-app/client-plugins" target="_blank">tutaj</a>.',
+      descr: '⚙️ Izråbotyvaješ novy dodatok? Dodaj jego tu da by testovati. Ne zapisyvajemo jego, jestli prědostaješ strånicų on iznikne iz pamęti.',
       name: 'Kaka je nazva dodatka?',
       rootUrl: 'Kde je root URL dodatka?',
       loaded: 'Lěpo! On je vniknųl!',

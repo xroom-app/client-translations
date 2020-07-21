@@ -20,6 +20,7 @@ export default {
     allowIn: 'Admitir',
     deny: 'Denegar',
     enterAnyway: 'Enter anyway',
+    details: 'Details',
   },
   mbox: {
     notSupported: 'Parece que este navegador no soporta XROOM o WebRTC está deshabilitado. 😢',
@@ -158,12 +159,14 @@ export default {
   },
   plugins: {
     by: 'de',
-    size: 'tamaño: %s kB',
+    size: 'Tamaño: %s kB',
     searchPlaceholder: 'buscar...',
-    source: 'Código fuente',
+    source: 'Código fuente:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: 'Agregar plugin nuevo',
-      descr: '⚙️ ¿Desarrollando un plugin nuevo? Agrégalo aquí para probarlo. No se guarda, al actualizar la página se borra de la memoria. Encuentra el manual de la API para plugins <a href="https://github.com/xroom-app/client-plugins" target="_blank">aquí</a>.',
+      descr: '⚙️ ¿Desarrollando un plugin nuevo? Agrégalo aquí para probarlo. No se guarda, al actualizar la página se borra de la memoria.',
       name: '¿Nombre del plugin?',
       rootUrl: '¿Dónde está la raíz del plugin?',
       loaded: '¡Sí! ¡Se cargó!',

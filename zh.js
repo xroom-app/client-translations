@@ -20,6 +20,7 @@ export default {
     allowIn: '允许',
     deny: '拒绝',
     enterAnyway: 'Enter anyway',
+    details: 'Details',
   },
   mbox: {
     notSupported: '该浏览器似乎不支持XROOM或WebRTC已禁用。😢',
@@ -160,10 +161,12 @@ export default {
     by: '通过',
     size: '大小：％s kB',
     searchPlaceholder: '搜索中...',
-    source: '源代码',
+    source: '源代码:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: '添加新插件',
-      descr: '⚙️ 开发新插件？将其添加到此处进行测试。它不会保存，重新加载页面会将其从内存中删除。可以在<a href="https://github.com/xroom-app/client-plugins" target="_blank">此处</a>获得插件API手册。',
+      descr: '⚙️ 开发新插件？将其添加到此处进行测试。它不会保存，重新加载页面会将其从内存中删除。',
       name: '插件名称是什么？',
       rootUrl: '插件目录在哪里？',
       loaded: '耶！已加载！',

@@ -20,6 +20,7 @@ export default {
     allowIn: 'Αποδοχή',
     deny: 'Απόρριψη',
     enterAnyway: 'Enter anyway',
+    details: 'Details',
   },
   mbox: {
     notSupported: 'Φαίνεται ότι αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει το XROOM ή το WebRTC είναι απενεργοποιημένο. 😢',
@@ -157,12 +158,14 @@ export default {
   },
   plugins: {
     by: 'απο',
-    size: 'μέγεθος: %s kB',
+    size: 'Μέγεθος: %s kB',
     searchPlaceholder: 'αναζήτηση...',
-    source: '΄Πηγαίος κώδικας',
+    source: 'Πηγαίος κώδικας:',
+    apiDocs: 'API docs',
+    vendor: 'Vendor:',
     add: {
       title: 'Προσθέστε νεο plugin',
-      descr: '⚙️ Αναπτύσσετε ένα νέο plugin? Προσθέστε το εδώ για τεστ. Δεν σώζεται, η επαναφόρτιση της σελίδας την αφαιρεί από την μνήμη. Το εγχειρίδιο για Plugins API είναι διαθέσιμο <a href="https://github.com/xroom-app/client-plugins" target="_blank">εδώ</a>.',
+      descr: '⚙️ Αναπτύσσετε ένα νέο plugin? Προσθέστε το εδώ για τεστ. Δεν σώζεται, η επαναφόρτιση της σελίδας την αφαιρεί από την μνήμη.',
       name: 'Ποιο είναι το όνομα του plugin?',
       rootUrl: 'Που είναι η πηγή του plugin?',
       loaded: 'Ναι! Φορτώθηκε!',
