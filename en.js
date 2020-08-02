@@ -89,7 +89,7 @@ export default {
     btnGo: 'Get in',
     knockDenied: 'Your knock request has been denied. You can\'t enter the room. :(',
     knockRequested: 'Awaiting for a permission. People can see you through a peephole. 👀',
-    noAudio: '⚠️ No mic signal detected',
+    noAudio: '⚠️ No mic signal detected <span>👉 ⚙ 🎤️</span>',
     roomIsBusyWebinar: '<span>A webinar/stream is now running</span> <span>(%s×🙂 / %s×🤖)</span>',
     roomIsBusyConference: '<span>A conference is now running</span> <span>(%s×🙂 / %s×🤖)</span>',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
