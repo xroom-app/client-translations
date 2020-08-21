@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) experimental, works unstably',
     showCameraWithScreen: 'Afficher la caméra pendant le partage d’écran *',
-    qualityLevel: 'Haute qualité (utilise plus de trafic)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Démarrer des chats sans aperçu',
     soundEffects: 'Effets sonores',
     noisyBackground: 'Je suis dans une endroit bruyant',

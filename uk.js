@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) експериментальна фіча, працює нестабільно',
     showCameraWithScreen: 'Камеру видно під час скріншерінгу *',
-    qualityLevel: 'Висока якість (потрібен гарний інет)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Заходити до чату без прев`ю',
     soundEffects: 'Звукові ефекти',
     noisyBackground: 'Я в шумному місці',

@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) تجريبي ، يعمل بشكل غير مستقر',
     showCameraWithScreen: 'إظهار الكاميرا أثناء مشاركة الشاشة *',
-    qualityLevel: 'جودة عالية (يستخدم ترافيك أكثر)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'ابدأ الدردشات بدون معاينة',
     soundEffects: 'مؤثرات صوتية',
     noisyBackground: 'أنا في مكان صاخب',

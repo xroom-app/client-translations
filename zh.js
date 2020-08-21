@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) 实验性，还是不稳定',
     showCameraWithScreen: '在屏幕共享期间显示相机 *',
-    qualityLevel: '高质量（使用更多流量）',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: '在没有预览的情况下开始聊天',
     soundEffects: '声音特效',
     noisyBackground: '我在嘈杂的地方',

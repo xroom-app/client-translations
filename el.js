@@ -144,7 +144,10 @@ export default {
   settings: {
     experimental: '*) πειραματικό, λειτουργεί με αστάθεια',
     showCameraWithScreen: 'Δείξτε την κάμερα κατά την διάρκεια της κοινής χρήσης οθόνης *',
-    qualityLevel: 'Υψηλή ποιότητα (χρησιμοποιεί περισσότερη κίνηση)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Ξεκινήστε τις συζητήσεις χωρίς προεπισκόπηση',
     soundEffects: 'Ηχητικά εφέ',
     noisyBackground: 'Βρίσκομαι σε ένα θορυβώδες μέρος',

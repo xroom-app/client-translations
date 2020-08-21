@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) experimentellt, fungerar ostabilt',
     showCameraWithScreen: 'Använd kameran under skärmdelning *',
-    qualityLevel: 'Hög kvalitet (bra bandbredd behövs)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Starta chattar utan granskning',
     soundEffects: 'Ljudeffekter',
     noisyBackground: 'Jag på en högljudd plats',

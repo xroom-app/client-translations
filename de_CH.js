@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) experimentell, schafft no nöd stabil',
     showCameraWithScreen: 'Kamera sichtbar laah, während dä Bildschirm teilt wird *',
-    qualityLevel: 'Höchi Qualität (bruucht meeh Bandbreiti)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Chat ohni Vorschau startä',
     soundEffects: 'Toneffekt',
     noisyBackground: 'Ich bin in erä lärmigä Umgebig',

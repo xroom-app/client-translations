@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) deneyseldir, istikrarsız çalışmaktadır',
     showCameraWithScreen: 'Ekran paylaşımı sırasında kamerayı göster *',
-    qualityLevel: 'Yüksek kalite (daha çok trafik)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Sohbetleri önizleme olmadan başlat',
     soundEffects: 'Ses efektleri',
     noisyBackground: 'Gürültülü bir yerdeyim',

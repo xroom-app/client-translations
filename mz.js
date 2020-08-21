@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) probno, rabotaje nestabilno',
     showCameraWithScreen: 'Pokazyvati svoj obraz v tečenju děľeńja ekrana *',
-    qualityLevel: 'Vysoky kvalitet (koristaje vyše trafik)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Otvarjati čaty bez podględa',
     soundEffects: 'Zvųkove efekty',
     noisyBackground: 'Ja v šumnym městu',

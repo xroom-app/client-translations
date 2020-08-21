@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) experimental, works unstably',
     showCameraWithScreen: 'Arata camera video in timp ce fac sharescreen*',
-    qualityLevel: 'Calitate maxima (necesita resurse mai mari)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Porneste chats fara preview',
     soundEffects: 'Efecte sonore',
     noisyBackground: 'Sunt in spatiu zgomotos',

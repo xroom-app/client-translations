@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) experimental, works unstably',
     showCameraWithScreen: 'Mostrar camera durante a partilhad e ecrã *',
-    qualityLevel: 'Alta qualidade (usa mais tráfego)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Iniciar chat sem previsualização',
     soundEffects: 'Efeitos sonoros',
     noisyBackground: 'Estou em um local com barulho',

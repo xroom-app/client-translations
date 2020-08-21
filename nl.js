@@ -145,7 +145,10 @@ export default {
   settings: {
     experimental: '*) experimenteel, kan nog onstabiel zijn',
     showCameraWithScreen: 'Laat camera zien tijdens scherm delen *',
-    qualityLevel: 'Hoge kwaliteit (gebruikt meer bandbreedte)',
+    audioQ: 'Audio quality',
+    videoQ: 'Video quality',
+    screenQ: 'Screen sharing quality',
+    bandwidthQ: 'Bandwidth profile',
     autoGetIn: 'Start chats zonder eerst te bekijken',
     soundEffects: 'Geluids effecten',
     noisyBackground: 'Ik ben op een rumoerige plek',
