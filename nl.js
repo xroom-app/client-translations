@@ -127,7 +127,7 @@ export default {
     webinar: 'Webinar is nog niet gestart',
   },
   video: {
-    you: 'Jij',
+    you: 'Jij (klik om je naam aan te passen)',
     someone: 'Iemand anders',
     knocking: 'klopt...',
     poorNet: 'slechte verbinding',
