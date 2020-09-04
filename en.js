@@ -140,7 +140,10 @@ export default {
     dropMe: 'Drop me!',
   },
   webinar: {
-    peersCount: '%s people are watching',
+    peersCount: {
+      one: '%s person is watching',
+      many: '%s persons are watching',
+    },
   },
   settings: {
     experimental: '*) experimental, works unstably',
