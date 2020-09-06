@@ -60,7 +60,7 @@ export default {
     hostRoleRequired: 'Host-roll krävs för den här åtgärden.',
     alreadyHosted: 'Rummet har redan en värd. Gå inte in i samma rum från två webbläsarflikar. 😉',
     roomLockedPassword: 'Rummet är låst med ett lösenord. Ange det nedan.',
-    roomDestroyed: 'Rummet stängdes. Du kommer att omdirigeras till startsidan.',
+    roomDestroyed: 'Rummet blev förstört. Du kommer att omdirigeras till startsidan.',
     roomBooked: 'Rummet är bokat och kan inte skapas genom UI tills bokningen löper ut.',
     nameRequired: 'Rumvärd kräver att du ställer in ditt namn först.',
   },
