@@ -140,7 +140,10 @@ export default {
     dropMe: 'Laat me los!',
   },
   webinar: {
-    peersCount: '%s mensen zijn aan het kijken',
+    peersCount: {
+      one: '%s persoon is aan het kijken',
+      many: '%s personen zijn aan het kijken',
+    }, 
   },
   settings: {
     experimental: '*) experimenteel, kan nog onstabiel zijn',
