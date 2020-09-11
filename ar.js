@@ -93,6 +93,7 @@ export default {
     roomIsBusyWebinar: 'يتم الآن تشغيل / ندوة عبر الإنترنت (%s × 🙂) / (%s × 🤖)',
     roomIsBusyConference: 'مؤتمر يعمل الآن (%s × 🙂) / (%s × 🤖)',
     sizeLimitReached: 'كانت هذه الغرفة محدودة الحجم وتم الوصول إلى الحد الأقصى',
+    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>, but it hasn\'t started yet.',
   },
   videoMenu: {
     hint: 'تبديل القائمة',

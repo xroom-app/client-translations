@@ -93,6 +93,7 @@ export default {
     roomIsBusyWebinar: 'Вже йде стрім/вебінар (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Вже йде конференція (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Ця кімната була обмежена у розмірі, і максимум вже був досягнутий.',
+    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>, but it hasn\'t started yet.',
   },
   videoMenu: {
     hint: 'Меню',

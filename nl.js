@@ -93,6 +93,7 @@ export default {
     roomIsBusyWebinar: 'Er is al een actieve webinar/stream (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Er is al een actieve conference (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Deze ruimte heeft zijn limiet bereikt',
+    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>, but it hasn\'t started yet.',
   },
   videoMenu: {
     hint: 'Toggle menu',

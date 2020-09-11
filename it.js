@@ -93,6 +93,7 @@ export default {
     roomIsBusyWebinar: 'Un webinar/streaming è attualmente in corso (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Una conferenza è attualmente in corso (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
+    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>, but it hasn\'t started yet.',
   },
   videoMenu: {
     hint: 'Attiva/disattiva menu',
