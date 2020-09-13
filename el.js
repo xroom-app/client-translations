@@ -116,6 +116,13 @@ export default {
     media: 'Media',
     more: 'Πιό',
     letMeSpeak: 'Let me speak',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'I want to speak!',

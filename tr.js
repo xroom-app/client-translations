@@ -117,6 +117,13 @@ export default {
     media: 'Medya',
     more: 'Daha fazla',
     letMeSpeak: 'Konuşmama izin ver',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Konuşmak istiyorum!',

@@ -117,6 +117,13 @@ export default {
     media: 'Media',
     more: 'Meer',                   // validate translation
     letMeSpeak: 'Laat me praten',   // validate translation
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Ik wil praten!',   // validate translation

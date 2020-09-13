@@ -117,6 +117,13 @@ export default {
     media: 'Медіа',
     more: 'Більше',
     letMeSpeak: 'Дайте сказати',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Я хочу сказати!',

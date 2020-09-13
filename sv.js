@@ -117,6 +117,13 @@ export default {
     media: 'Media',
     more: 'Mer',
     letMeSpeak: 'Jag vill prata',
+    lock: 'Låsning',
+  },
+  lockStatus: {
+    locked: 'Rummet är stängt',
+    open: 'Rummet är öppet',
+    protected: 'Rummet skyddade med ett lösen',
+    placeholder: 'rumslösenord',
   },
   reactions: {
     letMeSpeak: 'Jag vill prata!',

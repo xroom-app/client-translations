@@ -117,6 +117,13 @@ export default {
     media: 'Media',
     more: 'Più',
     letMeSpeak: 'Fammi parlare',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Voglio parlare!',

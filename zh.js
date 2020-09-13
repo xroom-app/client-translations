@@ -117,6 +117,13 @@ export default {
     media: '介质',
     more: '更多',
     letMeSpeak: '请让我说',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: '我想说话！',
