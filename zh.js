@@ -93,7 +93,7 @@ export default {
     roomIsBusyWebinar: '网络研讨会/视频正在进行 (%s×🙂 / %s×🤖)',
     roomIsBusyConference: '会议正在进行 (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
-    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>, but it hasn\'t started yet.',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: '切换选项',
