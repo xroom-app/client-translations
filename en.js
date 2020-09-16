@@ -68,7 +68,7 @@ export default {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
   },
   home: {
-    nisdos: 'We do not use cookies',
+    nisdos: 'We do not use cookies on this page',
     title: 'Your personal conference room',
     btnGo: 'Go!',
     knowMore: 'About xroom',
