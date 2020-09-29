@@ -87,7 +87,7 @@ export default {
     selectMode: 'Elija el tipo de cuarto',
     checkIt: 'Verifica el mic y tu corte de cabello',
     btnGo: 'Entrar',
-    knockDenied: 'Tu solicitud de acceso fue denegada. No puedes entrar a la cuarto. ☹️',
+    knockDenied: 'Tu solicitud de acceso fue denegada. No puedes entrar al cuarto. ☹️',
     knockRequested: 'Esperando permiso. Espera un momento. 👀',
     noAudio: '⚠️ No se detecta señal de mic',
     roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s × 🙂)',  // validate translation
