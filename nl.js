@@ -151,7 +151,7 @@ export default {
     peersCount: {
       one: '%s persoon is aan het kijken',
       many: '%s personen zijn aan het kijken',
-    }, 
+    },
   },
   settings: {
     experimental: '*) experimenteel, kan nog onstabiel zijn',
@@ -185,7 +185,7 @@ export default {
       rootUrl: 'Wat is de root van de plugin?',
       loaded: 'Joepie! Hij is geladen!',
       loadFailed: 'Kan plugin niet laden',
-    }
+    },
   },
   tips: {
     prefix: 'Tip van de dag: ',
