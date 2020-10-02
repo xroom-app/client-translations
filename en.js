@@ -155,7 +155,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, works unstably',
-    showCameraWithScreen: 'Show camera during screen sharing *',
+    showCameraWithScreen: 'Show face on shared screen',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',
