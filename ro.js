@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Aceasta camera de videoconferinte nu mai exista.',
     roomBooked: 'Camera de videoconferinta este blocata si nu mai poate fi creata pana la expirarea ei.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugin-ul nu poate fi incarcat.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Toggle menu',
     expand: 'Expand',
+    pip: 'Keep on top',
     fullscreen: 'Full screen',
     volume: 'Volume ±',
     restore: 'Restore',

@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Ruimte is gestopt. Je wordt teruggeleid naar de begin pagina.',
     roomBooked: 'De ruimte is geboekt en kan niet worden gecreeerd totdat de boeking verloopt.',
     nameRequired: 'De eigenaar wil dat je je naarm eerst invult.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins laden duurt te lang. Probeer de zwaarste plugins te verwijderen.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Toggle menu',
     expand: 'Uitbreiden',
+    pip: 'Keep on top',
     fullscreen: 'Volledig scherm',
     volume: 'Volume ±',
     restore: 'Herstel',

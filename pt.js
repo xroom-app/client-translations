@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Sala foi removida. Será redirecionado para a página inicial.',
     roomBooked: 'Sala virtual agendada, não poderá ser criada até que agendamento expire ou seja removida.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Alterar menu',
     expand: 'Expandir',
+    pip: 'Keep on top',
     fullscreen: 'Tela inteira',
     volume: 'Volume ±',
     restore: 'Restaurar',

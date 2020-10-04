@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: '切换选项',
     expand: '扩大',
+    pip: 'Keep on top',
     fullscreen: '全屏',
     volume: '音量±',
     restore: '恢复',

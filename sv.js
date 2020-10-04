@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Rummet blev förstört. Du kommer att omdirigeras till startsidan.',
     roomBooked: 'Rummet är bokat och kan inte skapas genom UI tills bokningen löper ut.',
     nameRequired: 'Rumvärd kräver att du ställer in ditt namn först.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Pluginladdning tar för mycket tid. Tänk på att ta bort det tyngsta plugin.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Meny',
     expand: 'Förstora',
+    pip: 'Keep on top',
     fullscreen: 'Fullskärm',
     volume: 'Ljudnivå ±',
     restore: 'Återställa',

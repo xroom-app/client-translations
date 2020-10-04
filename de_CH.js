@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Dä Ruum isch zerstört wordä. Du wirsch zur Startsiite umgleitet.',
     roomBooked: 'Dä Ruum isch buecht worde und cha nöd us dä Schnittstell erstellt wärde, bis die Buechig abglaufe isch.',
     nameRequired: 'Dä Host vom Ruum bittet drum, dass du zerscht diin Namä inetöggelisch.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Die Plugins bruuched zvill Ziit zum Lade. Du chönntisch aber die schwärschte Plugins entfärne.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Menu umschaltä',
     expand: 'Erwiitere',
+    pip: 'Keep on top',
     fullscreen: 'Vollbildschirm',
     volume: 'Luutstärchi ±',
     restore: 'Wiederherstellä',

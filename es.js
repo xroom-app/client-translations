@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'El cuarto ha sido cancelado. Serás redirigido a la página de inicio.',
     roomBooked: 'El cuarto esta reservado y no se puede crear hasta que expire la reservación.',
     nameRequired: 'El anfitrión del cuarto requiere que establezcas tu nombre primero..',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins Plugins toman demasiado tiempo para cargar. Considere quitar los más grandes.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Cambiar barra de opciones',
     expand: 'Expandir',
+    pip: 'Keep on top',
     fullscreen: 'Pantalla completa',
     volume: 'Volumen ±',
     restore: 'Restaurar',

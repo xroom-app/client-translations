@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'La salle a été détruite. Vous serez redirigé vers la page de démarrage.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Les plugins prennent trop de temps à charger. Pensez à retirer le plus lourd.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Basculer le menu',
     expand: 'Étendre',
+    pip: 'Keep on top',
     fullscreen: 'Plein écran',
     volume: 'Volume ±',
     restore: 'Restaurer',

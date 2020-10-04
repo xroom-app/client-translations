@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Кімната була видалена. Зараз ми перенаправимо вас на головну сторінку.',
     roomBooked: 'Кімната була заброньована та не може бути створена через інтерфейс до закінчення терміну бронювання.',
     nameRequired: 'Власник кімнати запитує для початку ваше ім`я.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Завантаження плагінів займає забагато часу. Спробуйте видалити найбільш великі.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Меню',
     expand: 'Розширити',
+    pip: 'Keep on top',
     fullscreen: 'На весь екран',
     volume: 'Гучність ±',
     restore: 'Відновити',

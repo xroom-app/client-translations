@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Der Raum wurde zerstört. Sie werden zur Startseite umgeleitet.',
     roomBooked: 'Der Raum wurde gebucht und kann nicht aus der Schnittstelle erstellt werden, bis die Buchung abgelaufen ist.',
     nameRequired: 'Der Host des Raums bittet Sie, zuerst Ihren Namen einzutragen.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Die Plugins brauchen zuviel Zeit, um zu laden. Sie könnten die schwersten Plugins entfernen.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Menu umschalten',
     expand: 'Erweitern',
+    pip: 'Keep on top',
     fullscreen: 'Vollbildschirm',
     volume: 'Lautstärke ±',
     restore: 'Wiederherstellen',

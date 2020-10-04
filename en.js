@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Room has been deleted. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -98,6 +99,7 @@ export default {
   videoMenu: {
     hint: 'Toggle menu',
     expand: 'Expand',
+    pip: 'Keep on top',
     fullscreen: 'Full screen',
     volume: 'Volume ±',
     restore: 'Restore',
@@ -155,7 +157,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, works unstably',
-    showCameraWithScreen: 'Show face on shared screen',
+    showCameraWithScreen: 'Show face on shared screen *',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',
