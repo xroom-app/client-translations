@@ -154,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, trabaja inestable',
-    showCameraWithScreen: 'Mostrar cámara al compartir pantalla *',
+    showCameraWithScreen: 'Mostrar cámara al compartir pantalla',
     audioQ: 'Calidad de audio',
     videoQ: 'Calidad de video',
     screenQ: 'Calidad de pantalla compartida',

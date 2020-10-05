@@ -154,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, works unstably',
-    showCameraWithScreen: 'Afficher la caméra pendant le partage d’écran *',
+    showCameraWithScreen: 'Afficher la caméra pendant le partage d’écran',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

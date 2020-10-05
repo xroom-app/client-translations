@@ -154,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimentellt, fungerar ostabilt',
-    showCameraWithScreen: 'Använd kameran under skärmdelning *',
+    showCameraWithScreen: 'Använd kameran under skärmdelning',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

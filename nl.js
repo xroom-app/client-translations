@@ -157,7 +157,7 @@ export default {
   },
   settings: {
     experimental: '*) experimenteel, kan nog onstabiel zijn',
-    showCameraWithScreen: 'Laat camera zien tijdens scherm delen *',
+    showCameraWithScreen: 'Laat camera zien tijdens scherm delen',
     audioQ: 'Audio kwaliteit',
     videoQ: 'Video kwaliteit',
     screenQ: 'Scherm delen kwaliteit',

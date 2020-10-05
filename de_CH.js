@@ -154,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimentell, schafft no nöd stabil',
-    showCameraWithScreen: 'Kamera sichtbar laah, während dä Bildschirm teilt wird *',
+    showCameraWithScreen: 'Kamera sichtbar laah, während dä Bildschirm teilt wird',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

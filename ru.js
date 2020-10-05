@@ -154,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) экспериментальная фича, работает нестабильно',
-    showCameraWithScreen: 'Камера видна при скриншэринге *',
+    showCameraWithScreen: 'Показывать камеру при скриншэринге',
     audioQ: 'Качество аудио',
     videoQ: 'Качество видео',
     screenQ: 'Качество скриншеринга',
