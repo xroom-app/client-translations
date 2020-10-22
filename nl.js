@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Ruimte is gestopt. Je wordt teruggeleid naar de begin pagina.',
     roomBooked: 'De ruimte is geboekt en kan niet worden gecreeerd totdat de boeking verloopt.',
     nameRequired: 'De eigenaar wil dat je je naarm eerst invult.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins laden duurt te lang. Probeer de zwaarste plugins te verwijderen.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: 'Er is al een actieve webinar/stream (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Er is al een actieve conference (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Deze ruimte heeft zijn limiet bereikt',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Toggle menu',
     expand: 'Uitbreiden',
+    pip: 'Keep on top',
     fullscreen: 'Volledig scherm',
     volume: 'Volume ±',
     restore: 'Herstel',
@@ -116,6 +119,13 @@ export default {
     media: 'Media',
     more: 'Meer',                   // validate translation
     letMeSpeak: 'Laat me praten',   // validate translation
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Ik wil praten!',   // validate translation
@@ -140,11 +150,14 @@ export default {
     dropMe: 'Laat me los!',
   },
   webinar: {
-    peersCount: '%s mensen zijn aan het kijken',
+    peersCount: {
+      one: '%s persoon is aan het kijken',
+      many: '%s personen zijn aan het kijken',
+    },
   },
   settings: {
     experimental: '*) experimenteel, kan nog onstabiel zijn',
-    showCameraWithScreen: 'Laat camera zien tijdens scherm delen *',
+    showCameraWithScreen: 'Laat camera zien tijdens scherm delen',
     audioQ: 'Audio kwaliteit',
     videoQ: 'Video kwaliteit',
     screenQ: 'Scherm delen kwaliteit',
@@ -174,7 +187,7 @@ export default {
       rootUrl: 'Wat is de root van de plugin?',
       loaded: 'Joepie! Hij is geladen!',
       loadFailed: 'Kan plugin niet laden',
-    }
+    },
   },
   tips: {
     prefix: 'Tip van de dag: ',

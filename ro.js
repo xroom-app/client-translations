@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Aceasta camera de videoconferinte nu mai exista.',
     roomBooked: 'Camera de videoconferinta este blocata si nu mai poate fi creata pana la expirarea ei.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugin-ul nu poate fi incarcat.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: 'Webinarul este pornit (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Videoconferinta este pornita (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Limita de locuri a fost depasita',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Toggle menu',
     expand: 'Expand',
+    pip: 'Keep on top',
     fullscreen: 'Full screen',
     volume: 'Volume ±',
     restore: 'Restore',
@@ -116,6 +119,13 @@ export default {
     media: 'Media',
     more: 'Mai mult',
     letMeSpeak: 'Vreau sa vorbesc!',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Vreau sa vorbesc!',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, works unstably',
-    showCameraWithScreen: 'Arata camera video in timp ce fac sharescreen*',
+    showCameraWithScreen: 'Arata camera video in timp ce fac sharescreen',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

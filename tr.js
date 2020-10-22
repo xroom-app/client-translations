@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: 'Bir webinar/yayın başladı (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Bir konferans başladı (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Menüyü değiştir',
     expand: 'Genişlet',
+    pip: 'Keep on top',
     fullscreen: 'Tam ekran',
     volume: 'Ses ±',
     restore: 'Geri al',
@@ -116,6 +119,13 @@ export default {
     media: 'Medya',
     more: 'Daha fazla',
     letMeSpeak: 'Konuşmama izin ver',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Konuşmak istiyorum!',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) deneyseldir, istikrarsız çalışmaktadır',
-    showCameraWithScreen: 'Ekran paylaşımı sırasında kamerayı göster *',
+    showCameraWithScreen: 'Ekran paylaşımı sırasında kamerayı göster',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

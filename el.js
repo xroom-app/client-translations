@@ -64,6 +64,7 @@ export default {
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -94,10 +95,12 @@ export default {
     roomIsBusyWebinar: 'A webinar/stream is already running (%s × 🙂)',
     roomIsBusyConference: 'A conference is now running (%s × 🙂)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Εναλλάξτε το μενού',
     expand: 'Επέκταση',
+    pip: 'Keep on top',
     fullscreen: 'Πλήρης οθόνη',
     volume: 'Ένταση ±',
     restore: 'Επαναφορά',
@@ -115,6 +118,13 @@ export default {
     media: 'Media',
     more: 'Πιό',
     letMeSpeak: 'Let me speak',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'I want to speak!',
@@ -143,7 +153,7 @@ export default {
   },
   settings: {
     experimental: '*) πειραματικό, λειτουργεί με αστάθεια',
-    showCameraWithScreen: 'Δείξτε την κάμερα κατά την διάρκεια της κοινής χρήσης οθόνης *',
+    showCameraWithScreen: 'Δείξτε την κάμερα κατά την διάρκεια της κοινής χρήσης οθόνης',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

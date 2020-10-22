@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Der Raum wurde zerstört. Sie werden zur Startseite umgeleitet.',
     roomBooked: 'Der Raum wurde gebucht und kann nicht aus der Schnittstelle erstellt werden, bis die Buchung abgelaufen ist.',
     nameRequired: 'Der Host des Raums bittet Sie, zuerst Ihren Namen einzutragen.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Die Plugins brauchen zuviel Zeit, um zu laden. Sie könnten die schwersten Plugins entfernen.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: '<span>Ein Webinar/Stream läuft gerade</span> <span>(%s×🙂 / %s×🤖)</span>',
     roomIsBusyConference: '<span>Eine Konferenz läuft gerade</span> <span>(%s×🙂 / %s×🤖)</span>',
     sizeLimitReached: 'Dieser Raum ist in der Grösse beschränkt, und das Limit ist erreicht',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Menu umschalten',
     expand: 'Erweitern',
+    pip: 'Keep on top',
     fullscreen: 'Vollbildschirm',
     volume: 'Lautstärke ±',
     restore: 'Wiederherstellen',
@@ -116,6 +119,13 @@ export default {
     media: 'Medien',
     more: 'Mehr',
     letMeSpeak: 'Ich möchte sprechen',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Ich möchte sprechen!',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimentell, arbeitet nicht stabil',
-    showCameraWithScreen: 'Kamera anzeigen, während der Bildschirm geteilt wird *',
+    showCameraWithScreen: 'Kamera anzeigen, während der Bildschirm geteilt wird',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

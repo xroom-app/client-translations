@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Dodatki počinajųt se velmi dolgo. Razsmotrite izčrkanije najtežkyh.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: 'Webinar/strim už ide (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Web-konferencija už ide (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Razměr komnaty ograničeny i limit jest dostigneny.',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Phni menu',
     expand: 'Razširi',
+    pip: 'Keep on top',
     fullscreen: 'Polny ekran',
     volume: 'Zvųk ±',
     restore: 'Menši',
@@ -116,6 +119,13 @@ export default {
     media: 'Media',
     more: 'Ješče',
     letMeSpeak: 'Pozvoli mi rěkti',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Ja hoćų mòlviti!',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) probno, rabotaje nestabilno',
-    showCameraWithScreen: 'Pokazyvati svoj obraz v tečenju děľeńja ekrana *',
+    showCameraWithScreen: 'Pokazyvati svoj obraz v tečenju děľeńja ekrana',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

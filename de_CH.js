@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Dä Ruum isch zerstört wordä. Du wirsch zur Startsiite umgleitet.',
     roomBooked: 'Dä Ruum isch buecht worde und cha nöd us dä Schnittstell erstellt wärde, bis die Buechig abglaufe isch.',
     nameRequired: 'Dä Host vom Ruum bittet drum, dass du zerscht diin Namä inetöggelisch.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Die Plugins bruuched zvill Ziit zum Lade. Du chönntisch aber die schwärschte Plugins entfärne.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: '<span>Äs Webinar / en Stream lauft grad</span> <span>(%s×🙂 / %s×🤖)</span>',
     roomIsBusyConference: '<span>Ä Konfärenz lauft grad</span> <span>(%s×🙂 / %s×🤖)</span>',
     sizeLimitReached: 'Dä Ruum hät e Grössebeschränkig, und s´Limit isch erreicht',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'Menu umschaltä',
     expand: 'Erwiitere',
+    pip: 'Keep on top',
     fullscreen: 'Vollbildschirm',
     volume: 'Luutstärchi ±',
     restore: 'Wiederherstellä',
@@ -116,6 +119,13 @@ export default {
     media: 'Mediä',
     more: 'Meeh',
     letMeSpeak: 'Ich wott redä',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'Ich wott redä!',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) experimentell, schafft no nöd stabil',
-    showCameraWithScreen: 'Kamera sichtbar laah, während dä Bildschirm teilt wird *',
+    showCameraWithScreen: 'Kamera sichtbar laah, während dä Bildschirm teilt wird',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'Room has been destroyed. You will be redirected to the starting page.',
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: '网络研讨会/视频正在进行 (%s×🙂 / %s×🤖)',
     roomIsBusyConference: '会议正在进行 (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'This room was limited by size and the limit is reached',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: '切换选项',
     expand: '扩大',
+    pip: 'Keep on top',
     fullscreen: '全屏',
     volume: '音量±',
     restore: '恢复',
@@ -116,6 +119,13 @@ export default {
     media: '介质',
     more: '更多',
     letMeSpeak: '请让我说',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: '我想说话！',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) 实验性，还是不稳定',
-    showCameraWithScreen: '在屏幕共享期间显示相机 *',
+    showCameraWithScreen: '在屏幕共享期间显示相机',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

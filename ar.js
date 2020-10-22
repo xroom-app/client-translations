@@ -63,6 +63,7 @@ export default {
     roomDestroyed: 'تم تدمير الغرفة. ستتم إعادة توجيهك إلى صفحة البداية.',
     roomBooked: 'تم حجز الغرفة ولا يمكن إنشاؤها من خلال الواجهة حتى انتهاء الحجز.',
     nameRequired: 'Room host requires you to set your name first.',
+    pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
   },
   notify: {
     slowPlugins: 'تستغرق الإضافات وقتًا طويلاً للتحميل. النظر في إزالة أثقل.',
@@ -93,10 +94,12 @@ export default {
     roomIsBusyWebinar: 'يتم الآن تشغيل / ندوة عبر الإنترنت (%s × 🙂) / (%s × 🤖)',
     roomIsBusyConference: 'مؤتمر يعمل الآن (%s × 🙂) / (%s × 🤖)',
     sizeLimitReached: 'كانت هذه الغرفة محدودة الحجم وتم الوصول إلى الحد الأقصى',
+    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
   },
   videoMenu: {
     hint: 'تبديل القائمة',
     expand: 'توسيع',
+    pip: 'Keep on top',
     fullscreen: 'كامل الشاشة',
     volume: 'الصوت ±',
     restore: 'استعادة',
@@ -116,6 +119,13 @@ export default {
     media: 'الوسائط',
     more: 'المزيد',
     letMeSpeak: 'دعني أتكلم',
+    lock: 'Locking',
+  },
+  lockStatus: {
+    locked: 'Room is locked',
+    open: 'Room is open',
+    protected: 'Room is password-protected',
+    placeholder: 'room password',
   },
   reactions: {
     letMeSpeak: 'أريد أن أتكلم!',
@@ -144,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) تجريبي ، يعمل بشكل غير مستقر',
-    showCameraWithScreen: 'إظهار الكاميرا أثناء مشاركة الشاشة *',
+    showCameraWithScreen: 'إظهار الكاميرا أثناء مشاركة الشاشة',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',
