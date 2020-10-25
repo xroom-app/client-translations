@@ -154,7 +154,7 @@ export default {
   },
   settings: {
     experimental: '*) in fase beta, funziona in modo instabile',
-    showCameraWithScreen: 'Mostra la videocamera durante la condivisione dello schermo',
+    showCameraWithScreen: 'Mostra la videocamera durante la condivisione dello schermo (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',
