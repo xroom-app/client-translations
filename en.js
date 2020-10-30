@@ -72,7 +72,7 @@ export default {
     nisdos: 'We do not use cookies on this page',
     title: 'Your personal conference room',
     btnGo: 'Go!',
-    knowMore: 'About xroom',
+    knowMore: 'About xroom.app',
     nameRoom: 'name your room:',
     placeholder: 'type here',
     rejoinRoom: 'or rejoin',
