@@ -64,6 +64,9 @@ export default {
     roomBooked: 'El cuarto esta reservado y no se puede crear hasta que expire la reservación.',
     nameRequired: 'El anfitrión del cuarto requiere que establezcas tu nombre primero..',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Plugins Plugins toman demasiado tiempo para cargar. Considere quitar los más grandes.',

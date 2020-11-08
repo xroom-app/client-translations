@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Комната была забронирована и не может быть активирована с интерфейса до момента окончания брони.',
     nameRequired: 'Организатор просит вас указать имя перед входом в комнату.',
     pipNotSupported: 'Браузер поддерживает режим "picture-in-picture", но он откючён в настройках.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Загрузка плагинов занимает слишком много времени. Попробуйте удалить самые большие.',

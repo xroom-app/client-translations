@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Sala virtual agendada, não poderá ser criada até que agendamento expire ou seja removida.',
     nameRequired: 'Room host requires you to set your name first.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',

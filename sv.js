@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Rummet är bokat och kan inte skapas genom UI tills bokningen löper ut.',
     nameRequired: 'Rumvärd kräver att du ställer in ditt namn först.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Pluginladdning tar för mycket tid. Tänk på att ta bort det tyngsta plugin.',

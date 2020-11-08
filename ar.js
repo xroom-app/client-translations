@@ -64,6 +64,9 @@ export default {
     roomBooked: 'تم حجز الغرفة ولا يمكن إنشاؤها من خلال الواجهة حتى انتهاء الحجز.',
     nameRequired: 'Room host requires you to set your name first.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'تستغرق الإضافات وقتًا طويلاً للتحميل. النظر في إزالة أثقل.',

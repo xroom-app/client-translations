@@ -64,6 +64,9 @@ export default {
     roomBooked: 'De ruimte is geboekt en kan niet worden gecreeerd totdat de boeking verloopt.',
     nameRequired: 'De eigenaar wil dat je je naarm eerst invult.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Plugins laden duurt te lang. Probeer de zwaarste plugins te verwijderen.',

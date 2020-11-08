@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Dä Ruum isch buecht worde und cha nöd us dä Schnittstell erstellt wärde, bis die Buechig abglaufe isch.',
     nameRequired: 'Dä Host vom Ruum bittet drum, dass du zerscht diin Namä inetöggelisch.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Die Plugins bruuched zvill Ziit zum Lade. Du chönntisch aber die schwärschte Plugins entfärne.',
