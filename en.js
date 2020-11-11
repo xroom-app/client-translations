@@ -192,20 +192,4 @@ export default {
       loadFailed: 'Failed loading plugin',
     }
   },
-  tips: {
-    prefix: 'Tip of the day: ',
-    lines: [
-      'Mute/unmute often? There\'s a hot key "m" for that.',
-      'Double click a remote video to make it full screen.',
-      'Need to lock your room? Just add room locking via more.',
-      'Use Slack and want to save more time? Try out our <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Missing video calls in Telegram? Our <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
-      'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
-      'Click your name to change it both locally and for your peers.',
-      'Ever need to record your screen with just a few clicks? Try our screen recording plugin.',
-      'Need to sketch during a call? Try out the sketching plugin. Don\'t forget to turn on screen sharing.',
-      'Click your name or "You" to rename yourself for everyone.',
-      'Click peer names to adjust their volume level.'
-    ]
-  },
 }
