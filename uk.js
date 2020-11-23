@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Кімната була заброньована та не може бути створена через інтерфейс до закінчення терміну бронювання.',
     nameRequired: 'Власник кімнати запитує для початку ваше ім`я.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Завантаження плагінів займає забагато часу. Спробуйте видалити найбільш великі.',

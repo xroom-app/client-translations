@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Der Raum wurde gebucht und kann nicht aus der Schnittstelle erstellt werden, bis die Buchung abgelaufen ist.',
     nameRequired: 'Der Host des Raums bittet Sie, zuerst Ihren Namen einzutragen.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Die Plugins brauchen zuviel Zeit, um zu laden. Sie könnten die schwersten Plugins entfernen.',

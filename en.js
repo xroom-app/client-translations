@@ -64,6 +64,9 @@ export default {
     roomBooked: 'Room has been booked and cannot be created through the interface until booking expires.',
     nameRequired: 'Room host requires you to set your name first.',
     pipNotSupported: 'Your browser supports "picture-in-picture" mode but it is disabled somewhere in its settings.',
+    copyFailed: 'Copying failed. This may be a result of your device restrictions.',
+    noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
+    bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -72,7 +75,7 @@ export default {
     nisdos: 'We do not use cookies on this page',
     title: 'Your personal conference room',
     btnGo: 'Go!',
-    knowMore: 'About xroom',
+    knowMore: 'About xroom.app',
     nameRoom: 'name your room:',
     placeholder: 'type here',
     rejoinRoom: 'or rejoin',
@@ -188,21 +191,5 @@ export default {
       loaded: 'Yaay! It\'s loaded!',
       loadFailed: 'Failed loading plugin',
     }
-  },
-  tips: {
-    prefix: 'Tip of the day: ',
-    lines: [
-      'Mute/unmute often? There\'s a hot key "m" for that.',
-      'Double click a remote video to make it full screen.',
-      'Need to lock your room? Just add room locking via more.',
-      'Use Slack and want to save more time? Try out our <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Missing video calls in Telegram? Our <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
-      'Need to share a copied image? Ctrl+V in the chat, we\'ll cover the rest.',
-      'Click your name to change it both locally and for your peers.',
-      'Ever need to record your screen with just a few clicks? Try our screen recording plugin.',
-      'Need to sketch during a call? Try out the sketching plugin. Don\'t forget to turn on screen sharing.',
-      'Click your name or "You" to rename yourself for everyone.',
-      'Click peer names to adjust their volume level.'
-    ]
   },
 }
