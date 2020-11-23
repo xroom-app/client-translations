@@ -28,7 +28,7 @@ export default {
     failure: 'Operation failed',
     enterRoomName: 'Enter a room name please',
     isCamOn: 'Is the camera on?',
-    isCamOnText: 'Is the camera on? Please check that you have not accidentally blocked your camera on this site and press "Retry". <br><br>Or is the camera being used in another tab? If not, try to close your browser or reload the page. Otherwise, read xroom.app\'s 5 tips that fix 99% of issues <a href="https://xroom.app/en/blog/2020-11-19-top-troubleshooting/">here</a>.',
+    isCamOnText: 'Is the camera on? Please check that you have not accidentally blocked your camera on this site and press "Retry". <br><br>Or is the camera being used in another tab? If not, try to close your browser or reload the page. Otherwise, read xroom.app\'s 7 tips that fix 99% of issues <a href="https://xroom.app/en/blog/2020-11-19-top-troubleshooting/">here</a>.',
     isMicOn: 'Is the microphone on?',
     isMicOnText: 'Is the microphone on? Please check that you have not accidentally blocked your mic on this site and press "Retry". <br><br>Or is the microphone being used in another tab? If not, try to close your browser or reload the page. Otherwise, read xroom.app\'s 7 tips that fix 99% of issues <a href="https://xroom.app/en/blog/2020-11-19-top-troubleshooting/">here</a>. ',
     iWillOnlyWatch: 'I will only watch',
