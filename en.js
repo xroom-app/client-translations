@@ -20,6 +20,7 @@ export default {
     allowIn: 'Allow in',
     deny: 'Deny',
     enterAnyway: 'Enter anyway',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
