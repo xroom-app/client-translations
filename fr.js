@@ -20,6 +20,7 @@ export default {
     allowIn: 'Permettre d’entrer',
     deny: 'Refuser',
     enterAnyway: 'Entrer pareil',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Les plugins prennent trop de temps à charger. Pensez à retirer le plus lourd.',
@@ -188,20 +190,5 @@ export default {
       loaded: 'SUPER!! Tout a marché!',
       loadFailed: 'Échec du chargement du plugin',
     }
-  },
-  tips: {
-    prefix: 'Conseil du jour: ',
-    lines: [
-      'Désactiver / réactiver le son souvent? Il y a un raccourci "m" pour ça.',
-      'Double-cliquez sur une vidéo distante pour la faire en plein écran.',
-      'Besoin de verrouiller votre chambre? Ajoutez simplement le verrouillage de la pièce dans les plugins ci-dessous.',
-      'Utilisez Slack et vous voulez gagner plus de temps? Essayez notre <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Vous manquez des appels vidéo dans Telegram? Notre <a href="//xroom.app/en/library/telegram-bot" target="_blank">bot Telegram</a> est là pour vous aider.',
-      'Besoin de partager une image copiée? Ctrl + V dans le chat, on s’occupe reste.',
-      'Cliquez sur votre nom pour le modifier localement et pour vos pairs.',
-      'Avez-vous déjà eu besoin d’enregistrer votre écran en quelques clics? Essayez notre plugin d’enregistrement d’écran.',
-      'Besoin d’esquisser pendant un appel - essayez le plugin d’esquisse. N’oubliez pas d’activer le partage d’écran.',
-      'Cliquez sur votre nom ou "Vous" pour vous renommer pour tout le monde.',
-    ]
   },
 }

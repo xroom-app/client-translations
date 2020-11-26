@@ -20,6 +20,7 @@ export default {
     allowIn: 'Zuetritt erlaube',
     deny: 'Ablehne',
     enterAnyway: 'Trotzdem iiträtte',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Die Plugins bruuched zvill Ziit zum Lade. Du chönntisch aber die schwärschte Plugins entfärne.',
@@ -189,20 +191,4 @@ export default {
       loadFailed: 'Ladä vom Plugin nöd glungä',
     }
   },
-  tips: {
-    prefix: 'Tagestipp: ',
-    lines: [
-      'Schaltisch hüüfig stumm und wieder luut? Es git en Hot-Key "m" dadefür.',
-      'Du chasch es Remote Video doppelklickä, zum s im Vollbildmodus aazeige.',
-      'Wettsch diin Ruum abschlüsse? Eifach s´Room Locking Plugins us dä Plugins une dezuefüege.',
-      'Nutzisch Slack und wettsch Ziit sparä? Probier üsen <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a> uus.',
-      'Vermissisch Video-Konfärenze in Telegram? Üsen <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> staht dir zur Verfüegig.',
-      'Wettsch es kopierts Bild us dä Zwüscheablag teilä? Ctrl+V im Chat, dä Rescht mached miir.',
-      'Klick da uf diin Namä, zum en lokal für diich und au für dini Peers z´änderä.',
-      'Häsch scho immer welle din Bildschirm mit es paar Klicks wellä uufnääh? Probier üses Screen Recording Plugin uus.',
-      'Wettsch während änerä Videokonfärenz öppis für alli sichtbar zeichnä — probier doch emal s´Sketching Plugin. Vergiss nöd, debii dä Bildschirm z´teilä.',
-      'Klick uf diin Name oder "Du" zum dich für alli umztaufä.',
-      'Klick uf d´Näme vo dinä Peers, zum ihri Luutstärchi iizstellä.',
-    ]
-  }
 }

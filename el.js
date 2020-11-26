@@ -20,6 +20,7 @@ export default {
     allowIn: 'Αποδοχή',
     deny: 'Απόρριψη',
     enterAnyway: 'Enter anyway',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -68,6 +69,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -187,18 +189,5 @@ export default {
       loaded: 'Ναι! Φορτώθηκε!',
       loadFailed: 'Απέτυχε η φόρτωση του plugin',
     }
-  },
-  tips: {
-    prefix: 'Συμβουλή της ημέρας: ',
-    lines: [
-      'Σίγαση/Κατάργηση σίγασης συχνά? Υπάρχει ένα πλήκτρο συντόμευσης "m" για αυτό.',
-      'Κάντε διπλό κλικ σε ένα απομακρυσμένο βίντεο για να το φέρετε σε πλήρη οθόνη.',
-      'Χρειάζεστε να κλειδώσετε το δωμάτιο? Απλά προσθέστε το κλείδωμα δωματίου στα plugins παρακάτω.',
-      'Χρησιμοποιείται το Slack και θέλετε να σώσετε παραπάνω χρόνο? Δοκιμάστε το δικό μας <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Χάνετε τις κλήσεις σας στο Telegram? Το <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> είναι εδώ για να σας βοηθήσει.',
-      'Χρειάζεστε να μοιραστείτε μια αντιγραμμένη εικόνα? Ctrl+V στον διάλογο, θα καλύψουμε εμείς τα υπόλοιπα.',
-      'Κλικάρετε το όνομά σας για να το αλλάξετε τοπικά και στους άλλους.',
-      'Χρειαστήκατε ποτέ να καταγράψετε την οθόνη σας με μερικά μόνο κλικ? Δοκιμάστε το δικό μας plugin για καταγραφή οθόνης.',
-    ]
   },
 }

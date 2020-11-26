@@ -20,6 +20,7 @@ export default {
     allowIn: 'İçeri al',
     deny: 'Reddet',
     enterAnyway: 'Enter anyway',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -188,20 +190,5 @@ export default {
       loaded: 'Holey, yüklendi!',
       loadFailed: 'Eklenti yüklenemedi',
     }
-  },
-  tips: {
-    prefix: 'Günlük ipucu: ',
-    lines: [
-      'Sık sık sesi kapatıp açıyor musunuz? "m" kısayol tuşunu kullanabilirsiniz.',
-      'Videoya çift tıklayarak tam ekran yapabilirsiniz.',
-      'Odanızı kilitlemek mi istiyorsunuz? Aşağıdaki eklentilerden oda kilitlemeyi ekleyin.',
-      'Daha fazla zaman kazanmak isteyen Slack kullanıcıları, <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack botumuzu</a> deneyin.',
-      'Telegram´da görüntülü arama mı kaçırdınız? <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram botumuz</a> yardım için burada.',
-      'Kopyaladığınız bir görseli paylaşmanız mı gerekiyor? Sohbette Ctrl+V tuşlarına basın, gerisini biz hallederiz.',
-      'Adınızı hem yerel olarak hem de diğer kullanıcılar için değiştirmek için adınıza tıklayın.',
-      'Ekranınızı sadece birkaç tıkla kaydetmek istiyorsanız ekran kaydetme eklentimizi deneyin.',
-      'Görüşme sırasında çizim yapmanız gerekiyorsa çizim eklentisini deneyin. Ekran paylaşımını açmayı unutmayın.',
-      'Kendinize tekrar isim vermek için isminize ya da "Siz" seçeneğine tıklayın.',
-    ]
   },
 }

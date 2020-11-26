@@ -20,6 +20,7 @@ export default {
     allowIn: 'Dozvoli',
     deny: 'Odkaži',
     enterAnyway: 'Vstupiti tako',
+    enterHost: 'Enter as a host',
     details: 'Detalje',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Dodatki počinajųt se velmi dolgo. Razsmotrite izčrkanije najtežkyh.',
@@ -188,18 +190,5 @@ export default {
       loaded: 'Lěpo! On je vniknųl!',
       loadFailed: 'Grěška vnikneńja dodatka',
     }
-  },
-  tips: {
-    prefix: 'Sovět dnja: ',
-    lines: [
-      'Često němeješ mikrofon? Zato imajemo klaviš "m".',
-      'Dvuklikni oddaljeno video da by vključiti polny ekran.',
-      'Potrěba zamknuti komnatų? Prosto dodaj "room locking" v dodatkah poniže.',
-      'koristaješ Slack i hočeš poščediti vręme? Poprobuj naš <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Nedostavaješ video v Telegramu? Naš <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> pomože tobě.',
-      'Potrěba děliti kopirovany obraz? Ctrl+V v čatu, sdělamo ostatok.',
-      'Klikni svoje ime da by izměniti jego kako męstno tako i oddaljeno.',
-      'Kogda-nebud trěboval zapisyvati ekran parojų klikov? Poprobuj naš dodatok dlja zapisa ekranu.',
-    ]
   },
 }

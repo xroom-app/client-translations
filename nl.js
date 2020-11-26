@@ -20,6 +20,7 @@ export default {
     allowIn: 'Laat toe',
     deny: 'Weiger',
     enterAnyway: 'Toch naar binnen gaan',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugins laden duurt te lang. Probeer de zwaarste plugins te verwijderen.',
@@ -191,18 +193,5 @@ export default {
       loaded: 'Joepie! Hij is geladen!',
       loadFailed: 'Kan plugin niet laden',
     },
-  },
-  tips: {
-    prefix: 'Tip van de dag: ',
-    lines: [
-      'Zet je vaak je microfoon aan en uit? Je kunt ook op de "m" drukken.',
-      'Dubbel klik op een video om deze op volledig scherm te tonen.',
-      'Wil je de ruimte afsluiten? Voeg de "room locking" plugin toe.',
-      'Gebruik je Slack en wil je meer tijd sparen? Probeer onze <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Mis je video berichten in Telegram? Onze <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is hier om te helpen.',
-      'Moet je een gekopieerde afbeelding delen? Druk op Ctrl+V in de chat, en wij doen de rest.',
-      'Klik op je naam om te wijzigingen.',
-      'Wil je je scherm opnemen met maar een paar klikken? Probeer onze screen recording plugin.',
-    ]
   },
 }

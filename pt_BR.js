@@ -20,6 +20,7 @@ export default {
     allowIn: 'Permitir entrar',
     deny: 'Negar',
     enterAnyway: 'Entrar de qualquer forma',
+    enterHost: 'Enter as a host',
     details: 'Detalhes',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'A cópia falhou. Isso pode ser resultado das restrições do seu dispositivo.',
     noCryptoWarning: 'Este navegador não oferece suporte à criptografia. Não é seguro continuar.',
     bigFileDecryptWarn: 'O download começou. Pode demorar alguns segundos para descriptografar o arquivo.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',
@@ -188,21 +190,5 @@ export default {
       loaded: 'Sim! Foi descarregado!',
       loadFailed: 'Falhou descarregamento do plugin',
     }
-  },
-  tips: {
-    prefix: 'Dica do dia: ',
-    lines: [
-      'Mudo ativa/desativa com frequência? Existe um atalho "m" para este fim.',
-      'Duplo clique no vídeo remoto para tela inteira.',
-      'Precisa bloquear a sala? Adicione esta funcionalidade em "plugins".',
-      'Usa Slack e gostaria de economizar tempo? Experimente o nosso <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Perdeu videochamada no telegram? Nosso <a href="//xroom.app/en/library/telegram-bot" target="_blank">BOT Telegram</a> está para ajudar.',
-      'Precisa compartilhar a imagem copiada? Aperte Ctrl+V no chat.',
-      'Clique no seu nome para alterar localmente e para os demais participantes.',
-      'Alguma vez necessitou compartilhar a tela com um simples clique? Experimente nosso gravador de tela em "plugins".',
-      'Precisa de rascunho durante a videoconferência? Experimente em "plugns. Não se esqueça de compartilhar a tela.',
-      'Clique em seu nome ou "Você" para alterar o nome.',
-      'Clique no nome do participante para ajustar o volume.',
-    ]
   },
 }

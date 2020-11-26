@@ -20,6 +20,7 @@ export default {
     allowIn: 'Zutritt erlauben',
     deny: 'Ablehnen',
     enterAnyway: 'Trotzdem eintreten',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Die Plugins brauchen zuviel Zeit, um zu laden. Sie könnten die schwersten Plugins entfernen.',
@@ -189,20 +191,4 @@ export default {
       loadFailed: 'Laden des Plugins misslungen',
     }
   },
-  tips: {
-    prefix: 'Tagestipp: ',
-    lines: [
-      'Schalten Sie oft stumm und wieder laut? Es gibt einen Hot-Key "m" dafür.',
-      'Doppelklicken Sie ein Remote Video, um es im Vollbildmodus anzuzeigen.',
-      'Möchten Sie Ihren Raum verschliessen? Einfach das Room Locking aus den Plugins unten hinzufügen.',
-      'Benützen Sie Slack und möchten Sie Zeit sparen? Probieren Sie unseren <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a> aus.',
-      'Vermissen Sie Video-Konferenzen in Telegram? Unser <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> steht Ihnen zur Verfügung.',
-      'Wollen Sie ein kopiertes Bild aus der Zwischenablage teilen? Ctrl+V im Chat, wir kümmern uns um den Rest.',
-      'Klicken Sie auf Ihren Namen, um ihn lokal für sich selbst und auch für Ihre Peers zu ändern.',
-      'Wollten Sie schon immer mal Ihren Bildschirm mit nur ein paar Klicks aufnehmen? Probieren Sie unser Screen Recording Plugin aus.',
-      'Wollen Sie während einer Videokonferenz etwas für alle sichtbar zeichnen — probieren Sie das Sketching Plugin. Vergessen Sie nicht, dabei den Bildschirm zu teilen.',
-      'Klicken Sie Ihren Namen oder "Sie" um sich für alle umzubenennen.',
-      'Klicken Sie auf die Namen Ihrer Peers, um ihre Lautstärke zu regulieren.',
-    ]
-  }
 }

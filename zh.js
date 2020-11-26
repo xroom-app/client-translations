@@ -20,6 +20,7 @@ export default {
     allowIn: '允许',
     deny: '拒绝',
     enterAnyway: 'Enter anyway',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -188,18 +190,5 @@ export default {
       loaded: '耶！已加载！',
       loadFailed: '加载插件失败',
     }
-  },
-  tips: {
-    prefix: '每日提示：',
-    lines: [
-      '经常静音/取消静音？有一个热键"m"可使用。',
-      '双击远程视频以使其全屏显示。',
-      '需要锁上聊天室吗？只需在下方的插件中添加聊天室锁定功能即可。',
-      '使用Slack并想节省更多时间吗？试用我们的<a href="//xroom.app/en/library/slack-bot" target="_blank">Slack机器人</a>。',
-      '错过了Telegram中的视频通话吗？我们的<a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram机器人</a>可以为您提供帮助。',
-      '需要共享复制的图像吗？在聊天中按Ctrl + V，我们将为您服务。',
-      '单击您的名字将可以更改您及您的同伴所显示的名字。',
-      '想单击几下便可以记录屏幕吗？试试我们的屏幕录像插件。',
-    ]
   },
 }

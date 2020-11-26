@@ -20,6 +20,7 @@ export default {
     allowIn: 'Permitir entrar',
     deny: 'Negar',
     enterAnyway: 'Entrar de qualquer forma',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',
@@ -188,21 +190,5 @@ export default {
       loaded: 'Sim! Foi descarregado!',
       loadFailed: 'Falhou descarregamento do plugin',
     }
-  },
-  tips: {
-    prefix: 'Dica do dia: ',
-    lines: [
-      'Mudo activa/desactiva com frequência? Existe um atalho "m" para tal.',
-      'Duplo click no vídeo remoto para ecrã inteiro.',
-      'Precisa bloquear a sala? Adicione esta funcionalidade em "plugins".',
-      'Usa Slack e gostaria de economizar tempo? Experimente o nosso <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Perdeu videochamada no telegram? Nosso <a href="//xroom.app/en/library/telegram-bot" target="_blank">BOT Telegram</a> está para ajudar.',
-      'Precisa partilhar a imagem copiada? Aperte Ctrl+V no chat, nós tratamos do recto.',
-      'Click no seu nome para alterar localmente e para os participantes.',
-      'Alguma vez necessitou de partilhar o ecrã com simples click? Experimente nosso gravador de ecrã em "plugins".',
-      'Precisa de rascunho durante a videoconferencia? Experimente em "plugns. Não se esqueça de partilhar o ecrã.',
-      'Click em seu nome ou "Você" para alterar o nome.',
-      'Click no nome do participante para ajustar o volume.',
-    ]
   },
 }

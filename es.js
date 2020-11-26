@@ -20,6 +20,7 @@ export default {
     allowIn: 'Admitir',
     deny: 'Denegar',
     enterAnyway: 'Entrar de todos modos',
+    enterHost: 'Enter as a host',
     details: 'Detalles',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugins Plugins toman demasiado tiempo para cargar. Considere quitar los más grandes.',
@@ -188,18 +190,5 @@ export default {
       loaded: '¡Sí! ¡Se cargó!',
       loadFailed: 'Falló la carga del plugin',
     },
-  },
-  tips: {
-    prefix: 'Consejo del día: ',
-    lines: [
-      '¿Silencias el mic muy seguido? Puedes hacerlo mas rapido con la tecla "m".',
-      'Haz doble clic en un video remoto para verlo en pantalla completa.',
-      '¿Necesitas bloquear tu cuarto? Hacer clic en opciones para seleccionar el candado para prenderlo',
-      '¿Usas Slack y quieres ahorrar más tiempo? Prueba nuestro <a href="//xroom.app/en/library/slack-bot" target="_blank">bot de Slack</a>.',
-      '¿Te hace falta las videollamadas en Telegram? Nuestro <a href="//xroom.app/en/library/telegram-bot" target="_blank">bot de Telegram</a> está aqui para ayudarte.',
-      'Para compartir una imagen copiada, presiona Ctrl+V en el chat. Nosotros nos ocupamos del resto.',
-      'Haz clic en tu nombre para cambiarlo para ti y para los demás.',
-      '¿Alguna vez quisiste grabar la pantalla con un par de clics? Prueba nuestro plugin de grabación de pantalla.',
-    ],
   },
 }

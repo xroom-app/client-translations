@@ -20,6 +20,7 @@ export default {
     allowIn: 'Впустити',
     deny: 'Не впускати',
     enterAnyway: 'Все одно ввійти',
+    enterHost: 'Enter as a host',
     details: 'Деталі',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Завантаження плагінів займає забагато часу. Спробуйте видалити найбільш великі.',
@@ -189,18 +191,4 @@ export default {
       loadFailed: 'Щось пішло не так.',
     }
   },
-  tips: {
-    prefix: 'Порада дня: ',
-    lines: [
-      'Часто вмикаєте/вимикаєте звук? Спробуйте гарячу клавішу "m".',
-      'Подвійний клік мишкою по відео, і воно з`явиться на повний екран.',
-      'Треба зачинити кімнату? Додайте "Room locking" у плагінах знизу.',
-      'Використовуєте Slack і хочете зекономити час? Спробуйте нашого <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack-бота</a>.',
-      'Не вистачає відео в Телеграмі? Наш <a href="//xroom.app/en/library/telegram-bot" target="_blank">Телеграм-бот</a> допоможе вам.',
-      'Потрібно швидко поділитися зкопійованою картинкою? Ctrl+V у чаті, решту ми зробимо.',
-      'Для зміни назви клікніть по ній. Нове ім`я побачать всі у кімнаті.',
-      'Шукаєте програму для запису екрану в декілька кліків? Спробуйте для цього наш плагін.',
-      'Потрібно щось малювати під час дзвінка? — спробуйте плагін "Sketcher". Не забувайте, звісно, розшарювати екран.',
-    ]
-  }
 }

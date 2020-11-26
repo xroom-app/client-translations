@@ -20,6 +20,7 @@ export default {
     allowIn: 'Accesso consentito',
     deny: 'Accesso negato',
     enterAnyway: 'Enter anyway',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -188,20 +190,5 @@ export default {
       loaded: 'Evviva! Caricamento riuscito!',
       loadFailed: 'Caricamento del plugin fallito',
     }
-  },
-  tips: {
-    prefix: 'Consiglio del giorno: ',
-    lines: [
-      'Attivi/disattivi l`audio spesso? C`è il tasto di scelta rapida "m" per quello.',
-      'Fai doppio clic su un video remoto per visualizzarlo a schermo intero.',
-      'Hai bisogno di chiudere la tua stanza? Aggiungi semplicemente il blocco della stanza nei plugin di seguito.',
-      'Usa Slack e vuoi risparmiare più tempo? Prova il nostro <a href="//xroom.app/en/library/slack-bot" target="_blank">bot di Slack</a>.',
-      'Perdi le videochiamate su Telegram? Il nostro <a href="//xroom.app/en/library/telegram-bot" target="_blank">bot di Telegram</a> è qui per aiutarti.',
-      'Devi condividere un`immagine copiata? Fai Ctrl+V nella chat, noi penseremo al resto.',
-      'Clicca sul tuo nome per modificarlo sia localmente che per i tuoi colleghi.',
-      'Hai mai avuto bisogno di registrare il tuo schermo con pochi clic? Prova il nostro plug-in per la registrazione dello schermo.',
-      'Devi disegnare durante una chiamata? Prova il plug-in di disegno. Non dimenticare di attivare la condivisione dello schermo.',
-      'Clicca sul tuo nome o "Tu" per rinominare te stesso per tutti.',
-    ]
   },
 }

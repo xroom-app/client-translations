@@ -20,6 +20,7 @@ export default {
     allowIn: 'Släpp in',
     deny: 'Neka',
     enterAnyway: 'Gå in ändå',
+    enterHost: 'Enter as a host',
     details: 'Detaljer',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Pluginladdning tar för mycket tid. Tänk på att ta bort det tyngsta plugin.',
@@ -188,19 +190,5 @@ export default {
       loaded: 'Yaay! Det är laddat!',
       loadFailed: 'Det gick inte att ladda plugin',
     }
-  },
-  tips: {
-    prefix: 'Dagens tips: ',
-    lines: [
-      'Mute/unmute often? There`s a hot key "m" for that.',
-      'Double click the remote video to make it full screen.',
-      'Need to lock your room? Just add the room locking in plugins below.',
-      'Use Slack and want to save more time? Try out our <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Miss video calls in Telegram? Our <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
-      'Need to share a copied image? Ctrl+V in the chat, we`ll cover the rest.',
-      'Lock your room in one click, use locking plugin',
-      'Click your name to change it both locally and for your peers.',
-      'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
-    ]
   },
 }

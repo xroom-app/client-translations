@@ -20,6 +20,7 @@ export default {
     allowIn: 'Permite',
     deny: 'Interzice',
     enterAnyway: 'Enter anyway',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Plugin-ul nu poate fi incarcat.',
@@ -188,20 +190,5 @@ export default {
       loaded: 'Yaay! It is loaded!',
       loadFailed: 'Failed loading plugin',
     }
-  },
-  tips: {
-    prefix: 'Tip of the day: ',
-    lines: [
-      'Mute/unmute often? There is a hot key "m" for that.',
-      'Double click a remote video to make it full screen.',
-      'Need to lock your room? Just add the room locking in plugins below.',
-      'Use Slack and want to save more time? Try out our <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'Miss video calls in Telegram? Our <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> is there to help.',
-      'Need to share a copied image? Ctrl+V in the chat, we will cover the rest.',
-      'Click your name to change it both locally and for your peers.',
-      'Ever needed to record your screen with just a few clicks? Try our screen recording plugin.',
-      'Need to sketch during a call — try out the sketching plugin. Do not forget to turn on screen sharing.',
-      'Click your name or "You" to rename yourself for everyone.',
-    ]
   },
 }

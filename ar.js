@@ -20,6 +20,7 @@ export default {
     allowIn: 'السماح بدخول',
     deny: 'منع',
     enterAnyway: 'دخول علي أي حال',
+    enterHost: 'Enter as a host',
     details: 'Details',
   },
   mbox: {
@@ -67,6 +68,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
+    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'تستغرق الإضافات وقتًا طويلاً للتحميل. النظر في إزالة أثقل.',
@@ -188,20 +190,5 @@ export default {
       loaded: 'أجل! تم تحميله!',
       loadFailed: 'فشل تحميل الإضافة',
     }
-  },
-  tips: {
-    prefix: 'نصيحة اليوم: ',
-    lines: [
-      'هل تريد كتم الصوت / إلغاء كتم الصوت غالبًا؟ هناك استخدم"m" في لوحة التحكم لذلك.',
-      'انقر نقرًا مزدوجًا فوق فيديو عن بُعد لجعله في وضع ملء الشاشة.',
-      'هل تحتاج لقفل غرفتك؟ ما عليك سوى إضافة هذه الإضافة لقفل الغرفة أدناه.',
-      'هل تستخدم Slack وتريد توفير المزيد من الوقت؟ جرّب <a href="//xroom.app/en/library/slack-bot" target="_blank">Slack bot</a>.',
-      'هل فاتتك مكالمات الفيديو في Telegram? لنا <a href="//xroom.app/en/library/telegram-bot" target="_blank">Telegram bot</a> نحن هنا للمساعدة.',
-      'هل تريد مشاركة صورة منسوخة؟ Ctrl + V في الدردشة ، سنتناول الباقي.',
-      'انقر فوق اسمك لتغييره محليًا ولأقرانك.',
-      'هل احتجت من قبل إلى تسجيل الشاشة ببضع نقرات فقط؟ جرب الإضافة المساعد لتسجيل الشاشة.',
-      'تحتاج إلى رسم أثناء المكالمة - جرب الإضافة المساعدة للرسم. لا تنس تشغيل مشاركة الشاشة.',
-      'انقر فوق اسمك أو "أنت" لإعادة تسمية نفسك للجميع.',
-    ]
   },
 }
