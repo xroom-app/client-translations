@@ -158,7 +158,7 @@ export default {
   },
   settings: {
     experimental: '*) πειραματικό, λειτουργεί με αστάθεια',
-    showCameraWithScreen: 'Δείξτε την κάμερα κατά την διάρκεια της κοινής χρήσης οθόνης (BETA)',
+    screenFace: 'Δείξτε την κάμερα κατά την διάρκεια της κοινής χρήσης οθόνης (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

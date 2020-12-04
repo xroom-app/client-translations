@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) deneyseldir, istikrarsız çalışmaktadır',
-    showCameraWithScreen: 'Ekran paylaşımı sırasında kamerayı göster (BETA)',
+    screenFace: 'Ekran paylaşımı sırasında kamerayı göster (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

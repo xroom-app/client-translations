@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) 实验性，还是不稳定',
-    showCameraWithScreen: '在屏幕共享期间显示相机 (BETA)',
+    screenFace: '在屏幕共享期间显示相机 (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

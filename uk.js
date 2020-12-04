@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) експериментальна фіча, працює нестабільно',
-    showCameraWithScreen: 'Камеру видно під час скріншерінгу (BETA)',
+    screenFace: 'Камеру видно під час скріншерінгу (BETA)',
     audioQ: 'Якість аудіо',
     videoQ: 'Якість відео',
     screenQ: 'Якість сумісного користування екраном',

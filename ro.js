@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, works unstably',
-    showCameraWithScreen: 'Arata camera video in timp ce fac sharescreen (BETA)',
+    screenFace: 'Arata camera video in timp ce fac sharescreen (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

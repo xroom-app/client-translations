@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) probno, rabotaje nestabilno',
-    showCameraWithScreen: 'Pokazyvati svoj obraz v tečenju děľeńja ekrana (BETA)',
+    screenFace: 'Pokazyvati svoj obraz v tečenju děľeńja ekrana (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

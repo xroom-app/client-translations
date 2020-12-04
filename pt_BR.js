@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) experimental, funcionamento instável',
-    showCameraWithScreen: 'Mostrar câmera durante o compartilhamento de tela (BETA)',
+    screenFace: 'Mostrar câmera durante o compartilhamento de tela (BETA)',
     audioQ: 'Qualidade de áudio',
     videoQ: 'Qualidade de vídeo',
     screenQ: 'Qualidade do compartilhamento de tela',

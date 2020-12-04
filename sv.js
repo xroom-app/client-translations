@@ -159,7 +159,7 @@ export default {
   },
   settings: {
     experimental: '*) experimentellt, fungerar ostabilt',
-    showCameraWithScreen: 'Använd kameran under skärmdelning (BETA)',
+    screenFace: 'Använd kameran under skärmdelning (BETA)',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',
