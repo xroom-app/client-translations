@@ -159,6 +159,7 @@ export default {
   settings: {
     experimental: '*) πειραματικό, λειτουργεί με αστάθεια',
     screenFace: 'Δείξτε την κάμερα κατά την διάρκεια της κοινής χρήσης οθόνης (BETA)',
+    flipFace: 'Mirror your camera',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

@@ -160,6 +160,7 @@ export default {
   settings: {
     experimental: '*) экспериментальная фича, работает нестабильно',
     screenFace: 'Камера при скриншэринге (BETA)',
+    flipFace: 'Mirror your camera',
     audioQ: 'Качество аудио',
     videoQ: 'Качество видео',
     screenQ: 'Качество скриншеринга',

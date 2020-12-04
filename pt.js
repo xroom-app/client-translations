@@ -160,6 +160,7 @@ export default {
   settings: {
     experimental: '*) experimental, works unstably',
     screenFace: 'Mostrar camera durante a partilhad e ecrã (BETA)',
+    flipFace: 'Mirror your camera',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

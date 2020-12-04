@@ -160,6 +160,7 @@ export default {
   settings: {
     experimental: '*) 实验性，还是不稳定',
     screenFace: '在屏幕共享期间显示相机 (BETA)',
+    flipFace: 'Mirror your camera',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

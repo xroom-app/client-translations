@@ -160,6 +160,7 @@ export default {
   settings: {
     experimental: '*) probno, rabotaje nestabilno',
     screenFace: 'Pokazyvati svoj obraz v tečenju děľeńja ekrana (BETA)',
+    flipFace: 'Mirror your camera',
     audioQ: 'Audio quality',
     videoQ: 'Video quality',
     screenQ: 'Screen sharing quality',

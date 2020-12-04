@@ -163,6 +163,7 @@ export default {
   settings: {
     experimental: '*) experimenteel, kan nog onstabiel zijn',
     screenFace: 'Laat camera zien tijdens scherm delen (BETA)',
+    flipFace: 'Mirror your camera',
     audioQ: 'Audio kwaliteit',
     videoQ: 'Video kwaliteit',
     screenQ: 'Scherm delen kwaliteit',
