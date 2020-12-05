@@ -118,7 +118,7 @@ export default {
     chat: 'Chat %s',
     exit: 'Leave',
     destroy: 'Delete room',
-    xroom: 'Powered by xroom',
+    xroom: 'Powered by\nxroom.app',
     settings: 'Settings',
     plugins: 'Plugins',
     media: 'Media',
