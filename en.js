@@ -22,6 +22,8 @@ export default {
     enterAnyway: 'Enter anyway',
     enterHost: 'Enter as a host',
     details: 'Details',
+    stay: 'Stay',
+    remain: 'Remain',
   },
   mbox: {
     notSupported: 'It looks like this browser does not support XROOM or WebRTC is disabled. 😢',
@@ -68,7 +70,7 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
-    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
+    roomMigrated: 'The current booking for this room is now complete. A choice must be made as another booking has been scheduled using the same room name. Would you like to move to that new booking or remain in the current meeting? If you choose the second option you will be redirected to a new room created to finish this meting.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
