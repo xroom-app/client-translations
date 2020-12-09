@@ -22,6 +22,8 @@ export default {
     enterAnyway: 'Gå in ändå',
     enterHost: 'Enter as a host',
     details: 'Detaljer',
+    stay: 'Stay',
+    remain: 'Remain',
   },
   mbox: {
     notSupported: 'Det ser inte ut som att denna webbläsare stödjer XROOM eller så är WebRTC inaktiverat. 😢',
