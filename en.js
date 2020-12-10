@@ -26,7 +26,7 @@ export default {
     remain: 'Remain',
   },
   mbox: {
-    notSupported: 'It looks like this browser does not support XROOM or WebRTC is disabled. 😢',
+    notSupported: 'It looks like this browser does not support xroom.app or WebRTC is disabled. 😢',
     success: 'Operation succeeded',
     failure: 'Operation failed',
     enterRoomName: 'Enter a room name please',
@@ -53,7 +53,7 @@ export default {
     knockingFailedText: 'Knocking attempt failed',
     doYouWantToKick: 'Do you want to kick this user?',
     deviceChanged: 'You have attached/removed a new input device. If it does not work choose it manually from Settings.',
-    allowCameraPlz: 'After you press OK please <b>allow</b> xroom to use your camera.<br><br>Don\'t worry! You will be able to turn it off again before entering the room from the menu at the bottom if you wish to stay hidden.',
+    allowCameraPlz: 'After you press OK please <b>allow</b> xroom.app to use your camera.<br><br>Don\'t worry! You will be able to turn it off again before entering the room from the menu at the bottom if you wish to stay hidden.',
     tooOldBrowser: 'Your browser is too old or is produced by Microsoft. Many features may be missing.',
     pluginsLoadFailed: 'Failed loading plugins',
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again, please clear browser cache manually.',
@@ -101,7 +101,7 @@ export default {
     roomIsBusyWebinar: '<span>A webinar/stream is now running</span> <span>(%s×🙂 / %s×🤖)</span>',
     roomIsBusyConference: '<span>A conference is now running</span> <span>(%s×🙂 / %s×🤖)</span>',
     sizeLimitReached: 'This room was limited by size and the limit is already reached',
-    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>, but it hasn\'t started yet.',
+    roomBooked: 'There\'s going to be an event in this room at <b>%s</b>.',
   },
   videoMenu: {
     hint: 'Toggle menu',
