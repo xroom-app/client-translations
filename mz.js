@@ -99,7 +99,7 @@ export default {
     roomIsBusyWebinar: 'Webinar/strim už ide (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Web-konferencija už ide (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Razměr komnaty ograničeny i limit jest dostigneny.',
-    roomBooked: 'There is going to be an event in this room at <b>%s</b>, but it has not started yet.',
+    roomBooked: 'There is going to be an event in this room at: <b>%s</b>.',
   },
   videoMenu: {
     hint: 'Phni menu',
