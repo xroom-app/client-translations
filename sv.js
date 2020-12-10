@@ -101,7 +101,7 @@ export default {
     roomIsBusyWebinar: 'En webinar/stream pågår redan (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Ett samtal pågår redan (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Rummets kapacitet har uppnått sin begränsning.',
-    roomBooked: 'Ett event kommer att starta i detta rum vid kl. <b>%s</b>, var god vänta.',
+    roomBooked: 'Ett event kommer att starta i detta rum vid: <b>%s</b>, var god vänta.',
   },
   videoMenu: {
     hint: 'Meny',
