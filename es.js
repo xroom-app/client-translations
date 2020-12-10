@@ -99,7 +99,7 @@ export default {
     roomIsBusyWebinar: 'Un webinar/stream esta corriendo (%s × 🙂)',  // validate translation
     roomIsBusyConference: 'Una conferencia está corriendo (%s × 🙂)',  // validate translation
     sizeLimitReached: 'Esta cuarto esta limitada por tamaño y ya se alcanzó el límite',
-    roomBooked: 'Va a haber un evento en esta cuarto a las <b>%s</b>, pero todavia no ha empezado.',
+    roomBooked: 'Va a haber un evento en esta cuarto pronto: <b>%s</b>',
   },
   videoMenu: {
     hint: 'Cambiar barra de opciones',
