@@ -99,7 +99,7 @@ export default {
     roomIsBusyWebinar: 'O webinar/stream está em curso',
     roomIsBusyConference: 'A conferência está em curso',
     sizeLimitReached: 'Sala virtual limitada para uma quantidade de participantes que ja foi atingida',
-    roomBooked: 'Haverá um evento nesta sala às <b>% s </b>, mas ainda não começou',
+    roomBooked: 'Haverá um evento nesta sala às: <b>%s</b>.',
   },
   videoMenu: {
     hint: 'Alterar menu',
