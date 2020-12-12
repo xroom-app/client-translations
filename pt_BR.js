@@ -68,6 +68,7 @@ export default {
     copyFailed: 'A cópia falhou. Isso pode ser resultado das restrições do seu dispositivo.',
     noCryptoWarning: 'Este navegador não oferece suporte à criptografia. Não é seguro continuar.',
     bigFileDecryptWarn: 'O download começou. Pode demorar alguns segundos para descriptografar o arquivo.',
+    noSTUN: 'We have detected that you were unable to connect to your meeting. This is likely due to a local connection or firewall issue. Our systems are validated as currently working. Try to test using another browser, use incognito mode or switch to another network before reconnecting.<br><br>Please read the <a href="https://xroom.app/en/blog/2020-08-07-experiencing-network-or-connection-issues" target="_blank">following article</a> for more information here.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',

@@ -70,6 +70,7 @@ export default {
     copyFailed: 'Kopieringen misslyckades. Detta kan vara pga. dina enhetsbegränsningar.',
     noCryptoWarning: 'Denna webbläsare stöder inte kryptografi. Det är inte pålitligt att fortsätta.',
     bigFileDecryptWarn: 'Nedladdningen har startat. Det kan ta några sekunder att dekryptera filen.',
+    noSTUN: 'We have detected that you were unable to connect to your meeting. This is likely due to a local connection or firewall issue. Our systems are validated as currently working. Try to test using another browser, use incognito mode or switch to another network before reconnecting.<br><br>Please read the <a href="https://xroom.app/en/blog/2020-08-07-experiencing-network-or-connection-issues" target="_blank">following article</a> for more information here.',
   },
   notify: {
     slowPlugins: 'Pluginladdning tar för lång tid. Tänk på att ta bort den/de plugins som är tyngst.',
