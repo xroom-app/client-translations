@@ -68,7 +68,6 @@ export default {
     copyFailed: 'Copying failed. This may be a result of your device restrictions.',
     noCryptoWarning: 'This browser does not support cryptography. It is not safe to continue.',
     bigFileDecryptWarn: 'Downloading has started. It may take a few seconds to decrypt the file.',
-    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'تستغرق الإضافات وقتًا طويلاً للتحميل. النظر في إزالة أثقل.',

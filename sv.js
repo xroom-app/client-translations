@@ -70,7 +70,6 @@ export default {
     copyFailed: 'Kopieringen misslyckades. Detta kan vara pga. dina enhetsbegränsningar.',
     noCryptoWarning: 'Denna webbläsare stöder inte kryptografi. Det är inte pålitligt att fortsätta.',
     bigFileDecryptWarn: 'Nedladdningen har startat. Det kan ta några sekunder att dekryptera filen.',
-    roomMigrated: 'Detta rum har ersatts med ett bokat möte. Ditt samtal har flyttats till en annan plats och du kommer nu att omdirigeras dit.',
   },
   notify: {
     slowPlugins: 'Pluginladdning tar för lång tid. Tänk på att ta bort den/de plugins som är tyngst.',

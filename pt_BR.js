@@ -68,7 +68,6 @@ export default {
     copyFailed: 'A cópia falhou. Isso pode ser resultado das restrições do seu dispositivo.',
     noCryptoWarning: 'Este navegador não oferece suporte à criptografia. Não é seguro continuar.',
     bigFileDecryptWarn: 'O download começou. Pode demorar alguns segundos para descriptografar o arquivo.',
-    roomMigrated: 'This room has been taken over by a booked meeting. Your call has been moved to another place and you will now be redirected there.',
   },
   notify: {
     slowPlugins: 'Os plugins levam muito tempo para carregar. Considere remover o mais pesado.',
