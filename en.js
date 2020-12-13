@@ -99,7 +99,7 @@ export default {
     roomIsBusyWebinar: '<span>A webinar/stream is now running</span> <span>(%s×🙂 / %s×🤖)</span>',
     roomIsBusyConference: '<span>A conference is now running</span> <span>(%s×🙂 / %s×🤖)</span>',
     sizeLimitReached: 'This room was limited by size and the limit is already reached',
-    roomBooked: 'There\'s going to be an event in this room soon: <b>%s</b>.',
+    roomBooked: 'There is going to be an event in this room soon: <b>%s</b>.',
   },
   videoMenu: {
     hint: 'Toggle menu',

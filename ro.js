@@ -99,7 +99,7 @@ export default {
     roomIsBusyWebinar: 'Webinarul este pornit (%s×🙂 / %s×🤖)',
     roomIsBusyConference: 'Videoconferinta este pornita (%s×🙂 / %s×🤖)',
     sizeLimitReached: 'Limita de locuri a fost depasita',
-    roomBooked: 'There\'s going to be an event in this room soon: <b>%s</b>.',
+    roomBooked: 'There is going to be an event in this room soon: <b>%s</b>.',
   },
   videoMenu: {
     hint: 'Toggle menu',
