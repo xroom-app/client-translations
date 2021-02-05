@@ -187,6 +187,8 @@ export default {
     theme: 'Color theme',
     server: 'Server',
     keepControls: 'Keep controls visible',
+    requestAudio: 'Request audio permission',
+    requestVideo: 'Request video permission',
   },
   plugins: {
     by: 'by',
