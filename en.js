@@ -19,12 +19,15 @@ module.exports = {
     roomIsFull: 'This room is full. You cannot enter.',
     alreadyHosted: 'You are already in the room. Probably you are testing with several browser tabs. Do you want to enter? Host features may not work here.',
     youAreKicked: 'You have been removed from this room.',
+    setQFailed: 'Failed to set the requested quality. Probably your browser does not support it.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
     peerLost: 'You lost %s. Reconnecting...',
     roomLocked: 'Room locked 🔒',
     roomUnlocked: 'Room unlocked 🔓',
+    roomPwdSet: 'Room password set 🔑',
+    roomPwdReset: 'Room password cleared',
   },
   modes: {
     1: 'Conference — everyone can speak',
