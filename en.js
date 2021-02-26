@@ -34,6 +34,11 @@ module.exports = {
     1: 'Conference — everyone can speak',
     2: 'Webinar — one speaks, others listen',
   },
+  placements: {
+    1: 'Default view',
+    2: 'Mini-me',
+    3: 'Spotlight',
+  },
   perm: {
     head: 'Allow browser permissions',
     video: 'Video',
