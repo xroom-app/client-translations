@@ -28,6 +28,7 @@ module.exports = {
     roomUnlocked: 'Room unlocked 🔓',
     roomPwdSet: 'Room password set 🔑',
     roomPwdReset: 'Room password cleared',
+    devicesChanged: 'Devices changed',
   },
   modes: {
     1: 'Conference — everyone can speak',
@@ -77,7 +78,6 @@ module.exports = {
   },
   video: {
     you: 'You (click to name)',
-    poorNet: 'poor connection',
   },
   settings: {
     tabs: {
