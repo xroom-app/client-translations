@@ -8,6 +8,10 @@ module.exports = {
     yes: 'Yes',
     no: 'No',
     chN: 'Choice %s',
+    install: 'Install',
+    uninstall: 'Uninstall',
+    details: 'View details',
+    close: 'Close',
   },
   mbox: {
     areYouSure: 'Are you sure?',
@@ -25,6 +29,7 @@ module.exports = {
     setQFailed: 'Failed to set the requested quality. Probably your browser does not support it.',
     bookingEnded: 'This booking is now over. The room is booked for another event, so you will now be redirected to another room to be able to finish your meeting.',
     bookingEndedHost: 'The current booking for this room is soon complete. A choice must now be made as another booking has been scheduled using the same room name.<br/><br/>1. Go to a new meeting. We will direct you to the dashboard to enter the meeting with a new host key.<br/><br/>2. Stay in the meeting. We will create a new room for you to finish this call.',
+    pluginsLoadFailed: 'Failed loading plugins',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -165,7 +170,7 @@ module.exports = {
   plugins: {
     by: 'by',
     size: 'Size: %s kB',
-    searchPlaceholder: 'search...',
+    phSearch: 'search...',
     source: 'Source code: ',
     apiDocs: 'API docs',
     vendor: 'Vendor:',
