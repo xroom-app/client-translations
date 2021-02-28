@@ -84,7 +84,7 @@ module.exports = {
     setPwd: 'Set a password',
   },
   reactions: {
-    letMeSpeak: 'I want to speak!',
+    handRaised: 'User %s wants to speak 🎤',
   },
   video: {
     you: 'You (click to name)',
