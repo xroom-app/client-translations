@@ -79,6 +79,7 @@ module.exports = {
     dots: 'Context menu',
     invite: 'Invite',
     ss: 'Share screen',
+    stopSharing: 'Stop sharing',
     board: 'Whiteboard',
     hand: 'Raise hand',
     lock: 'Locking',
