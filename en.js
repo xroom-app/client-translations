@@ -2,6 +2,7 @@ module.exports = {
   self: 'xroom',
   title: 'Your secure workspace',
   goToDash: 'Go to Dashboard',
+  netStatus: 'Connection',
   buttons: {
     ok: 'Okay',
     cancel: 'Cancel',
