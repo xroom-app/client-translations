@@ -13,6 +13,8 @@ module.exports = {
     uninstall: 'Uninstall',
     details: 'View details',
     close: 'Close',
+    next: 'Next',
+    back: 'Back',
   },
   mbox: {
     areYouSure: 'Are you sure?',
