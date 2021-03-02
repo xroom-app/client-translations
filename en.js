@@ -63,6 +63,7 @@ module.exports = {
     expand: 'Expand',
     pip: 'Keep on top',
     fullscreen: 'Full screen',
+    fullscreenOff: 'Exit full screen',
     volume: 'Volume',
     restore: 'Restore',
     kick: 'Remove participant',
