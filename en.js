@@ -91,6 +91,7 @@ module.exports = {
     setLock: 'Lock the room',
     resetLock: 'Unlock the room',
     setPwd: 'Set a password',
+    rotate: 'Back/Front camera',
   },
   reactions: {
     handRaised: 'User %s wants to speak 🎤',
