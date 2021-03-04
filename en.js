@@ -17,6 +17,7 @@ module.exports = {
     back: 'Back',
   },
   mbox: {
+    protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again, please clear browser cache manually.',
     areYouSure: 'Are you sure?',
     noPermission: 'Cannot acquire permissions from your browser. Please check that you did not accidentally block them.',
     mediaBlocked: 'Camera is blocked. Please check that you are not using it in another browser or program.',
@@ -33,6 +34,7 @@ module.exports = {
     bookingEnded: 'This booking is now over. The room is booked for another event, so you will now be redirected to another room to be able to finish your meeting.',
     bookingEndedHost: 'The current booking for this room is soon complete. A choice must now be made as another booking has been scheduled using the same room name.<br/><br/>1. Go to a new meeting. We will direct you to the dashboard to enter the meeting with a new host key.<br/><br/>2. Stay in the meeting. We will create a new room for you to finish this call.',
     pluginsLoadFailed: 'Failed loading plugins',
+    roomDestroyed: 'Room has been deleted. You will be redirected to the starting page.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -69,6 +71,7 @@ module.exports = {
     kick: 'Remove participant',
     mute: 'Mute (only for you)',
     pm: 'Private chat',
+    makeHost: 'Pass host role',
   },
   controls: {
     sharing: 'Sharing',
@@ -93,6 +96,7 @@ module.exports = {
     resetLock: 'Unlock the room',
     setPwd: 'Set a password',
     rotate: 'Back/Front camera',
+    more: 'More',
   },
   reactions: {
     handRaised: 'User %s wants to speak 🎤',
