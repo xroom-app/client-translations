@@ -154,6 +154,8 @@ module.exports = {
     avaPicker: 'Choose avatar (shows when video is off)',
     sizeLimitReached: 'This room was limited by size and the limit is already reached',
     roomBooked: 'There is going to be an event in this room soon: <span>%s</span>.<br/>Please stand by until the meeting begins.',
+    roomInfo: 'Room info',
+    phInfo: 'Enter room info',
   },
   inviter: {
     info: 'Share the link below with someone to invite to your meeting.',
