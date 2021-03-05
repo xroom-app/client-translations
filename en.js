@@ -147,7 +147,7 @@ module.exports = {
   },
   pre: {
     selectMode: 'Choose meeting type',
-    selectedMode: 'Meeting type:',
+    selectedMode: 'Meeting type',
     btnGo: 'Get in',
     btnPreview: 'Preview',
     allSettings: 'Open all settings',
