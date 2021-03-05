@@ -35,6 +35,8 @@ module.exports = {
     bookingEndedHost: 'The current booking for this room is soon complete. A choice must now be made as another booking has been scheduled using the same room name.<br/><br/>1. Go to a new meeting. We will direct you to the dashboard to enter the meeting with a new host key.<br/><br/>2. Stay in the meeting. We will create a new room for you to finish this call.',
     pluginsLoadFailed: 'Failed loading plugins',
     roomDestroyed: 'Room has been deleted. You will be redirected to the starting page.',
+    encInfo: 'Encryption: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
+    encFailure: 'Encryption not supported',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
