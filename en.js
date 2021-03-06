@@ -48,6 +48,8 @@ module.exports = {
     roomPwdSet: 'Room password set 🔑',
     roomPwdReset: 'Room password cleared',
     devicesChanged: 'Devices changed',
+    hostMutedAudio: 'Host muted your microphone',
+    hostMutedVideo: 'Host turned off your camera',
   },
   modes: {
     1: 'Conference — everyone can speak',
