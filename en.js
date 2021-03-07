@@ -28,7 +28,7 @@ module.exports = {
     whatIsYourName: 'What is your name?',
     noPeers: 'As we do not touch your messages we cannot deliver them after someone connects. You need to do it when people are in.',
     password: 'Set room password',
-    roomLocked: 'This room is locked. You cannot enter.',
+    roomLocked: 'This room is locked. Do you want to knock the door?',
     roomProtected: 'This room is protected with a password. Please enter it below.',
     roomIsFull: 'This room is full. You cannot enter.',
     alreadyHosted: 'You are already in the room. Probably you are testing with several browser tabs. Do you want to enter? Host features may not work here.',
