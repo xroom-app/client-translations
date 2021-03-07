@@ -119,7 +119,7 @@ module.exports = {
       help: 'Help',
       chat: 'Chat',
       peers: 'Participants',
-      lobby: 'Lobby',
+      lobby: 'Waiting room',
     },
     audioQ: 'Max sample rate',
     videoQ: 'Max video quality',
@@ -168,7 +168,7 @@ module.exports = {
     info: 'Share the link below with someone to invite to your meeting.',
     head: 'Room link:',
     btnCopy: 'Copy link',
-    ntfCopied: 'Link copied!',
+    ntfCopied: 'The link has been copied!',
   },
   chat: {
     publicChat: 'Public chat',
