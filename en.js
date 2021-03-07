@@ -17,6 +17,7 @@ module.exports = {
     back: 'Back',
     retry: 'Retry',
     dismiss: 'Dismiss',
+    allow: 'Allow',
   },
   mbox: {
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again, please clear browser cache manually.',
@@ -183,6 +184,9 @@ module.exports = {
     muteOnEntry: 'Mute participants on entry',
     camsOff: 'Turn off all videos',
     micsOff: 'Mute all',
+  },
+  knockers: {
+    phEmpty: 'If someone knocks your room they will appear here, waiting for your approval.',
   },
   webinar: {
     peersCount: {
