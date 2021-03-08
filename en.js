@@ -18,6 +18,7 @@ module.exports = {
     retry: 'Retry',
     dismiss: 'Dismiss',
     allow: 'Allow',
+    stop: 'Stop',
   },
   mbox: {
     protoExpired: 'Too old client version. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again, please clear browser cache manually.',
@@ -40,6 +41,7 @@ module.exports = {
     roomDestroyed: 'Room has been deleted. You will be redirected to the starting page.',
     encInfo: 'Encryption: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Encryption not supported',
+    avaTooBig: 'Avatar file size is too big. Use more simple vector images.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -110,6 +112,7 @@ module.exports = {
   },
   video: {
     you: 'You (click to name)',
+    sharing: 'You are sharing your screen',
   },
   settings: {
     tabs: {
@@ -168,6 +171,7 @@ module.exports = {
     info: 'Share the link below with someone to invite to your meeting.',
     head: 'Room link:',
     btnCopy: 'Copy link',
+    btnShare: 'Share link',
     ntfCopied: 'The link has been copied!',
   },
   chat: {
@@ -186,7 +190,7 @@ module.exports = {
     micsOff: 'Mute all',
   },
   knockers: {
-    phEmpty: 'If someone knocks your room they will appear here, waiting for your approval.',
+    phEmpty: 'If someone knocks to enter your room they will appear here, waiting for your approval.',
   },
   webinar: {
     peersCount: {
