@@ -135,7 +135,7 @@ module.exports = {
     testOutput: 'Test audio output',
     flipFace: 'Mirror your camera preview',
     requireName: 'Require name',
-    rtcDebug: 'Debug RTC',
+    debug: 'Debug mode',
     noPreview: 'Start chats without preview',
     menuPos: 'Menu placement',
     menuPosO: {
