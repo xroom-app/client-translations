@@ -42,6 +42,7 @@ module.exports = {
     encInfo: 'Encryption: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Encryption not supported',
     avaTooBig: 'Avatar file size is too big. Use more simple vector images.',
+    cannotLoadPlugin: 'Plugin "%s" does not support your browser',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
@@ -205,6 +206,7 @@ module.exports = {
     source: 'Source code: ',
     apiDocs: 'API docs',
     vendor: 'Vendor:',
+    btnAdd: 'Add own',
     add: {
       title: 'Add new plugin',
       descr: '⚙️ Developing a new plugin? Add it here to test. It is not saved anywhere, but in your browser.',
