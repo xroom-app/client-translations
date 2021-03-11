@@ -108,6 +108,7 @@ module.exports = {
     setPwd: 'Set a password',
     rotate: 'Back/Front camera',
     more: 'More',
+    users: 'Participants',
   },
   reactions: {
     handRaised: 'User %s wants to speak 🎤',
