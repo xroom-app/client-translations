@@ -44,6 +44,7 @@ module.exports = {
     avaTooBig: 'Avatar file size is too big. Use more simple vector images.',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
     confirmLeave: 'Are you sure you want to leave the call?',
+    confirmDestroy: 'Are you sure you want to end the meeting? All other participants will be forced to leave.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
