@@ -172,6 +172,7 @@ module.exports = {
     roomBooked: 'There is going to be an event in this room soon: <span>%s</span>.<br/>Please stand by until the meeting begins.',
     roomInfo: 'Room info',
     phInfo: 'Enter room info',
+    pendingAdmission: 'Please wait until the host will let you in.',
   },
   inviter: {
     info: 'Share the link below to invite others to the meeting.',
