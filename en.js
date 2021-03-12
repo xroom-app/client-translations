@@ -45,6 +45,7 @@ module.exports = {
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
     confirmLeave: 'Are you sure you want to leave the call?',
     confirmDestroy: 'Are you sure you want to end the meeting? All other participants will be forced to leave.',
+    feedbackDetected: 'We have detected a microphone feedback and muted you. We would suggest you use wear headphones or keep your mic off until entering the room.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
