@@ -44,7 +44,7 @@ module.exports = {
     avaTooBig: 'Avatar file size is too big. Use more simple vector images.',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
     confirmLeave: 'Are you sure you want to leave the call?',
-    confirmDestroy: 'Are you sure you want to end the meeting? All other participants will be forced to leave.',
+    confirmDestroy: 'Are you sure you would like to end the meeting for all participants?',
     feedbackDetected: 'We have detected a microphone feedback and muted you. We would suggest you use headphones or keep your mic off until entering the room.',
     guestKnock: 'User <b>%s</b> wants to get in. Allow in?<br/>You can decide later in the waiting room tab.',
   },
