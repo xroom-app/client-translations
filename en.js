@@ -46,6 +46,7 @@ module.exports = {
     confirmLeave: 'Are you sure you want to leave the call?',
     confirmDestroy: 'Are you sure you want to end the meeting? All other participants will be forced to leave.',
     feedbackDetected: 'We have detected a microphone feedback and muted you. We would suggest you use headphones or keep your mic off until entering the room.',
+    guestKnock: 'User <b>%s</b> wants to get in. Allow in?<br/>You can decide later in the waiting room tab.',
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
