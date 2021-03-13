@@ -50,7 +50,7 @@ module.exports = {
   },
   notify: {
     slowPlugins: 'Plugins take too much time to load. Consider removing the heaviest.',
-    peerLost: 'You lost %s. Reconnecting...',
+    peerLost: 'Reconnecting with %s...',
     roomLocked: 'Room locked 🔒',
     roomUnlocked: 'Room unlocked 🔓',
     roomPwdSet: 'Room password set 🔑',
