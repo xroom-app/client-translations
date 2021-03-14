@@ -84,6 +84,7 @@ module.exports = {
     restore: 'Restore',
     kick: 'Remove participant',
     mute: 'Mute (only for you)',
+    unmute: 'Unmute',
     pm: 'Private chat',
     makeHost: 'Pass host role',
   },
@@ -224,6 +225,9 @@ module.exports = {
   },
   help: {
     sevenTips: 'Read 7 “fix” tips',
+    connIssues: 'Connection issues',
+    laggyMedia: 'Laggy audio/video',
+    unlockMedia: 'Unblock camera/mic',
     faq: 'Go to FAQ',
     submitFeature: 'Submit a feature',
   },
