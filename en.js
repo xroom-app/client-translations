@@ -61,13 +61,13 @@ module.exports = {
     hostMutedVideo: 'Host turned off your camera',
   },
   modes: {
-    1: 'Conference — everyone can speak',
-    2: 'Webinar — one speaks, others listen',
+    '1': 'Conference — everyone can speak',
+    '2': 'Webinar — one speaks, others listen',
   },
   placements: {
-    1: 'Grid view',
-    2: 'Mini-me',
-    3: 'Spotlight',
+    '1': 'Grid view',
+    '2': 'Mini-me',
+    '3': 'Spotlight',
   },
   perm: {
     head: 'Allow browser permissions',
@@ -76,7 +76,7 @@ module.exports = {
     notif: 'Notifications',
   },
   videoMenu: {
-    hint: 'Toggle menu',
+    hint: 'Context menu',
     expand: 'Expand',
     pip: 'Keep on top',
     fullscreen: 'Full screen',
@@ -150,8 +150,8 @@ module.exports = {
     noPreview: 'Start chats without preview',
     menuPos: 'Menu placement',
     menuPosO: {
-      1: 'top',
-      2: 'bottom',
+      '1': 'top',
+      '2': 'bottom',
     },
   },
   home: {
