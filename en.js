@@ -168,7 +168,6 @@ module.exports = {
     selectedMode: 'Meeting type',
     btnGo: 'Get in',
     btnPreview: 'Preview',
-    allSettings: 'Open all settings',
     avaPicker: 'Choose avatar (shows when video is off)',
     sizeLimitReached: 'This room is limited in size and the limit has been reached',
     roomBooked: 'There is going to be an event in this room soon: <span>%s</span>.<br/>Please stand by until the meeting begins.',
