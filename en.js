@@ -160,7 +160,7 @@ module.exports = {
     nameRoom: 'name your room:',
     placeholder: 'type here',
     rejoinRoom: 'or rejoin',
-    poweredBy: 'Powered by ',
+    poweredBy: 'Powered by <a href="https://xroom.app">xroom.app</a>',
     roomHint: 'Enter room name please',
   },
   pre: {
