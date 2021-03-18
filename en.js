@@ -59,6 +59,7 @@ module.exports = {
     devicesChanged: 'Devices changed',
     hostMutedAudio: 'Host muted your microphone',
     hostMutedVideo: 'Host turned off your camera',
+    incomingFile: 'Incoming file...',
   },
   modes: {
     '1': 'Conference — everyone can speak',

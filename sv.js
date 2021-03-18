@@ -59,6 +59,7 @@ module.exports = {
     devicesChanged: 'Tillbehör ändrade',
     hostMutedAudio: 'Hosten har stängt av din mikrofon',
     hostMutedVideo: 'Hosten har stängt av din kamera',
+    incomingFile: 'Incoming file...',
   },
   modes: {
     '1': 'Konferens — alla kan prata',
