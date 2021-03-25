@@ -48,6 +48,7 @@ module.exports = {
     feedbackDetected: 'We have detected microphone feedback noises and muted you automatically. We suggest you use headphones or that you keep your mic off until you enter the room.',
     guestKnock: 'User <b>%s</b> wants to get in. Allow in?<br/>You can decide later in the waiting room tab.',
     safariNotSupported: 'This feature is temporarily not supported in Safari.',
+    takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
   },
   notify: {
     slowPlugins: 'Too many plugins can cause slower loading times. Consider removing the largest.',
