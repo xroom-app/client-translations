@@ -48,6 +48,7 @@ module.exports = {
     feedbackDetected: 'We have detected microphone feedback noises and muted you automatically. We suggest you use headphones or that you keep your mic off until you enter the room.',
     guestKnock: 'Пользователь <b>%s</b> хочет войти. Разрешить?<br/>Вы можете сделать это позже со вкладки "Ожидающие"',
     safariNotSupported: 'Эта фича временно недоступна в Safari.',
+    takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
   },
   notify: {
     slowPlugins: 'Слишком много плагинов замедляет загрузку страницы.',

@@ -48,6 +48,7 @@ module.exports = {
     feedbackDetected: 'Vi har upptäckt mikrofonljud och tillfäligt stängt av din mikrofon. Vi föreslår att du använder hörlurar eller behåller mikrofonen avstängd tills du ansluter till rummet.',
     guestKnock: 'Användare <b>%s</b> vill ansluta. Vill du släppa in användaren?<br/>Du kan bestämma senare i fliken för väntrum.',
     safariNotSupported: 'Denna funktion stöds för tillfället inte av Safari.',
+    takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
   },
   notify: {
     slowPlugins: 'För många plugins kan orsaka långsammare laddning. Överväg att ta bort den största.',
