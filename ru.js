@@ -19,6 +19,7 @@ module.exports = {
     dismiss: 'Отклонить',
     allow: 'Разрешить',
     stop: 'Остановить',
+    decideLater: 'Decide later',
   },
   mbox: {
     protoExpired: 'Старая версия клиента. Пожалуйста, нажмите Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 для перезагрузки страницы. Если это сообщение повторится, попробуйте очистить кэш браузера.',

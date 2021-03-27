@@ -19,6 +19,7 @@ module.exports = {
     dismiss: 'Dismiss',
     allow: 'Allow',
     stop: 'Stop',
+    decideLater: 'Decide later',
   },
   mbox: {
     protoExpired: 'The client version is too old. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again, please clear your browser\'s cache manually.',

@@ -19,6 +19,7 @@ module.exports = {
     dismiss: 'Avfärda',
     allow: 'Tillåt',
     stop: 'Stopp',
+    decideLater: 'Decide later',
   },
   mbox: {
     protoExpired: 'Denna klientversion är för gammal. Vänligen tryck på Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 för att uppdatera sidan. Om detta meddelande finns kvar, vänligen rensa din webläsares cache manuellt.',

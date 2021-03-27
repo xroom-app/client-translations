@@ -19,6 +19,7 @@ module.exports = {
     dismiss: 'Rejeter',
     allow: 'Autoriser',
     stop: 'Arrêter',
+    decideLater: 'Decide later',
   },
   mbox: {
     protoExpired: 'La version est obsolète. Appuyez sur Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 pour relancer. Si vous voyez toujours ce message, merci de supprimer le cache de votre navigateur.',

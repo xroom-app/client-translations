@@ -19,6 +19,7 @@ module.exports = {
     dismiss: 'Despedir',
     allow: 'Permitir',
     stop: 'Parar',
+    decideLater: 'Decide later',
   },
   mbox: {
     protoExpired: 'Versión del cliente es muy antigua. Presione Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 para volver a reiniciar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
