@@ -50,6 +50,7 @@ module.exports = {
     guestKnock: 'User <b>%s</b> wants to get in. Allow in?<br/>You can decide later in the waiting room tab.',
     safariNotSupported: 'This feature is temporarily not supported in Safari.',
     takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
+    p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
   },
   notify: {
     slowPlugins: 'Too many plugins can cause slower loading times. Consider removing the largest.',
@@ -62,6 +63,9 @@ module.exports = {
     hostMutedAudio: 'Host muted your microphone',
     hostMutedVideo: 'Host turned off your camera',
     incomingFile: 'Incoming file...',
+  },
+  hint: {
+    p2p: '<u>xroom.app</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using xroom.app servers<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting<br/><br/>',
   },
   modes: {
     '1': 'Conference — everyone can speak',
@@ -177,6 +181,7 @@ module.exports = {
     roomInfo: 'Room info',
     phInfo: 'Enter room info',
     pendingAdmission: 'Please wait until the host lets you in.',
+    p2pMode: 'Peer-to-peer mode',
   },
   inviter: {
     info: 'Share the link below to invite others to the meeting.',
