@@ -19,7 +19,7 @@ module.exports = {
     dismiss: 'Despedir',
     allow: 'Permitir',
     stop: 'Parar',
-    decideLater: 'Decide later',
+    decideLater: 'Decide después',
   },
   mbox: {
     protoExpired: 'Versión del cliente es muy antigua. Presione Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 para volver a reiniciar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
@@ -49,8 +49,8 @@ module.exports = {
     feedbackDetected: 'Hemos detectado ruidos del micrófono y lo hemos silenciado automáticamente. Le sugerimos que use sus audífonos o que mantenga el micrófono apagado hasta que ingrese al cuarto.',
     guestKnock: 'El usuario <b>%s</b> quiere entrar. ¿Permitir la entrada? <br/> Puedes decidir más tarde en la pestaña de la sala de espera.',
     safariNotSupported: 'Esta función no esta soportada temporalmente en Safari.',
-    takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
-    p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
+    takeOverSharing: 'Si comparte su pantalla, terminara la sesión actual de la persona que esta compartiendo ahorita.',
+    p2pInfo: 'El modo P2P desactiva el uso de nuestros servidores centralizados.<br/><u>La estabilidad de la sala dependerá entonces en su conección.</u><br/>Recomendado para reuniones privadas de 2 personas.',
   },
   notify: {
     slowPlugins: 'Demasiados plugins pueden hacer que la pagina se descarga lentamente. Considere quitar los más grandes.',
@@ -65,7 +65,7 @@ module.exports = {
     incomingFile: 'Archivo entrando...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communciations in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to.<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using xroom.app servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
+    p2p: '<u> xroom.app</u> utiliza servidores para garantizar transmisiones de alta calidad durante sus reuniones.<br/><br/>• Nunca tenemos acceso a sus comunicaciones en este modo.<br/><br/>• Todos los datos enviados a través de nuestros servidores están encriptados y bloqueados con claves a las que solo usted y sus invitados tienen acceso.<br/><br/><u>Si necesita la máxima seguridad,</u> puede deshabilitar nuestros servidores y, en su lugar, utilizar Modo punto a punto.<br/><br/>• En este modo, el video y el audio se envían directamente entre usted y sus invitados sin usar servidores xroom.app.<br/><br/>• Recomendamos usar par modo-a-pares cuando anticipa tener una reunión 1:1.',
   },
   modes: {
     '1': 'Conferencia - todos pueden hablar',
@@ -181,7 +181,7 @@ module.exports = {
     roomInfo: 'Información del cuarto',
     phInfo: 'Ingrese la información del cuarto',
     pendingAdmission: 'Espere hasta que el host le deje entrar.',
-    p2pMode: 'Peer-to-peer mode',
+    p2pMode: 'Modo Peer-to-peer',
   },
   inviter: {
     info: 'Comparta el link para invitar a otras personas al cuarto.',
