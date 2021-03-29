@@ -19,7 +19,7 @@ module.exports = {
     dismiss: 'Rejeter',
     allow: 'Autoriser',
     stop: 'Arrêter',
-    decideLater: 'Decide later',
+    decideLater: 'Décider plus tard',
   },
   mbox: {
     protoExpired: 'La version est obsolète. Appuyez sur Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 pour relancer. Si vous voyez toujours ce message, merci de supprimer le cache de votre navigateur.',
@@ -49,7 +49,7 @@ module.exports = {
     feedbackDetected: 'Nous avons coupé automatiquement votre microphone car avons détecté des bruits parasites. Nous vous suggérons d\'utiliser des écouteurs ou de garder votre micro éteint jusqu\'à ce que vous entriez dans la réunion.',
     guestKnock: '<b>%s</b> veut entrer, l\'accepter ?<br/>Vous pouvez décider plus tard dans l\'onglet de la salle d\'attente.',
     safariNotSupported: 'Cette fonctionnalité n\'est temporairement pas prise en charge par Safari.',
-    takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
+    takeOverSharing: 'Si vous partagez votre écran, cela mettra fin à la session en cours de la personne qui partage actuellement.',
     p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
   },
   notify: {
@@ -181,7 +181,7 @@ module.exports = {
     roomInfo: 'Infos sur la réunion',
     phInfo: 'Entrer les informations de la réunion',
     pendingAdmission: 'Veuillez attendre que l\'hôte vous laisse entrer.',
-    p2pMode: 'Peer-to-peer mode',
+    p2pMode: 'Mode Peer-to-peer',
   },
   inviter: {
     info: 'Partagez le lien ci-dessous pour inviter d\'autres personnes à la réunion.',
