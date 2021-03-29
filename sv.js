@@ -19,7 +19,7 @@ module.exports = {
     dismiss: 'Avfärda',
     allow: 'Tillåt',
     stop: 'Stopp',
-    decideLater: 'Decide later',
+    decideLater: 'Bestäm senare',
   },
   mbox: {
     protoExpired: 'Denna klientversion är för gammal. Vänligen tryck på Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 för att uppdatera sidan. Om detta meddelande finns kvar, vänligen rensa din webläsares cache manuellt.',
@@ -49,8 +49,8 @@ module.exports = {
     feedbackDetected: 'Vi har upptäckt mikrofonljud och tillfäligt stängt av din mikrofon. Vi föreslår att du använder hörlurar eller behåller mikrofonen avstängd tills du ansluter till rummet.',
     guestKnock: 'Användare <b>%s</b> vill ansluta. Vill du släppa in användaren?<br/>Du kan bestämma senare i fliken för väntrum.',
     safariNotSupported: 'Denna funktion stöds för tillfället inte av Safari.',
-    takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
-    p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
+    takeOverSharing: 'Om du delar din skärm avslutas den andra personens pågående skärmdelning.',
+    p2pInfo: 'P2P-läge inaktiverar användningen av våra centraliserade servrar.<br/><u>Rumsstabilitet beror då på ditt nätverk.</u><br/>Rekommenderas för privata möten med 2 personer.',
   },
   notify: {
     slowPlugins: 'För många plugins kan orsaka långsammare laddning. Överväg att ta bort den största.',
@@ -62,10 +62,10 @@ module.exports = {
     devicesChanged: 'Tillbehör ändrade',
     hostMutedAudio: 'Hosten har stängt av din mikrofon',
     hostMutedVideo: 'Hosten har stängt av din kamera',
-    incomingFile: 'Incoming file...',
+    incomingFile: 'Inkommande fil...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to.<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using xroom.app servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
+    p2p: '<u>xroom.app</u> använder servrar för att säkerställa sändning av hög kvalitet under dina möten.<br/><br/>• Vi har aldrig tillgång till din kommunikation i det här läget.<br/><br/>• All data som skickas via våra servrar är krypterad och låst med nycklar som bara du och dina gäster har tillgång till.<br/><br/><u> Om du behöver maximal säkerhet</u> kan du inaktivera våra servrar och istället använda Peer-to-Peer-läge.<br/><br/>• I detta läge skickas video och ljud direkt mellan dig och dina gäster utan att använda xroom.app servrar.<br/><br/>• Vi rekommenderar att du använder peer-to-peer-läge när du räknar med att ha ett 1:1-möte.',
   },
   modes: {
     '1': 'Konferens — alla kan prata',
@@ -181,7 +181,7 @@ module.exports = {
     roomInfo: 'Rumsinfo',
     phInfo: 'Ange rumsinfo',
     pendingAdmission: 'Vänligen vänta tills hosten släpper in dig.',
-    p2pMode: 'Peer-to-peer mode',
+    p2pMode: 'Peer-to-peer-läge',
   },
   inviter: {
     info: 'Dela länken nedan för att bjuda in andra till mötet.',
