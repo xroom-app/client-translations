@@ -51,6 +51,7 @@ module.exports = {
     safariNotSupported: 'Denna funktion stöds för tillfället inte av Safari.',
     takeOverSharing: 'Om du delar din skärm avslutas den andra personens pågående skärmdelning.',
     p2pInfo: 'P2P-läge inaktiverar användningen av våra centraliserade servrar.<br/><u>Rumsstabilitet beror då på ditt nätverk.</u><br/>Rekommenderas för privata möten med 2 personer.',
+    confirmKick: 'Är du säker på att du vill ta bort %s från rummet?',
   },
   notify: {
     slowPlugins: 'För många plugins kan orsaka långsammare laddning. Överväg att ta bort den största.',

@@ -51,6 +51,7 @@ module.exports = {
     safariNotSupported: 'Cette fonctionnalité n\'est temporairement pas prise en charge par Safari.',
     takeOverSharing: 'Si vous partagez votre écran, cela mettra fin à la session en cours de la personne qui partage actuellement.',
     p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
+    confirmKick: 'Are you sure you wish to remove %s from this room?',
   },
   notify: {
     slowPlugins: 'Un trop grand nombre de plugins peut entraîner un ralentissement des temps de chargement. Envisagez de supprimer les plus volumineux',
