@@ -28,6 +28,7 @@ module.exports = {
     mediaBlocked: 'Nous n\'avons pas accès à votre Camera. Merci de vérifier la configuration.',
     mediaError: 'Nous n\'arrivons pas à détecter le problème. Merci de vérifier les réglages de votre navigateur.',
     whatIsYourName: 'Quel est votre nom ?',
+    noPeersP2P: 'Étant donné que nous ne stockons pas vos messages, nous ne pouvons pas les délivrer après la connexion d\'un utilisateur. Vous devez le faire lorsque les utilisateurs sont présents.',
     noPeers: 'Étant donné que nous ne stockons pas vos messages, nous ne pouvons pas les délivrer après la connexion d\'un utilisateur. Vous devez le faire lorsque les utilisateurs sont présents.',
     password: 'Définissez un mot de passe',
     roomLocked: 'La salle est actuellement verrouillée. Vous pouvez demander la permission d’entrer ?',

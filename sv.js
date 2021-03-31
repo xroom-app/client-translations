@@ -28,6 +28,7 @@ module.exports = {
     mediaBlocked: 'Kameraåtkomst är blockerad. Vänligen se till att du inte använder webkameran i en annan webläsare eller program.',
     mediaError: 'Vi kunde inte identifiera problemet, men något är fel. Vänligen dubellkolla dina webläsarbehörigheter.',
     whatIsYourName: 'Vad heter du?',
+    noPeersP2P: 'Meddelanden skickas inte genom xroom.apps servrar och kan inte levereras efter att nya gäster ansluter. Vänligen vänta tills någon ansluter till rummet för att kunna skicka meddelanden. ',
     noPeers: 'Meddelanden skickas inte genom xroom.apps servrar och kan inte levereras efter att nya gäster ansluter. Vänligen vänta tills någon ansluter till rummet för att kunna skicka meddelanden. ',
     password: 'Ange lösenord till rummet',
     roomLocked: 'Rummet är låst. Vill du knacka för att kunna bli insläppt?',
