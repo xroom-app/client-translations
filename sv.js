@@ -201,6 +201,7 @@ module.exports = {
     me: 'jag',
     dropMe: 'Släpp mig!',
     atTime: 'vid %s',
+    recvProgress: 'receiving encrypted data: %s%...',
   },
   peers: {
     muteOnEntry: 'Stäng av deltagarnas mikrofoner när de ansluter',

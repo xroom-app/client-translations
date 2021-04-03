@@ -201,6 +201,7 @@ module.exports = {
     me: 'yo',
     dropMe: '¡Suéltame!',
     atTime: 'a las %s',
+    recvProgress: 'receiving encrypted data: %s%...',
   },
   peers: {
     muteOnEntry: 'Silenciar los participantes al entrar',

@@ -201,6 +201,7 @@ module.exports = {
     me: 'я',
     dropMe: 'Дропай!',
     atTime: 'в %s',
+    recvProgress: 'получаем шифрованые данные: %s%...',
   },
   peers: {
     muteOnEntry: 'Глушить всех при входе',
