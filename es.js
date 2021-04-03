@@ -29,7 +29,7 @@ module.exports = {
     mediaError: 'No pudimos identificar el problema, algo no funciono. Compruebe los permisos de su browser.',
     whatIsYourName: '¿Cual es su nombre?',
     noPeersP2P: 'No se usan los servidores de xroom.app para enviar mensajes y no se pueden reenviar cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
-    noPeers: 'No se usan los servidores de xroom.app para enviar mensajes y no se pueden reenviar cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
+    noPeers: 'No se pueden reenviar mensajes cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
     password: 'Crear contraseña',
     roomLocked: 'Esta habitación está cerrada. ¿Quieres tocar para entrar?',
     roomProtected: 'Este cuarto está protegido con una contraseña. Por favor ingreselo para entrar.',
