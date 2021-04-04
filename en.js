@@ -54,6 +54,7 @@ module.exports = {
     takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
     p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
     confirmKick: 'Are you sure you wish to remove %s from this room?',
+    comingSoon: 'This feature is coming soon.',
   },
   notify: {
     slowPlugins: 'Too many plugins can cause slower loading times. Consider removing the largest.',
