@@ -50,6 +50,7 @@ module.exports = {
     feedbackDetected: 'Vi har upptäckt mikrofonljud och tillfäligt stängt av din mikrofon. Vi föreslår att du använder hörlurar eller behåller mikrofonen avstängd tills du ansluter till rummet.',
     guestKnock: 'Användare <b>%s</b> vill ansluta. Vill du släppa in användaren?<br/>Du kan bestämma senare i fliken för väntrum.',
     safariNotSupported: 'Denna funktion stöds för tillfället inte av Safari.',
+    p2pNotSupported: 'This feature is disabled in peer-to-peer mode.',
     takeOverSharing: 'Om du delar din skärm avslutas den andra personens pågående skärmdelning.',
     p2pInfo: 'P2P-läge inaktiverar användningen av våra centraliserade servrar.<br/><u>Rumsstabilitet beror då på ditt nätverk.</u><br/>Rekommenderas för privata möten med 2 personer.',
     confirmKick: 'Är du säker på att du vill ta bort %s från rummet?',

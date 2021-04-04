@@ -50,6 +50,7 @@ module.exports = {
     feedbackDetected: 'We have detected microphone feedback noises and muted you automatically. We suggest you use headphones or that you keep your mic off until you enter the room.',
     guestKnock: 'User <b>%s</b> wants to get in. Allow in?<br/>You can decide later in the waiting room tab.',
     safariNotSupported: 'This feature is temporarily not supported in Safari.',
+    p2pNotSupported: 'This feature is disabled in peer-to-peer mode.',
     takeOverSharing: 'Sharing your screen now will end the current screen sharing session.',
     p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
     confirmKick: 'Are you sure you wish to remove %s from this room?',

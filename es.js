@@ -50,6 +50,7 @@ module.exports = {
     feedbackDetected: 'Hemos detectado ruidos del micrófono y lo hemos silenciado automáticamente. Le sugerimos que use sus audífonos o que mantenga el micrófono apagado hasta que ingrese al cuarto.',
     guestKnock: 'El usuario <b>%s</b> quiere entrar. ¿Permitir la entrada? <br/> Puedes decidir más tarde en la pestaña de la sala de espera.',
     safariNotSupported: 'Esta función no esta soportada temporalmente en Safari.',
+    p2pNotSupported: 'This feature is disabled in peer-to-peer mode.',
     takeOverSharing: 'Si comparte su pantalla, terminara la sesión actual de la persona que esta compartiendo ahorita.',
     p2pInfo: 'El modo P2P desactiva el uso de nuestros servidores centralizados.<br/><u>La estabilidad de la sala dependerá entonces en su conección.</u><br/>Recomendado para reuniones privadas de 2 personas.',
     confirmKick: '¿Estás seguro de que deseas remover a %s del cuarto?',
