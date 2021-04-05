@@ -55,6 +55,7 @@ module.exports = {
     p2pInfo: 'El modo P2P desactiva el uso de nuestros servidores centralizados.<br/><u>La estabilidad de la sala dependerá entonces en su conección.</u><br/>Recomendado para reuniones privadas de 2 personas.',
     confirmKick: '¿Estás seguro de que deseas remover a %s del cuarto?',
     comingSoon: 'This feature is coming soon.',
+    audioChanged: 'Microphone input changed. Do you want to select which one to use now?',
   },
   notify: {
     slowPlugins: 'Demasiados plugins pueden hacer que la pagina se descarga lentamente. Considere quitar los más grandes.',

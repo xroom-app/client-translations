@@ -55,6 +55,7 @@ module.exports = {
     p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
     confirmKick: 'Are you sure you wish to remove %s from this room?',
     comingSoon: 'This feature is coming soon.',
+    audioChanged: 'Microphone input changed. Do you want to select which one to use now?',
   },
   notify: {
     slowPlugins: 'Un trop grand nombre de plugins peut entraîner un ralentissement des temps de chargement. Envisagez de supprimer les plus volumineux',
