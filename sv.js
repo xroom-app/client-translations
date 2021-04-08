@@ -55,7 +55,7 @@ module.exports = {
     p2pInfo: 'P2P-läge inaktiverar användningen av våra centraliserade servrar.<br/><u>Rumsstabilitet beror då på ditt nätverk.</u><br/>Rekommenderas för privata möten med 2 personer.',
     confirmKick: 'Är du säker på att du vill ta bort %s från rummet?',
     comingSoon: 'This feature is coming soon.',
-    audioChanged: 'Microphone input changed. Do you want to select which one to use now?',
+    audioChanged: 'Audio input device added. Do you want to select which one to use now?',
   },
   notify: {
     slowPlugins: 'För många plugins kan orsaka långsammare laddning. Överväg att ta bort den största.',
