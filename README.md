@@ -3,6 +3,3 @@
 2. If you want to create a new language translation file follow ISO 639-1 standard for naming files.
 
 **Your pull requests are warmly welcome!**
-
-### Interslavic support
-We support Interslavic language (Medžuslovjansky) as an experiment. It uses a non-standard language code `mz`. Until the translation is fully adopted you can see it in action via this link: https://xroom.app/?lang=mz.
