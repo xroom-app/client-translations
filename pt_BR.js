@@ -169,7 +169,7 @@ module.exports = {
   },
   home: {
     title: 'Sua sala de conferência pessoal',
-    btnGo: 'Vai!',
+    btnGo: 'Ir!',
     nameRoom: 'nomeie sua sala:',
     placeholder: 'digite aqui',
     rejoinRoom: 'ou junte-se novamente',
