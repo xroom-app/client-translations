@@ -22,6 +22,7 @@ module.exports = {
     decideLater: 'Bestäm senare',
   },
   mbox: {
+    notSupported: 'Det verkar inte som att denna webbläsare stödjer xroom.app eller så är WebRTC inaktiverat. 😢',
     protoExpired: 'Denna klientversion är för gammal. Vänligen tryck på Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 för att uppdatera sidan. Om detta meddelande finns kvar, vänligen rensa din webläsares cache manuellt.',
     areYouSure: 'Är du säker?',
     noPermission: 'Kan inte hämta behörigheter från din webläsare. Vänligen se till att dessa inte är blockerade.',
