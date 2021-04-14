@@ -188,6 +188,7 @@ module.exports = {
     phInfo: 'Ingrese la información del cuarto',
     pendingAdmission: 'Espere hasta que el host le deje entrar.',
     p2pMode: 'Modo Peer-to-peer',
+    btnGoHome: 'Go to start page',
   },
   inviter: {
     info: 'Comparta el link para invitar a otras personas al cuarto.',

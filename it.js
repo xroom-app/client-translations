@@ -187,6 +187,7 @@ module.exports = {
     phInfo: 'Inserisci le informazioni della stanza',
     pendingAdmission: 'Attendi finchè L\'host non ti farà accedere.',
     p2pMode: 'Modalità peer-to-peer',
+    btnGoHome: 'Go to start page',
   },
   inviter: {
     info: 'Condividi il link sottostante per invitare altri alla riunione.',

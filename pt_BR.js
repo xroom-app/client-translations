@@ -188,6 +188,7 @@ module.exports = {
     phInfo: 'Insira as informações da sala',
     pendingAdmission: 'Por favor, espere até que o organizador deixe você entrar.',
     p2pMode: 'Modo Peer-to-peer',
+    btnGoHome: 'Go to start page',
   },
   inviter: {
     info: 'Compartilhe o link abaixo para convidar outras pessoas para a reunião.',

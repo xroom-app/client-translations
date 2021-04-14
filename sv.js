@@ -188,6 +188,7 @@ module.exports = {
     phInfo: 'Ange rumsinfo',
     pendingAdmission: 'Vänligen vänta tills hosten släpper in dig.',
     p2pMode: 'Peer-to-peer-läge',
+    btnGoHome: 'Go to start page',
   },
   inviter: {
     info: 'Dela länken nedan för att bjuda in andra till mötet.',

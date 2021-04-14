@@ -188,6 +188,7 @@ module.exports = {
     phInfo: 'Enter room info',
     pendingAdmission: 'Please wait until the host lets you in.',
     p2pMode: 'Peer-to-peer mode',
+    btnGoHome: 'Go to start page',
   },
   inviter: {
     info: 'Share the link below to invite others to the meeting.',

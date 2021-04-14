@@ -188,6 +188,7 @@ module.exports = {
     phInfo: 'Entrer les informations de la réunion',
     pendingAdmission: 'Veuillez attendre que l\'hôte vous laisse entrer.',
     p2pMode: 'Mode Peer-to-peer',
+    btnGoHome: 'Go to start page',
   },
   inviter: {
     info: 'Partagez le lien ci-dessous pour inviter d\'autres personnes à la réunion.',
