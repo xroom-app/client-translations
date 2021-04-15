@@ -27,7 +27,7 @@ module.exports = {
     areYouSure: 'Êtes vous sur ?',
     noPermission: 'Votre navigateur ne nous donne la permission. Merci de vérifier que nous ne sommes pas bloqué.',
     mediaBlocked: 'Nous n\'avons pas accès à votre Camera. Merci de vérifier la configuration.',
-    mediaError: 'Nous n\'arrivons pas à détecter le problème. Merci de vérifier les réglages de votre navigateur.',
+    mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'Quel est votre nom ?',
     noPeersP2P: 'Étant donné que nous ne stockons pas vos messages, nous ne pouvons pas les délivrer après la connexion d\'un utilisateur. Vous devez le faire lorsque les utilisateurs sont présents.',
     noPeers: 'Étant donné que nous ne stockons pas vos messages, nous ne pouvons pas les délivrer après la connexion d\'un utilisateur. Vous devez le faire lorsque les utilisateurs sont présents.',

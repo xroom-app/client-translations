@@ -26,7 +26,7 @@ module.exports = {
     areYouSure: 'Sei sicuro?',
     noPermission: 'Impossibile acquisire le autorizzazioni dal tuo browser. Assicurati che non siano bloccate.',
     mediaBlocked: 'L\'accesso alla telecamera è bloccato. Assicurati di non utilizzarla in un altro browser o programma.',
-    mediaError: 'Non è stato possibile identificare il problema, ma qualcosa non funziona. Verifica le autorizzazioni del tuo browser.',
+    mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'Inserisci il tuo nome',
     noPeersP2P: 'I messaggi non utilizzano i server di xroom.app per L\'invio e non possono essere ricevuti dai nuovi ospiti aggiunti successivamente. Attendi che altri si siano uniti alla conversazione per inviare messaggi.',
     noPeers: 'I messaggi inviati ora non possono essere ricevuti dai nuovi ospiti aggiunti successivamente. Attendi che altri si siano uniti alla conversazione per inviare messaggi.',

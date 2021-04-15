@@ -27,7 +27,7 @@ module.exports = {
     areYouSure: '¿Estas seguro?',
     noPermission: 'No se pueden adquirir permisos de su browser. Asegúrese de que no estén bloqueados.',
     mediaBlocked: 'El acceso a la cámara está bloqueado. Asegúrese de no utilizarlo en otro browser o programa.',
-    mediaError: 'No pudimos identificar el problema, algo no funciono. Compruebe los permisos de su browser.',
+    mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: '¿Cual es su nombre?',
     noPeersP2P: 'No se usan los servidores de xroom.app para enviar mensajes y no se pueden reenviar cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
     noPeers: 'No se pueden reenviar mensajes cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',

@@ -27,7 +27,7 @@ module.exports = {
     areYouSure: 'Are you sure?',
     noPermission: 'Cannot acquire permissions from your browser. Please ensure that they are not blocked.',
     mediaBlocked: 'Camera access is blocked. Please ensure that you are not using it in another browser or program.',
-    mediaError: 'We could not identify the problem, but something is wrong. Please check your browser permissions.',
+    mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'What is your name?',
     noPeersP2P: 'Messages do not use xroom.app servers to send and cannot be redelivered after newly added guests connect. Please wait until others have joined the conversation to send messages.',
     noPeers: 'Messages cannot be redelivered after newly added guests connect. Please wait until others have joined the conversation to send messages.',
