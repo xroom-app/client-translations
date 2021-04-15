@@ -166,6 +166,8 @@ module.exports = {
       '1': 'টপ',
       '2': 'বটম',
     },
+    name: 'Set/change your display name',
+    phName: 'your name',
   },
   home: {
     title: 'আপনার পার্সোনাল কনফারেন্স রুম',

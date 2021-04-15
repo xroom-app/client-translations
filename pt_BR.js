@@ -166,6 +166,8 @@ module.exports = {
       '1': 'topo',
       '2': 'final',
     },
+    name: 'Set/change your display name',
+    phName: 'your name',
   },
   home: {
     title: 'Sua sala de conferência pessoal',

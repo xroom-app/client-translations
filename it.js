@@ -165,6 +165,8 @@ module.exports = {
       '1': 'Parte superiore',
       '2': 'Parte inferiore',
     },
+    name: 'Set/change your display name',
+    phName: 'your name',
   },
   home: {
     title: 'La tua sala riunioni personale',

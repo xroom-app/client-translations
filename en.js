@@ -166,6 +166,8 @@ module.exports = {
       '1': 'top',
       '2': 'bottom',
     },
+    name: 'Set/change your display name',
+    phName: 'your name',
   },
   home: {
     title: 'Your personal conference room',
