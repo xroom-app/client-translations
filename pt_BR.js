@@ -20,6 +20,8 @@ module.exports = {
     allow: 'Permitir',
     stop: 'Parar',
     decideLater: 'Decidir mais tarde',
+    knock: 'Knock',
+    leave: 'Leave',
   },
   mbox: {
     notSupported: 'Parece que este navegador não suporta xroom.app ou o WebRTC está desativado. 😢',
@@ -191,6 +193,8 @@ module.exports = {
     pendingAdmission: 'Por favor, espere até que o organizador deixe você entrar.',
     p2pMode: 'Modo Peer-to-peer',
     btnGoHome: 'Go to start page',
+    roomLocked: 'This room is locked by the host.<br />Please knock to enter.',
+    roomLockedInfo: 'Please enter your name.<br />Otherwise the host might not allow you into the meeting.',
   },
   inviter: {
     info: 'Compartilhe o link abaixo para convidar outras pessoas para a reunião.',

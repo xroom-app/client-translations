@@ -20,6 +20,8 @@ module.exports = {
     allow: 'অনুমতি দিন',
     stop: 'বন্ধ করুন',
     decideLater: 'পরে সিদ্ধান্ত নিন',
+    knock: 'Knock',
+    leave: 'Leave',
   },
   mbox: {
     notSupported: 'দেখে মনে হচ্ছে এই ব্রাউজারটি xroom.app সমর্থন করে না বা WebRTC অক্ষম 😢',
@@ -191,6 +193,8 @@ module.exports = {
     pendingAdmission: 'দয়াকরে হোস্ট আপনাকে রুম এ ঢুকতে দেয়া পর্যন্ত অপেক্ষা করুন।',
     p2pMode: 'পিয়ার টু পিয়ার মোড',
     btnGoHome: 'Go to start page',
+    roomLocked: 'This room is locked by the host.<br />Please knock to enter.',
+    roomLockedInfo: 'Please enter your name.<br />Otherwise the host might not allow you into the meeting.',
   },
   inviter: {
     info: 'অন্যদেরকে মিটিং এ আমন্ত্রণ করার জন্য লিংক টি শেয়ার করুন।',

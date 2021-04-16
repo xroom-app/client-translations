@@ -20,6 +20,8 @@ module.exports = {
     allow: 'Tillåt',
     stop: 'Stopp',
     decideLater: 'Bestäm senare',
+    knock: 'Knock',
+    leave: 'Leave',
   },
   mbox: {
     notSupported: 'Det verkar inte som att denna webbläsare stödjer xroom.app eller så är WebRTC inaktiverat. 😢',
@@ -191,6 +193,8 @@ module.exports = {
     pendingAdmission: 'Vänligen vänta tills hosten släpper in dig.',
     p2pMode: 'Peer-to-peer-läge',
     btnGoHome: 'Go to start page',
+    roomLocked: 'This room is locked by the host.<br />Please knock to enter.',
+    roomLockedInfo: 'Please enter your name.<br />Otherwise the host might not allow you into the meeting.',
   },
   inviter: {
     info: 'Dela länken nedan för att bjuda in andra till mötet.',

@@ -20,6 +20,8 @@ module.exports = {
     allow: 'Consenti',
     stop: 'Interrompi',
     decideLater: 'Decidi in seguito',
+    knock: 'Knock',
+    leave: 'Leave',
   },
   mbox: {
     protoExpired: 'La versione del client è troppo vecchia. Premi Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 per ricaricare. Se visualizzi di nuovo questo messaggio, svuota manualmente la cache del browser.',
@@ -190,6 +192,8 @@ module.exports = {
     pendingAdmission: 'Attendi finchè L\'host non ti farà accedere.',
     p2pMode: 'Modalità peer-to-peer',
     btnGoHome: 'Go to start page',
+    roomLocked: 'This room is locked by the host.<br />Please knock to enter.',
+    roomLockedInfo: 'Please enter your name.<br />Otherwise the host might not allow you into the meeting.',
   },
   inviter: {
     info: 'Condividi il link sottostante per invitare altri alla riunione.',
