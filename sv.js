@@ -168,8 +168,8 @@ module.exports = {
       '1': 'Överst',
       '2': 'Nedtill',
     },
-    name: 'Set/change your display name',
-    phName: 'your name',
+    name: 'Skriv/ändra ditt namn',
+    phName: 'ditt namn',
   },
   home: {
     title: 'Ditt personliga konferensrum',
