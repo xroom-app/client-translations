@@ -168,8 +168,8 @@ module.exports = {
       '1': 'Arriba',
       '2': 'Abajo',
     },
-    name: 'Set/change your display name',
-    phName: 'your name',
+    name: 'Crear/ajustar su nombre',
+    phName: 'su nombre',
   },
   home: {
     title: 'Tu sala de conferencias personal',
