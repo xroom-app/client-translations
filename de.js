@@ -61,6 +61,7 @@ module.exports = {
     audioChanged: 'Ein Audiogerät wurde hinzugefügt. Möchtest du auswählen welches du jetzt benutzen möchtest?',
     domainNotSetUp: 'This domain has not yet been set up. If you are its owner please do it in the dashboard. We will now forward you to our free service.',
     domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
+    badLuck: 'Something went seriously wrong with the network. We will now try to reload your browser.',
   },
   notify: {
     slowPlugins: 'Zu viele Plugins können längere Ladezeiten verursachen. Ziehe in Betracht das größte zu entfernen.',
