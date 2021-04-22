@@ -161,15 +161,15 @@ module.exports = {
     testOutput: 'Testaa äänen tulo',
     flipFace: 'Peilaa kameran esikatselu',
     requireName: 'Vaadi nimi',
-    debug: 'Debug-tilassa',
+    debug: 'Debug-tila',
     noPreview: 'Aloita keskustelut ilman esikatselua',
     menuPos: 'Valikon sijoittelu',
     menuPosO: {
       '1': 'ylös',
       '2': 'alas',
     },
-    name: 'Set/change your display name',
-    phName: 'your name',
+    name: 'Aseta/muuta näyttönimesi',
+    phName: 'nimesi',
   },
   home: {
     title: 'Sinun henkilökohtainen konferenssihuoneesi',
