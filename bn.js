@@ -59,6 +59,8 @@ module.exports = {
     confirmKick: 'আপনি কি নিশ্চিত যে আপনি %s কে রুম থেকে রিমুভ করতে চান?',
     comingSoon: 'এই ফীচার টি শীঘ্রই আসছে।',
     audioChanged: 'অডিও ইনপুট ডিভাইস যুক্ত করা হয়েছে। আপনি কি এখন কোনটি ব্যবহার করবেন তা নির্বাচন করতে চান?',
+    domainNotSetUp: 'This domain has not yet been set up. If you are its owner please do it in the dashboard. We will now forward you to our free service.',
+    domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
   },
   notify: {
     slowPlugins: 'অনেক বেশি প্লাগইন ধীর লোডিং সময়ের কারণ হতে পারে। বৃহত্তম প্লাগইন মোছার বিষয়টি বিবেচনা করুন।',

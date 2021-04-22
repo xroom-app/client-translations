@@ -59,6 +59,8 @@ module.exports = {
     confirmKick: 'Är du säker på att du vill ta bort %s från rummet?',
     comingSoon: 'Denna funktion kommer snart.',
     audioChanged: 'Ljudkälla har lagts till. Vill du välja vilken du vill använda nu?',
+    domainNotSetUp: 'This domain has not yet been set up. If you are its owner please do it in the dashboard. We will now forward you to our free service.',
+    domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
   },
   notify: {
     slowPlugins: 'För många plugins kan orsaka långsammare laddning. Överväg att ta bort den största.',

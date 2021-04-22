@@ -59,6 +59,8 @@ module.exports = {
     confirmKick: '¿Estás seguro de que deseas remover a %s del cuarto?',
     comingSoon: 'Esta función estará disponible muy pronto.',
     audioChanged: 'Se agregó un dispositivo de audio. ¿Quieres seleccionar cuál usar ahorita?',
+    domainNotSetUp: 'This domain has not yet been set up. If you are its owner please do it in the dashboard. We will now forward you to our free service.',
+    domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
   },
   notify: {
     slowPlugins: 'Demasiados plugins pueden hacer que la pagina se descarga lentamente. Considere quitar los más grandes.',

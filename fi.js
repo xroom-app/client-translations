@@ -59,6 +59,8 @@ module.exports = {
     confirmKick: 'Are you sure you wish to remove %s from this room?',
     comingSoon: 'This feature is coming soon.',
     audioChanged: 'Audio input device added. Do you want to select which one to use now?',
+    domainNotSetUp: 'This domain has not yet been set up. If you are its owner please do it in the dashboard. We will now forward you to our free service.',
+    domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
   },
   notify: {
     slowPlugins: 'Liian moni samanaikainen kytkentä hidastaa lataamisaikaa. Harkitse poistavasi suurin kytkentä',
@@ -131,7 +133,7 @@ module.exports = {
     users: 'Osallistujat',
   },
   reactions: {
-    handRaised: 'Käyttäjä %s haluaa puhua 🎤', 
+    handRaised: 'Käyttäjä %s haluaa puhua 🎤',
   },
   video: {
     you: 'Sinä (klikkaa nimeä)',
