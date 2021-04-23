@@ -196,6 +196,7 @@ module.exports = {
     pendingAdmission: 'Odota, kunnes isäntä päästää sinut sisään.',
     p2pMode: 'Peer-to-peer tila',
     btnGoHome: 'Go to start page',
+    btnAsHost: 'Enter as a host',
     roomLocked: 'This room is locked by the host.<br/>Please knock to enter.',
     roomLockedInfo: 'Please enter your name.<br/>Otherwise the host might not allow you into the meeting.',
   },

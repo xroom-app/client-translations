@@ -196,6 +196,7 @@ module.exports = {
     pendingAdmission: 'Bitte warte, bis der Moderator dich reinlässt.',
     p2pMode: 'Peer-to-Peer Modus',
     btnGoHome: 'Gehe zur Startseite',
+    btnAsHost: 'Enter as a host',
     roomLocked: 'Dieser Raum ist durch den Moderator gesperrt worden.<br />Zum Beitreten bitte anklopfen.',
     roomLockedInfo: 'Bitte gib deinen Namen ein.<br />Andernfalls kann der Moderator dir den Zugang zum Meeting verwehren.',
   },
