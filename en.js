@@ -24,14 +24,14 @@ module.exports = {
     leave: 'Leave',
   },
   mbox: {
-    notSupported: 'It looks like this browser does not support xroom.app or WebRTC is disabled. 😢',
+    notSupported: 'It looks like this browser does not support this platform or WebRTC is disabled. 😢',
     protoExpired: 'The client version is too old. Please press Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 to reload. If you then see this message again, please clear your browser\'s cache manually.',
     areYouSure: 'Are you sure?',
     noPermission: 'Cannot acquire permissions from your browser. Please ensure that they are not blocked.',
     mediaBlocked: 'Camera access is blocked. Please ensure that you are not using it in another browser or program.',
     mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'What is your name?',
-    noPeersP2P: 'Messages do not use xroom.app servers to send and cannot be redelivered after newly added guests connect. Please wait until others have joined the conversation to send messages.',
+    noPeersP2P: 'Messages do not use servers to send and cannot be redelivered after newly added guests connect. Please wait until others have joined the conversation to send messages.',
     noPeers: 'Messages cannot be redelivered after newly added guests connect. Please wait until others have joined the conversation to send messages.',
     password: 'Set room password',
     roomLocked: 'This room is locked. Do you want to knock to get in?',
@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Incoming file...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to.<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using xroom.app servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
+    p2p: '<u>This platform</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to.<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using sfu servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
   },
   modes: {
     '1': 'Conference — everyone can speak',
