@@ -24,14 +24,14 @@ module.exports = {
     leave: 'Poistu',
   },
   mbox: {
-    notSupported: 'It looks like this browser does not support xroom.app or WebRTC is disabled. 😢',
+    notSupported: 'Näyttää siltä, että tämä selain ei tue tätä alustaa tai WebRTC on poistettu käytöstä. 😢',
     protoExpired: 'Käyttäjän versio on liian vanha. Paina Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 ladataksesi uudelleen. Jos haluat nähdä tämän viestin uudelleen, tyhjää selaimesi välimuisti manuaalisesti.',
     areYouSure: 'Oletko varma?',
     noPermission: 'Lupaa selaimellesi ei voitu myöntää. Tarkista estot lupa-asetuksistasi.',
     mediaBlocked: 'Kameran käyttö estetty. Tarkista, ettei kamerasi ole aktiivinen toisessa ohjelmassa tai selaimessa.',
     mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'Mikä sinun nimesi on?',
-    noPeersP2P: 'Viestit eivät käytä xroom.app-palvelimia, eikä niitä voida toimittaa vasta lisättyjen asiakkaiden yhteyden muodostamisen jälkeen. Lähettääksesi viestejä, odota, kunnes muut ovat liittyneet keskusteluun.',
+    noPeersP2P: 'Viestit eivät käytä palvelimia, eikä niitä voida toimittaa vasta lisättyjen asiakkaiden yhteyden muodostamisen jälkeen. Lähettääksesi viestejä, odota, kunnes muut ovat liittyneet keskusteluun.',
     noPeers: 'Messages cannot be redelivered after newly added guests connect. Please wait until others have joined the conversation to send messages.',
     password: 'Lisää huoneellesi salasana',
     roomLocked: 'Huone on suljettu. Haluatko koputtaa päästäksesi sisään?',
@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Saapuva tiedosto...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> käyttää palvelimia varmistaakseen korkealaatuiset lähetykset kokoustesi aikana.<br/><br/> • Emme voi koskaan käyttää viestejäsi tässä tilassa. <br/> <br/> • Kaikkien palvelimiemme kautta lähetetyt tiedot on salattu ja lukittu avaimilla, joihin vain sinulla ja vieraillasi on pääsy. <br/> <br/> <u> Jos tarvitset maksimaalista suojausta, </u> voit poistaa palvelimemme käytöstä, ja käyttää sen sijaan vertaistilaa. <br/> <br/> • Tässä tilassa video ja ääni lähetetään suoraan sinun ja vieraidesi välillä ilman xroom.app-palvelimia. <br/> <br/> • Suosittelemme käyttämään vertaisverkkotilaa, kun aiot pitää kahdenkeskisen kokouksen.',
+    p2p: '<u>Tämä alusta</u> käyttää palvelimia varmistaakseen korkealaatuiset lähetykset kokoustesi aikana.<br/><br/> • Emme voi koskaan käyttää viestejäsi tässä tilassa. <br/> <br/> • Kaikkien palvelimiemme kautta lähetetyt tiedot on salattu ja lukittu avaimilla, joihin vain sinulla ja vieraillasi on pääsy. <br/> <br/> <u> Jos tarvitset maksimaalista suojausta, </u> voit poistaa palvelimemme käytöstä, ja käyttää sen sijaan vertaistilaa. <br/> <br/> • Tässä tilassa video ja ääni lähetetään suoraan sinun ja vieraidesi välillä ilman sfu-palvelimia. <br/> <br/> • Suosittelemme käyttämään vertaisverkkotilaa, kun aiot pitää kahdenkeskisen kokouksen.',
   },
   modes: {
     '1': 'Konferenssi. Kuka tahansa voi puhua',
