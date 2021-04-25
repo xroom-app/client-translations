@@ -24,14 +24,14 @@ module.exports = {
     leave: 'Leave',
   },
   mbox: {
-    notSupported: 'Det verkar inte som att denna webbläsare stödjer xroom.app eller så är WebRTC inaktiverat. 😢',
+    notSupported: 'Det verkar inte som att denna webbläsare stödjer plattformen eller så är WebRTC inaktiverat. 😢',
     protoExpired: 'Denna klientversion är för gammal. Vänligen tryck på Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 för att uppdatera sidan. Om detta meddelande finns kvar, vänligen rensa din webläsares cache manuellt.',
     areYouSure: 'Är du säker?',
     noPermission: 'Kan inte hämta behörigheter från din webläsare. Vänligen se till att dessa inte är blockerade.',
     mediaBlocked: 'Kameraåtkomst är blockerad. Vänligen se till att du inte använder webkameran i en annan webläsare eller program.',
     mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'Vad heter du?',
-    noPeersP2P: 'Meddelanden skickas inte genom xroom.apps servrar och kan inte levereras efter att nya gäster ansluter. Vänligen vänta tills någon ansluter till rummet för att kunna skicka meddelanden. ',
+    noPeersP2P: 'Meddelanden skickas inte genom servrar och kan inte levereras efter att nya gäster ansluter. Vänligen vänta tills någon ansluter till rummet för att kunna skicka meddelanden. ',
     noPeers: 'Meddelanden kan inte levereras efter att nya gäster ansluter. Vänligen vänta tills någon ansluter till rummet för att kunna skicka meddelanden. ',
     password: 'Ange lösenord till rummet',
     roomLocked: 'Rummet är låst. Vill du knacka för att kunna bli insläppt?',
@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Inkommande fil...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> använder servrar för att säkerställa sändning av hög kvalitet under dina möten.<br/><br/>• Vi har aldrig tillgång till din kommunikation i det här läget.<br/><br/>• All data som skickas via våra servrar är krypterad och låst med nycklar som bara du och dina gäster har tillgång till.<br/><br/><u> Om du behöver maximal säkerhet</u> kan du inaktivera våra servrar och istället använda Peer-to-Peer-läge.<br/><br/>• I detta läge skickas video och ljud direkt mellan dig och dina gäster utan att använda xroom.app servrar.<br/><br/>• Vi rekommenderar att du använder peer-to-peer-läge när du räknar med att ha ett 1:1-möte.',
+    p2p: '<u>Denna plattform</u> använder servrar för att säkerställa sändning av hög kvalitet under dina möten.<br/><br/>• Vi har aldrig tillgång till din kommunikation i det här läget.<br/><br/>• All data som skickas via våra servrar är krypterad och låst med nycklar som bara du och dina gäster har tillgång till.<br/><br/><u> Om du behöver maximal säkerhet</u> kan du inaktivera våra servrar och istället använda Peer-to-Peer-läge.<br/><br/>• I detta läge skickas video och ljud direkt mellan dig och dina gäster utan att använda sfu servrar.<br/><br/>• Vi rekommenderar att du använder peer-to-peer-läge när du räknar med att ha ett 1:1-möte.',
   },
   modes: {
     '1': 'Konferens — alla kan prata',
