@@ -24,7 +24,7 @@ module.exports = {
     leave: 'Leave',
   },
   mbox: {
-    notSupported: 'Il semble que ce navigateur ne prenne pas en charge xroom.app ou WebRTC est désactivé. 😢',
+    notSupported: 'Il semble que ce navigateur ne prenne pas en charge cette plate-forme ou WebRTC est désactivé. 😢',
     protoExpired: 'La version est obsolète. Appuyez sur Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 pour relancer. Si vous voyez toujours ce message, merci de supprimer le cache de votre navigateur.',
     areYouSure: 'Êtes vous sur ?',
     noPermission: 'Votre navigateur ne nous donne la permission. Merci de vérifier que nous ne sommes pas bloqué.',
@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Fichier entrant...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using xroom.app servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
+    p2p: '<u>This platform</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using sfu servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
   },
   modes: {
     '1': 'Conférence - Tout le monde peut participer',
