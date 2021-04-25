@@ -24,14 +24,14 @@ module.exports = {
     leave: 'Leave',
   },
   mbox: {
-    notSupported: 'Parece que este navegador não suporta xroom.app ou o WebRTC está desativado. 😢',
+    notSupported: 'Parece que este navegador não suporta esta plataforma ou o WebRTC está desativado. 😢',
     protoExpired: 'A versão do cliente é muito antiga. Por favor, pressione Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 para recarregar. Se você ver essa mensagem novamente, limpe o cache do seu navegador manualmente.',
     areYouSure: 'Tem certeza?',
     noPermission: 'Não é possível adquirir permissões do seu navegador. Certifique-se de que eles não estão bloqueados.',
     mediaBlocked: 'O acesso à câmera está bloqueado. Certifique-se de que não a está usando em outro navegador ou programa.',
     mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: 'Qual é o seu nome?',
-    noPeersP2P: 'As mensagens não usam servidores do xroom.app para enviar e não podem ser reenviadas após a conexão de convidados recém-adicionados. Por favor, espere até que outras pessoas entrem na conversa para enviar mensagens.',
+    noPeersP2P: 'As mensagens não usam servidores para enviar e não podem ser reenviadas após a conexão de convidados recém-adicionados. Por favor, espere até que outras pessoas entrem na conversa para enviar mensagens.',
     noPeers: 'As mensagens não podem ser reenviadas após a conexão de convidados recém-adicionados. Por favor, espere até que outras pessoas entrem na conversa para enviar mensagens.',
     password: 'Criar senha para a sala',
     roomLocked: 'Esta sala está trancada. Você deseja bater para entrar?',
@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Recebendo arquivo...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> utiliza servidores para garantir transmissões de alta qualidade durante suas reuniões.<br/><br/>• Nunca temos acesso às suas comunicações neste modo.<br/><br/>• Todos os dados enviados através de nossos servidores são criptografados e bloqueados com chaves que apenas você e seus convidados têm acesso.<br/><br/><u>Se você precisar de segurança máxima,</u> você pode desativar nossos servidores e, em vez disso, usar o modo Peer-to-Peer.<br/><br/>• Neste modo, vídeos e áudios são enviados diretamente entre você e seus convidados, sem usar os servidores do xroom.app.<br/><br/>• Recomendamos o uso do modo Peer-to-Peer quando você espera ter uma reunião um a um.',
+    p2p: '<u>Esta plataforma</u> utiliza servidores para garantir transmissões de alta qualidade durante suas reuniões.<br/><br/>• Nunca temos acesso às suas comunicações neste modo.<br/><br/>• Todos os dados enviados através de nossos servidores são criptografados e bloqueados com chaves que apenas você e seus convidados têm acesso.<br/><br/><u>Se você precisar de segurança máxima,</u> você pode desativar nossos servidores e, em vez disso, usar o modo Peer-to-Peer.<br/><br/>• Neste modo, vídeos e áudios são enviados diretamente entre você e seus convidados, sem usar os servidores do sfu.<br/><br/>• Recomendamos o uso do modo Peer-to-Peer quando você espera ter uma reunião um a um.',
   },
   modes: {
     '1': 'Conferência: todo mundo pode falar',
