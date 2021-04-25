@@ -24,14 +24,14 @@ module.exports = {
     leave: 'Leave',
   },
   mbox: {
-    notSupported: 'Parece que este navegador no soporta xroom.app o WebRTC está deshabilitado. 😢',
+    notSupported: 'Parece que este navegador no es compatible con esta plataforma o WebRTC está deshabilitado. 😢',
     protoExpired: 'Versión del cliente es muy antigua. Presione Ctrl&nbsp;+&nbsp;Shift&nbsp;+&nbsp;F5 para volver a reiniciar. Si luego vuelve a ver este mensaje, borre la memoria caché del navegador manualmente.',
     areYouSure: '¿Estas seguro?',
     noPermission: 'No se pueden adquirir permisos de su browser. Asegúrese de que no estén bloqueados.',
     mediaBlocked: 'El acceso a la cámara está bloqueado. Asegúrese de no utilizarlo en otro browser o programa.',
     mediaError: 'You provided access to your hardware devices, but a local problem in your system prevented your device from being used. Please try another browser or another device.',
     whatIsYourName: '¿Cual es su nombre?',
-    noPeersP2P: 'No se usan los servidores de xroom.app para enviar mensajes y no se pueden reenviar cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
+    noPeersP2P: 'No se usan los servidores para enviar mensajes y no se pueden reenviar cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
     noPeers: 'No se pueden reenviar mensajes cuando nuevo invitados se conectan. Espere hasta que otros se hayan conectado al cuarto para enviar mensajes.',
     password: 'Crear contraseña',
     roomLocked: 'Esta habitación está cerrada. ¿Quieres tocar para entrar?',
@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Archivo entrando...',
   },
   hint: {
-    p2p: '<u>xroom.app</u> utiliza servidores para garantizar transmisiones de alta calidad durante sus reuniones.<br/><br/>• Nunca tenemos acceso a sus comunicaciones en este modo.<br/><br/>• Todos los datos enviados a través de nuestros servidores están encriptados y bloqueados con claves a las que solo usted y sus invitados tienen acceso.<br/><br/><u>Si necesita la máxima seguridad,</u> puede deshabilitar nuestros servidores y, en su lugar, utilizar Modo punto a punto.<br/><br/>• En este modo, el video y el audio se envían directamente entre usted y sus invitados sin usar servidores xroom.app.<br/><br/>• Recomendamos usar par modo-a-pares cuando anticipa tener una reunión 1:1.',
+    p2p: '<u>Esta plataforma</u> utiliza servidores para garantizar transmisiones de alta calidad durante sus reuniones.<br/><br/>• Nunca tenemos acceso a sus comunicaciones en este modo.<br/><br/>• Todos los datos enviados a través de nuestros servidores están encriptados y bloqueados con claves a las que solo usted y sus invitados tienen acceso.<br/><br/><u>Si necesita la máxima seguridad,</u> puede deshabilitar nuestros servidores y, en su lugar, utilizar Modo punto a punto.<br/><br/>• En este modo, el video y el audio se envían directamente entre usted y sus invitados sin usar servidores sfu.<br/><br/>• Recomendamos usar par modo-a-pares cuando anticipa tener una reunión 1:1.',
   },
   modes: {
     '1': 'Conferencia - todos pueden hablar',
