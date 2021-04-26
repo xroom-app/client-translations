@@ -77,7 +77,7 @@ module.exports = {
     incomingFile: 'Fichier entrant...',
   },
   hint: {
-    p2p: '<u>This platform</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using sfu servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
+    p2p: '<u>Cette plateforme utilise des serveurs pour assurer des transmissions de haute qualité pendant vos réunions.<br/><br/>• Nous n\'avons jamais accès à vos communications dans ce mode.<br/><br/>• Toutes les données envoyées par nos serveurs sont cryptées et verrouillées avec des clés auxquelles seuls vous et vos invités ont accès.<br/><br/><u>Si vous souhaitez une sécurité maximale,</u> vous pouvez désactiver nos serveurs et utiliser le mode Peer-to-Peer.<br/><br/>• Dans ce mode, la vidéo et l\'audio sont envoyés directement entre vous et vos invités sans passer par les serveurs SFU.<br/><br/>• Nous vous recommandons d\'utiliser le mode Peer-to-Peer lorsque vous prévoyez d\'avoir une réunion 1:1.',
   },
   modes: {
     '1': 'Conférence - Tout le monde peut participer',
