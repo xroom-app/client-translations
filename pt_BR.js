@@ -63,6 +63,7 @@ module.exports = {
     domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
     badLuck: 'Something went seriously wrong with the network. We will now try to reload your browser.',
     noEmbedding: 'Embedding protection is on. You may turn it off in the dashboard.',
+    pluginSuggested: 'Utilizador %s sugeriu para instalar o plugin %s. Continuar?',
   },
   notify: {
     slowPlugins: 'Muitos plug-ins podem causar tempos de carregamento mais lentos. Considere remover o maior.',

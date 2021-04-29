@@ -63,6 +63,7 @@ module.exports = {
     domainNotPaid: 'Этот домен был временно деактивирован из-за просроченного платежа. Сейчас мы перенаправим вас на бесплатную версию.',
     badLuck: 'Что-то серьёзно не так с сетью. Мы попробуем перезагрузить браузер.',
     noEmbedding: 'Embedding protection is on. You may turn it off in the dashboard.',
+    pluginSuggested: 'Пользователь %s предлагает установить плагин %s. Ставим?',
   },
   notify: {
     slowPlugins: 'Слишком много плагинов замедляет загрузку страницы.',
