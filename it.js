@@ -192,7 +192,7 @@ module.exports = {
     btnPreview: 'Anteprima',
     avaPicker: 'Scegli L\'avatar (viene visualizzato quando il video è disattivato)',
     sizeLimitReached: 'Questa stanza ha una capacità limitata ed è stato raggiunto il limite',
-    roomBooked: 'Ci sarà presto un evento in questa stanza: <span>%s</span>.<br/>Attendi fino alL\'inizio della riunione.',
+    roomBooked: 'Ci sarà presto un evento in questa stanza: <span>%s</span>.<br/>Attendi fino all\'inizio della riunione.',
     roomInfo: 'Informazioni della stanza',
     phInfo: 'Inserisci le informazioni della stanza',
     pendingAdmission: 'Attendi finchè L\'host non ti farà accedere.',
