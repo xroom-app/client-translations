@@ -77,6 +77,12 @@ module.exports = {
     hostMutedVideo: 'Host turned off your camera',
     incomingFile: 'Incoming file...',
   },
+  upsell: {
+    hd: 'HD video',
+    notFree: '<b>%s</b> is only available with your own spaces. Try it right now for free.',
+    startTrial: 'Start a trial',
+    notInterested: 'Not interesting',
+  },
   hint: {
     p2p: '<u>This platform</u> uses servers to ensure high quality transmissions during your meetings.<br/><br/>• We never have access to your communications in this mode.<br/><br/>• All data sent through our servers is encrypted and locked with keys only you and your guests have access to.<br/><br/><u>If you require maximum security,</u> you may disable our servers and instead use Peer-to-Peer mode.<br/><br/>• In this mode video and audio are sent directly between you and your guests without using sfu servers.<br/><br/>• We recommend using peer-to-peer mode when you anticipate having a 1:1 meeting.',
   },

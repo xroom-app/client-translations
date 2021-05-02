@@ -77,6 +77,12 @@ module.exports = {
     hostMutedVideo: 'Isäntä sulki kamerasi',
     incomingFile: 'Saapuva tiedosto...',
   },
+  upsell: {
+    hd: 'HD video',
+    notFree: '<b>%s</b> is only available with your own spaces. Try it right now for free.',
+    startTrial: 'Start a trial',
+    notInterested: 'Not interesting',
+  },
   hint: {
     p2p: '<u>Tämä alusta</u> käyttää palvelimia varmistaakseen korkealaatuiset lähetykset kokoustesi aikana.<br/><br/> • Emme voi koskaan käyttää viestejäsi tässä tilassa. <br/> <br/> • Kaikkien palvelimiemme kautta lähetetyt tiedot on salattu ja lukittu avaimilla, joihin vain sinulla ja vieraillasi on pääsy. <br/> <br/> <u> Jos tarvitset maksimaalista suojausta, </u> voit poistaa palvelimemme käytöstä, ja käyttää sen sijaan vertaistilaa. <br/> <br/> • Tässä tilassa video ja ääni lähetetään suoraan sinun ja vieraidesi välillä ilman sfu-palvelimia. <br/> <br/> • Suosittelemme käyttämään vertaisverkkotilaa, kun aiot pitää kahdenkeskisen kokouksen.',
   },

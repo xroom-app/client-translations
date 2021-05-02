@@ -77,6 +77,12 @@ module.exports = {
     hostMutedVideo: 'Hosten har stängt av din kamera',
     incomingFile: 'Inkommande fil...',
   },
+  upsell: {
+    hd: 'HD video',
+    notFree: '<b>%s</b> is only available with your own spaces. Try it right now for free.',
+    startTrial: 'Start a trial',
+    notInterested: 'Not interesting',
+  },
   hint: {
     p2p: '<u>Denna plattform</u> använder servrar för att säkerställa sändning av hög kvalitet under dina möten.<br/><br/>• Vi har aldrig tillgång till din kommunikation i det här läget.<br/><br/>• All data som skickas via våra servrar är krypterad och låst med nycklar som bara du och dina gäster har tillgång till.<br/><br/><u> Om du behöver maximal säkerhet</u> kan du inaktivera våra servrar och istället använda Peer-to-Peer-läge.<br/><br/>• I detta läge skickas video och ljud direkt mellan dig och dina gäster utan att använda sfu servrar.<br/><br/>• Vi rekommenderar att du använder peer-to-peer-läge när du räknar med att ha ett 1:1-möte.',
   },

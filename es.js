@@ -77,6 +77,12 @@ module.exports = {
     hostMutedVideo: 'Host apagó su cámara',
     incomingFile: 'Archivo entrando...',
   },
+  upsell: {
+    hd: 'HD video',
+    notFree: '<b>%s</b> is only available with your own spaces. Try it right now for free.',
+    startTrial: 'Start a trial',
+    notInterested: 'Not interesting',
+  },
   hint: {
     p2p: '<u>Esta plataforma</u> utiliza servidores para garantizar transmisiones de alta calidad durante sus reuniones.<br/><br/>• Nunca tenemos acceso a sus comunicaciones en este modo.<br/><br/>• Todos los datos enviados a través de nuestros servidores están encriptados y bloqueados con claves a las que solo usted y sus invitados tienen acceso.<br/><br/><u>Si necesita la máxima seguridad,</u> puede deshabilitar nuestros servidores y, en su lugar, utilizar Modo punto a punto.<br/><br/>• En este modo, el video y el audio se envían directamente entre usted y sus invitados sin usar servidores sfu.<br/><br/>• Recomendamos usar par modo-a-pares cuando anticipa tener una reunión 1:1.',
   },
