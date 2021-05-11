@@ -16,7 +16,7 @@ module.exports = {
     next: 'Seuraava',
     back: 'Takaisin',
     retry: 'Yritä uudelleen',
-    dismiss: 'Hylkää',
+    dismiss: 'Sulje',
     allow: 'Salli',
     stop: 'Lopeta',
     decideLater: 'Päätä myöhemmin',
