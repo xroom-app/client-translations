@@ -58,7 +58,7 @@ module.exports = {
     p2pInfo: 'P2P mode disables the use of our centralized servers.<br/><u>Room stability will then be dependent on your network.</u><br/>Recommended for private meetings of 2 people.',
     confirmKick: 'Are you sure you wish to remove %s from this room?',
     comingSoon: 'This feature is coming soon.',
-    audioChanged: 'Audio input device added. Do you want to select which one to use now?',
+    audioChanged: 'Input device added. Do you want to select which one to use now?',
     domainNotSetUp: 'This domain has not yet been set up. If you are its owner please do it in the dashboard. We will now forward you to our free service.',
     domainNotPaid: 'Your account has been temporarily deactivated due to not being current on payments. We will now forward you to our free service.',
     badLuck: 'Something went seriously wrong with the network. We will now try to reload your browser.',
