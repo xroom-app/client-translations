@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'Rummet är borttaget. Du kommer omdirigeras till startsidan.',
     encInfo: 'Kryptering: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Kryptering stöds inte',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'Avatarfilen är för stor. Vänligen använd enkla vectorbilder istället.',
     cannotLoadPlugin: 'Plugin "%s" stöder inte din webläsare',
     confirmLeave: 'Vill du verkligen lämna samtalet?',

@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'রুম মুছে ফেলা হয়েছে। আপনাকে প্রারম্ভিক পৃষ্ঠায় পুনর্নির্দেশ করা হবে।',
     encInfo: 'এনক্রিপশন: এন্ড-টু-এন্ড, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'এনক্রিপশন সমর্থিত নয়।',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'ফাইলের আকার খুব বড়। পরিবর্তে সহজ ভেক্টর চিত্র ব্যবহার করুন।',
     cannotLoadPlugin: '"%s" প্লাগিন টি  আপনার ব্রাউজারটি সমর্থন করে না।',
     confirmLeave: 'আপনি কি কলটি ছেড়ে যেতে চান?',

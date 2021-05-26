@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'The room has been deleted. You will be redirected to the starting page.',
     encInfo: 'Encryption: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Encryption not supported',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'Avatar file size is too big. Please use simple vector images instead.',
     cannotLoadPlugin: 'Plugin "%s" does not support your browser',
     confirmLeave: 'Are you sure you want to leave the call?',

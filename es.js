@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'El cuarto ha sido eliminado. Serás dirigido a la página de inicio.',
     encInfo: 'Encryption: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Encryption no es soportado',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'El tamaño del archivo de avatar es demasiado grande. Por favor utilice imágenes simples de vector.',
     cannotLoadPlugin: 'Plugin "%s" no es compatible con su browser',
     confirmLeave: '¿Estás seguro que quiere dejar la llamada?',

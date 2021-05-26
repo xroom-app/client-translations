@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'A sala foi excluída. Você será redirecionado para a página inicial.',
     encInfo: 'Criptografia: peer-to-peer, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Encriptação não compatível',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'O tamanho do arquivo de avatar é muito grande. Em vez disso, use imagens vetoriais simples.',
     cannotLoadPlugin: 'O plug-in "%s" não é compatível com o seu navegador',
     confirmLeave: 'Tem certeza de que deseja sair da chamada?',

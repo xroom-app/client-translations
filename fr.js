@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'La réunion a été supprimée. Vous allez être redirigé vers le dashboard.',
     encInfo: 'Chiffrement : bout-en-bout, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Chiffrement non supporté',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'La taille du fichier Avatar est trop importante. Veuillez utiliser des images moins volumineuses à la place.',
     cannotLoadPlugin: 'Le plugin "%s" n\'est pas compatible avec votre navigateur.',
     confirmLeave: 'Êtes vous sûr de vouloir quitter la réunion ?',

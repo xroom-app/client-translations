@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'Huone on poistettu. Sinut uudelleenohjataan aloitussivulle.',
     encInfo: 'Encryption: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Salausta ei tueta.',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'Avatar-tiedoston koko on liian suuri. Käytä sen sijaan yksinkertaisia vektorikuvia.',
     cannotLoadPlugin: 'Selaimesi ei tue "%s" kytkentää',
     confirmLeave: 'Oletko varma, että haluat lopettaa tapaamisen?',

@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'La stanza è stata eliminata. Verrai reindirizzato alla pagina iniziale.',
     encInfo: 'Crittografia: end-to-end, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Crittografia non supportata',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'Le dimensioni del file avatar sono troppo grandi. Utilizza invece semplici immagini vettoriali.',
     cannotLoadPlugin: 'Il plug-in "%s" non supporta il tuo browser',
     confirmLeave: 'Sei sicuro di voler abbandonare la chiamata?',

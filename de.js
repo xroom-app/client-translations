@@ -46,6 +46,7 @@ module.exports = {
     roomDestroyed: 'Der Raum wurde entfernt. Du wirst zur Startseite weitergeleitet.',
     encInfo: 'Verschlüsselung: Ende-zu-Ende, ECDH+AES<br/>Hash: <code>%s</code>',
     encFailure: 'Die Verschlüsselung wird nicht unterstützt',
+    badBrowser: 'This user has a bad browser. Tell them not to use Safari or you may face bugs.',
     avaTooBig: 'Die Avatar Datei ist zu groß. Bitte benutze stattdessen einfache Vektorgrafiken.',
     cannotLoadPlugin: 'Das Plugin "%s" wird von deinem Browser nicht unterstützt',
     confirmLeave: 'Bist du dir sicher, dass du den Anruf verlassen möchtest?',
