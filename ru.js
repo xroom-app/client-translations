@@ -65,6 +65,7 @@ module.exports = {
     badLuck: 'Что-то серьёзно не так с сетью. Мы попробуем перезагрузить браузер.',
     noEmbedding: 'Embedding protection is on. You may turn it off in the dashboard.',
     pluginSuggested: 'Пользователь %s предлагает установить плагин %s. Ставим?',
+    noMoreRooms: 'Достигнут максимум количества комнат. Попросите владельца добавить их в личном кабинете.',
   },
   notify: {
     slowPlugins: 'Слишком много плагинов замедляет загрузку страницы.',

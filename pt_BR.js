@@ -65,6 +65,7 @@ module.exports = {
     badLuck: 'Something went seriously wrong with the network. We will now try to reload your browser.',
     noEmbedding: 'Embedding protection is on. You may turn it off in the dashboard.',
     pluginSuggested: 'Utilizador %s sugeriu para instalar o plugin %s. Continuar?',
+    noMoreRooms: 'Rooms limit is reached. Tell the owner to add more in the dashboard.',
   },
   notify: {
     slowPlugins: 'Muitos plug-ins podem causar tempos de carregamento mais lentos. Considere remover o maior.',
