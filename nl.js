@@ -5,7 +5,7 @@ module.exports = {
   netStatus: 'Connectie',
   buttons: {
     ok: 'Oké',
-    cancel: 'Annuler',
+    cancel: 'Annuleer',
     yes: 'Ja',
     no: 'Nee',
     chN: 'Keuze %s',
@@ -196,7 +196,7 @@ module.exports = {
   pre: {
     selectMode: 'Kies meeting type',
     selectedMode: 'Meeting type',
-    btnGo: 'Instappen',
+    btnGo: 'Deelnemen',
     btnPreview: 'Voorbeeld',
     avaPicker: 'Kies avatar (toont als de video is uitgeschakeld)',
     sizeLimitReached: 'Deze ruimte is beperkt in grootte en de limiet is bereikt',
